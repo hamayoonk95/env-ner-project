@@ -1,0 +1,291 @@
+acetone
+acetones
+acid rain
+aerosol cans
+aldrin
+aldrins
+algal bloom
+aluminium foil
+ammonia
+ammonias
+animal waste
+antibiotic
+antibiotics
+arsenic
+arsenics
+asbestos
+asbestoses
+ash
+ashes
+atrazine
+atrazines
+baby wipes
+balloon
+balloons
+battery acid
+benzene
+benzenes
+bisphenol a
+bleach
+bleaches
+body wash
+brake dust
+bromine
+bromines
+cadmium
+cadmiums
+caffeine
+caffeines
+carbon
+carbon dioxide
+carbon monoxide
+carbons
+cd
+cds
+cement dust
+cfc
+cfcs
+chlordane
+chlordanes
+chlorine
+chlorines
+cigarette butts
+cleaning products
+coal dust
+coes
+construction waste
+cotton swabs
+creosote
+creosotes
+cyanide
+cyanides
+ddt
+ddts
+deodorant sprays
+detergent
+detergents
+dichloromethane
+dichloromethanes
+diesel
+diesel fumes
+diesels
+dioxin
+dioxins
+dust
+dusts
+electronic waste
+endrin
+endrins
+engine oil
+ethanol
+ethanols
+ethylene glycol
+exhaust gas
+expired medicine
+fabric softener
+fece
+feces
+fertiliser
+fertiliser runoff
+fertilisers
+fireworks residue
+fluorinated gases
+fluorine
+fluorines
+food waste
+formaldehyde
+formaldehydes
+fume
+fumes
+furan
+furans
+gasoline
+gasolines
+glass shards
+glue
+glues
+glyphosate
+glyphosates
+gravel dust
+grease
+greases
+hair dye
+hcl
+hcls
+heat
+heats
+heavy metals
+heptachlor
+heptachlors
+herbicide
+herbicide residue
+herbicides
+hexachlorobenzene
+hexachlorobenzenes
+hexavalent chromium
+hf
+hfc
+hfcs
+hfs
+hg
+hgs
+household chemicals
+ibuprofen
+ibuprofens
+incense smoke
+industrial runoff
+industrial smoke
+industrial waste
+ink
+inks
+insecticide
+insecticides
+iodine
+iodines
+kerosene
+kerosenes
+laundry detergent
+light
+lights
+litter
+litters
+lotion
+lotions
+manure
+manures
+medical waste
+mercuries
+mercury
+methane
+methanes
+methanol
+methanols
+microbead
+microbeads
+microplastic
+microplastics
+mining runoff
+mirex
+mirexes
+motor oil
+mould spores
+mtbe
+mtbes
+nail polish remover
+naphthalene
+naphthalenes
+naproxen
+naproxens
+needle
+needles
+nitrate
+nitrates
+nitrogen dioxide
+noise
+noises
+nox
+noxes
+nylon
+nylons
+oil spill
+ozone
+ozones
+pah
+pahs
+paint
+paint thinner
+paints
+particulate matter
+party confetti
+pb
+pbs
+pcb
+pcbs
+perchloroethylene
+perchloroethylenes
+perfluorooctanoic acid
+perfume
+perfumes
+pesticide
+pesticide residue
+pesticides
+pharmaceutical
+pharmaceuticals
+phenol
+phenols
+phosphate
+phosphates
+phthalate
+phthalates
+plastic
+plastic beads
+plastic bottles
+plastic particles
+plastic straws
+plastic wrap
+plastics
+power plant emissions
+printer toner
+radiation
+radiations
+radioactive waste
+radon
+radons
+refinery waste
+road salt
+rubber
+rubbers
+sanitary pads
+sewage
+sewages
+shampoo
+shampoos
+shopping bags
+smog
+smogs
+smoke
+smokes
+solvent
+solvents
+soot
+soots
+styling gel
+styrene
+styrenes
+styrofoam
+styrofoams
+sugarcane ash
+sulfur dioxide
+sunscreen
+sunscreens
+synthetic chemicals
+synthetic dyes
+tampon
+tampons
+tar
+tars
+thermal pollution
+toluene
+toluenes
+toxaphene
+toxaphenes
+toxic algae
+trichloroethylene
+trichloroethylenes
+triclosan
+triclosans
+tritium
+tritiums
+uranium
+uraniums
+urine
+urines
+used tissues
+vehicle exhaust
+vinyl chloride
+wastewater
+wastewaters
+wrapper
+wrappers
+xylene
+xylenes

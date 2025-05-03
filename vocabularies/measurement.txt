@@ -1,0 +1,112 @@
+air quality index
+aqi
+aqis
+atmospheric temperature
+average temperature
+barometric pressure
+bod
+bods
+bulk density
+carbon flux
+carbon footprint
+carbon intensity
+carbon sequestration rate
+carcinogenic potential
+chloride concentration
+chlorophyll concentration
+climate index
+climate sensitivity
+co level
+conductivities
+conductivity
+crop yield
+current velocity
+daylight duration
+decibel level
+dew point
+discharge
+discharges
+dissolved oxygen
+emission factor
+emission rate
+enso index
+environmental quality index
+evapotranspiration
+evapotranspirations
+exposure level
+fertilizer application rate
+ghg emissions
+glacial melt rate
+global temperature anomaly
+grazing intensity
+greenhouse gas concentration
+groundwater depth
+heat index
+humidities
+humidity
+ice cover extent
+ice thickness
+irradiance
+irradiances
+lake level
+leaf area index
+lethal dose
+light intensity
+loael
+loaels
+marine debris concentration
+maximum temperature
+methane concentration
+minimum temperature
+noael
+noaels
+noise level
+nutrient load
+ocean acidity
+ocean ph
+oxygen concentration
+ozone concentration
+permafrost depth
+pesticide residue level
+photosynthetic rate
+phytoplankton density
+plant biomass
+pollution index
+precipitation
+precipitations
+relative humidity
+river discharge
+salinities
+salinity
+sea surface temperature
+snowfall
+snowfalls
+soil erosion rate
+soil moisture
+soil nitrogen
+soil organic matter
+soil ph
+soil phosphorus
+soil salinity
+soil temperature
+streamflow
+streamflows
+sunlight hours
+surface temperature
+temperature
+temperatures
+thermal conductivity
+tidal amplitude
+toxic concentration
+turbidities
+turbidity
+uv index
+voc levels
+water flow
+water level
+water ph
+water salinity
+water table
+wave height
+wind direction
+wind speed
