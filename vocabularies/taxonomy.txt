@@ -3232,7 +3232,7 @@ axilspot wrasse
 axis deer
 axolotl
 axolotls
-ayeaye
+aye-aye
 ayeayes
 ayre ' black uacari
 ayre hawkeagle
@@ -16127,6 +16127,8 @@ coroneted fruit dove
 coronets
 corporal
 corporals
+corpse flower
+corpse flowers
 corpulent hornsnail
 corpulent ramhorn
 corpulent ramshorn
@@ -43329,16 +43331,12 @@ olalla brother titi
 olallas ' titi
 old cuban dancing leaf
 old glory
-old maid
-old man
 old man dart
 old man red snapper
 old man snapper
 old mans face crab
 old prairie digger
 old soaker
-old wife
-old woman
 old woman angelfish
 old woman octopus
 old woman wrasse
@@ -47360,10 +47358,8 @@ pipefish
 pipehorse
 pipehorses
 pipeorgan coral
-piper
 piper gurnard
 piper woodrush
-pipers
 pipestem clematis
 pipevine swallowtail
 piping hornbill
@@ -59351,7 +59347,6 @@ solanum mealybug
 solarfin wrasse
 soldatov catfish
 soldatov gudgeon
-soldier
 soldier beetle
 soldier bream
 soldier brush shrimp
@@ -59368,7 +59363,6 @@ soldierbreams
 soldiercroaker
 soldiercroakers
 soldierfish
-soldiers
 sole
 sole flounder
 soledad desertsnail
@@ -67790,6 +67784,7 @@ valparaiso chromis
 valuable hawkweed
 valve snail
 vampire bat
+vampire bats
 vampire ground finch
 vampire groundfinch
 vampire shrimp
