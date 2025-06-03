@@ -21493,7 +21493,7 @@ eyrean grasswren
 ezell cave amphipod
 ezo giant scallop
 ezo neptune
-f cichlid
+cichlid
 faber bushcricket
 facciola sorcerer
 face fly
@@ -34552,7 +34552,6 @@ lazuli kingfisher
 lazuline sabrewe
 lazy cisticola
 lazy snake
-le
 le codfish
 le conte sparrow
 le conte thrasher
@@ -37308,7 +37307,6 @@ madagascar yellowbrow
 madai
 madais
 madamango sea catfish
-madame x
 madang sole
 madanga
 madangas
@@ -41124,7 +41122,7 @@ mystery grouper
 mystic leaf roller
 mystus catfish
 mzab gundi
-n. atlantic salmon
+atlantic salmon
 nabarlek
 nabarleks
 nabeul tortoise
@@ -42855,8 +42853,6 @@ nymphlike grasshopper
 nythos island cricket
 nzoia barb
 o'connell spinyrat
-o'o a'a
-oahu ' o'o
 oahu akepa
 oahu alauahio
 oahu amakihi
@@ -68553,7 +68549,6 @@ vulturine parrot
 vulturine ray
 vundu
 vundus
-w. i. brotulid
 wa thin stickinsect
 wabash pigtoe
 wabash riffleshell
@@ -71532,7 +71527,6 @@ wyoming pocket gopher
 wyoming toad
 wyre forest bramble
 wyville crownjelly
-x
 xanthippe shrew
 xantic sargo
 xantus ' murrelet

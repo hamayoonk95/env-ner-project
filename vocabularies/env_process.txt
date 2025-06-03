@@ -39,8 +39,6 @@ climatologies
 climatology
 cloud
 clouds
-cold
-colds
 continental climate
 cyclone
 cyclones
