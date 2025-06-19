@@ -120,7 +120,6 @@ built drainage system
 built environment
 built structure
 built-up area
-bus
 bus station
 cadmium contamination
 camping site
@@ -194,7 +193,6 @@ construction of installations
 construction technology
 construction with recycled material
 construction work
-contaminated area
 contaminated soil
 contamination
 continental climate
@@ -209,7 +207,6 @@ crossing place for animals
 cultural facility
 cycle path
 cyclone
-dam
 dangerous installation
 de-inking
 dead organic matter
@@ -241,7 +238,6 @@ direct greenhouse gas emissions
 disposal of warfare materials
 distillation
 district heating plant
-disused military site
 documentation centre
 domestic pollution
 domestic waste landfill
@@ -254,7 +250,6 @@ duration of sunshine
 dust
 dust immission
 dwelling
-dyke
 dyke reinforcement
 dynamical ice loss
 earth observation
@@ -365,7 +360,6 @@ global warming
 government building
 green building
 green tide
-greenbelt
 greenhouse effect
 greenhouse gas
 greenhouse gas emissions
@@ -428,15 +422,12 @@ indirect greenhouse gas emissions
 individual waste water treatment
 indoor air pollution
 indoor environment
-industrial area
 industrial building
 industrial effluent
 industrial emission
 industrial fume
 industrial installation
-industrial plant (building)
 industrial pollution
-industrial site
 industrial sludge
 industrial waste
 industrial waste gas
@@ -557,7 +548,6 @@ nuclear facility
 nuclear power plant
 nuclear reactor
 nuclear research centre
-nursery garden
 nutrient content
 nutrient removal
 observation satellite
@@ -721,7 +711,6 @@ rain forest
 rain water
 rain water sewer system
 rainout
-raising a site
 red tide
 refinery
 release of organisms
@@ -742,13 +731,9 @@ rinsing
 rising sea level
 river disposal
 river pollution
-road
 road construction
 road construction material
 road network
-rock wool
-route
-rural habitat
 rural settlement
 safety standard for building
 salination
@@ -759,11 +744,9 @@ sanitary fitting
 saprobic index
 satellite
 satellite image
-school
 sea level
 sea level rise
 sea outfall
-seal (technical)
 sealed area
 sealing
 seaside footpath
@@ -784,20 +767,14 @@ sewage disposal
 sewage farm
 sewage treatment system
 sewerage system
-shelter
 ship garbage
 ship waste disposal
-shipping accident
-shooting range
-shop
-shopping centre
 shunting yard
 sick building syndrome
 silo
 silting up
 single family dwelling
 sinking of waste
-ski run
 skyline destruction
 slaughterhouse
 sludge digestion
@@ -837,7 +814,6 @@ spatial distribution
 special industrial waste
 special waste
 spillage
-spoil dump
 sports facility
 sprayed asbestos
 square
@@ -851,7 +827,6 @@ stone
 storage dam
 storm
 storm damage
-storm water basin
 stratosphere
 stratospheric ozone depletion
 structure-activity relationship
@@ -863,7 +838,6 @@ sudden load
 supervision of building works
 suspended matter
 tank farm
-tar
 temperate climate
 temporary shelter
 temporary storage
@@ -879,7 +853,6 @@ timber
 tornado
 total organic carbon
 tourist facility
-touristic route
 touristic unit
 toxic effect
 toxic pollution
@@ -901,13 +874,9 @@ tree nursery
 trickling filter
 trophic level
 tropical climate
-tropical rain forest
-tropics
 troposphere
 tropospheric ozone
 trunk road
-tundra
-tunnel
 turbidity
 twin-hull craft
 typhoon
@@ -919,13 +888,10 @@ unleaded petrol
 urban ecology charter
 urban facility
 urban green
-urban pollutant
 urban pollution
-urban settlement
 urban traffic
 urban waste water
 urban waste water treatment
-used water
 utilisation of pesticides
 vapour recovery system
 vehicle exhaust gas
@@ -996,8 +962,5 @@ wet scrubber
 wind
 wind power station
 windmill
-winter sports resort
-worked-out open cut
 world biocapacity
 xenobiotic substance
-zoological garden
