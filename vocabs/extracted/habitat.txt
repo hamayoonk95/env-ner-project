@@ -1,24 +1,19 @@
 abandoned industrial site
-accidental release of organisms
-afforestation
-afforestations
 agricultural landscape
 alluvial plain
 altitude
 altitudes
 amusement park
 anaerobic lagoon
-animal displacement
 animal habitat
-animal species reintroduction
+animal conservatory
+species reintroduction
 antarctic ecosystem
 anthropologic reserve
 aquatic environment
 arboretum
 arboretums
 arctic ecosystem
-area of potential pollution
-area under stress
 arid land
 arid land ecosystem
 artificial lake
@@ -34,8 +29,6 @@ bee conservation
 benthic division
 benthic ecosystem
 biodiversity conservation
-biodiversity protection
-biological monitoring
 biological reserve
 biosphere reserve
 biotope
@@ -72,15 +65,8 @@ climaxes
 coast
 coast protection
 coastal area
-coastal development
-coastal ecosystem
-coastal environment
-coastal erosion
-coastal pollution
-coastal zone planning
 coasts
 cold zone ecosystem
-concept of environment
 coniferous forest
 coniferous wood
 conservation policy
@@ -102,13 +88,9 @@ deciduous forest
 deciduous tree
 deforestation
 deforestations
-degradation of the environment
 delta
 deltas
 desert
-desertification
-desertification control
-desertifications
 deserts
 disaster zone
 distribution area
@@ -120,31 +102,9 @@ dry lawn
 dune
 dunes
 dyke
-dyke reinforcement
 dykes
-dynamical ice loss
-eco-balance
-eco-balances
-ecodevelopment
-ecodevelopments
-ecological assessment
-ecological civilisation
-ecological niche
-ecological parameter
-ecological status
-ecological stocktaking
 ecologically sensitive area
 ecosystem
-ecosystem assessment
-ecosystem boundary
-ecosystem degradation
-ecosystem interaction
-ecosystem process
-ecosystem resilience
-ecosystem services
-ecosystem stability
-ecosystem type
-ecosystem vulnerability
 ecosystems
 ecotoxicities
 ecotoxicity
@@ -154,14 +114,6 @@ ecotypes
 ecozone
 ecozones
 english garden
-environmental accident
-environmental assessment
-environmental assessment criterion
-environmental compatibility
-environmental conservation
-environmental criterion
-environmental impact of forestry
-environmental monitoring
 estuaries
 estuarine conservation area
 estuarine ecosystem
@@ -179,16 +131,6 @@ fields
 fishing preserve
 flora restoration
 forest
-forest biological reserve
-forest cover destruction
-forest damage
-forest deterioration
-forest ecosystem
-forest fire
-forest pest
-forest protection
-forest reserve
-forest resource
 forestry unit
 forests
 french formal garden
@@ -198,7 +140,6 @@ garrigue
 garrigues
 glacier
 glaciers
-good ecological status
 grass fire
 grassland
 grassland ecosystem
@@ -208,15 +149,9 @@ grazing
 grazings
 green corridor
 green space
-greenbelt
-greenbelts
-groundwater protection
 gulf
 gulfs
 habitat
-habitat destruction
-habitat loss
-habitats
 hazard area
 heathland
 heathlands
@@ -232,12 +167,6 @@ home garden
 hunting reserve
 hydrographic basin
 ice sheet
-ice sheet mass balance
-impact assessment
-impact minimisation
-impact prevention
-indicator of environmental management
-indicator-based assessment
 indigenous forest
 industrial area
 industrial wasteland
@@ -245,12 +174,7 @@ inland water
 integral natural reserve
 integrated environmental assessment
 international river basin
-internationally important ecosystem
 intertidal zone
-intervention in nature and landscape
-intervention on land
-introduction of animal species
-introduction of plant species
 island
 island ecosystem
 islands
@@ -262,48 +186,11 @@ lagoons
 lake
 lake basin
 lakes
-land
-land allotment
-land clearing
-land conservation
-land consolidation
-land cover
-land degradation
-land development
-land ecology
-land forming
-land management and planning
-land occupation
-land planning
-land pollution
-land reclamation
-land register
-land restoration
-land restoration in mountain areas
-land setup
-land use
-land use classification
-land use plan
-land use planning
-land use regime
 land-management intervention area
 landform
 landforms
 lands
 landscape
-landscape after mining
-landscape alteration
-landscape architecture
-landscape component
-landscape conservation
-landscape conservation policy
-landscape consumption
-landscape ecology
-landscape management
-landscape planning
-landscape protection
-landscape protection area
-landscape utilisation
 landscapes
 landslide
 landslides
@@ -326,38 +213,23 @@ mediterranean wood
 microecosystem
 microecosystems
 mine filling
-mining district
 mining site restoration
 mixed forest
 moor
 moors
 mountain
-mountain ecosystem
-mountain forest
-mountain management
-mountain protection
-mountain range
-mountain refuge
 mountainous area
-mountains
 mud flat
 multiple use management area
 national park
 national reserve
 natural area
-natural areas protection
 natural environment
 natural forest
-natural heritage assessment
 natural monument
 natural park
-natural regeneration
 natural resource conservation
 natural scenery
-natural value
-nature conservation
-nature conservation programme
-nature protection
 nature reserve
 nesting area
 non-built-up area
@@ -365,10 +237,6 @@ non-forested land
 nursery garden
 open lawn
 opencast mining
-overfertilisation
-overfertilisations
-overgrazing
-overgrazings
 pasture
 pastures
 peat extraction
@@ -413,7 +281,6 @@ refuges
 regional natural park
 regional plan
 registered site
-remote sensing
 renaturation
 renaturations
 reserve
@@ -437,8 +304,6 @@ river channelling
 river management
 rivers
 riverside vegetation
-rock
-rocks
 rural area
 rural environment
 rural habitat
@@ -447,7 +312,6 @@ salinas
 salt marsh
 salt meadow
 sand dune
-sand dune fixation
 sand flat
 sand pit
 sea bed
@@ -461,19 +325,12 @@ sensitive area
 sensitive ecosystem
 sensitive environment
 sensitive natural area
-shelter
-shelters
 shrub
 shrubs
-site protection
 site rehabilitation
-ski run
-skyline destruction
-slash and burn culture
 slope
 slopes
 soil use regime
-spoil dump
 state biological reserve
 state forest
 storm water basin
@@ -492,14 +349,11 @@ terrestrial environment
 territories
 territory
 timber forest
-touristic route
 touristic zone
-tropic
 tropical ecosystem
 tropical forest
 tropical forest ecosystem
 tropical rain forest
-tropics
 tundra
 tundras
 underground ecosystem
@@ -539,11 +393,9 @@ wildernesses
 wildlife sanctuary
 windfall
 windfalls
-winter sports resort
 wood
 wood resource
 woodland ecosystem
 woods
-worked-out open cut
 world heritage site
 zoological garden

@@ -1,0 +1,574 @@
+agricultural landscape
+agricultural landscapes
+alluvial plain
+alluvial plains
+altitude
+altitudes
+anaerobic lagoon
+anaerobic lagoons
+animal habitat
+animal habitats
+antarctic ecosystem
+antarctic ecosystems
+anthropologic reserve
+anthropologic reserves
+aquatic environment
+aquatic environments
+arboretum
+arboretums
+arctic ecosystem
+arctic ecosystems
+arid land
+arid land ecosystem
+arid land ecosystems
+arid lands
+artificial lake
+artificial lakes
+artificial land
+artificial lands
+bank protections
+barrier beach
+barrier beaches
+barrier reef
+barrier reefs
+bay
+bays
+beach
+beaches
+bee conservation
+bee conservations
+benthic division
+benthic divisions
+benthic ecosystem
+benthic ecosystems
+biodiversity conservation
+biodiversity conservations
+biological reserve
+biological reserves
+biosphere reserve
+biosphere reserves
+biotope
+biotope network
+biotope networks
+biotope order
+biotope orders
+biotope protection
+biotope protections
+biotopes
+bird sanctuaries
+bird sanctuary
+bocage
+bocages
+bog
+bogs
+boreal forest dieback
+boreal forest diebacks
+botanical garden
+botanical gardens
+brook
+brooks
+brushwood
+brushwoods
+camping site
+camping sites
+canyon
+canyons
+catchment area
+catchment areas
+categories of endangered species
+category of endangered species
+cave
+caves
+central park area
+central park areas
+classified site
+classified sites
+clean air area
+clean air areas
+cliff
+cliffs
+coast
+coast protection
+coast protections
+coastal area
+coastal areas
+coasts
+cold zone ecosystem
+cold zone ecosystems
+coniferous forest
+coniferous forests
+coniferous wood
+coniferous woods
+contaminated area
+contaminated areas
+controlled hunting zone
+controlled hunting zones
+coppice
+coppice with standards
+coppices
+coppices with standards
+coral reef
+coral reef lagoon
+coral reef lagoons
+coral reefs
+covered anaerobic lagoon
+covered anaerobic lagoons
+creek
+creeks
+cultural ecosystem services
+cultural ecosystem servicess
+deciduous forest
+deciduous forests
+deciduous tree
+deciduous trees
+delta
+deltas
+desert
+deserts
+disaster zone
+disaster zones
+distribution area
+distribution areas
+disused military site
+disused military sites
+ditch
+ditches
+drinking water protection area
+drinking water protection areas
+dry lawn
+dry lawns
+dune
+dunes
+dyke
+dykes
+ecologically sensitive area
+ecologically sensitive areas
+ecosystem
+ecosystems
+ecotoxicities
+ecotoxicity
+ecotoxicological evaluation
+ecotoxicological evaluations
+ecotype
+ecotypes
+ecozone
+ecozones
+english garden
+english gardens
+estuaries
+estuarine conservation area
+estuarine conservation areas
+estuarine ecosystem
+estuarine ecosystems
+estuary
+estuary pollution
+estuary pollutions
+european nature reserve
+european nature reserves
+excavation site
+excavation sites
+fallow area
+fallow areas
+fallow land
+fallow lands
+fen
+fens
+fishing preserve
+fishing preserves
+forest
+forestry unit
+forestry units
+forests
+french formal garden
+french formal gardens
+garden
+gardens
+garrigue
+garrigues
+glacier
+glaciers
+grassland
+grassland ecosystem
+grassland ecosystems
+grasslands
+gravel pit
+gravel pits
+green corridor
+green corridors
+green space
+green spaces
+gulf
+gulfs
+habitat
+habitats
+hazard area
+hazard areas
+heathland
+heathlands
+hedge
+hedges
+high mountain
+high mountains
+highland ecosystem
+highland ecosystems
+hiking trail
+hiking trails
+hill
+hills
+holiday camp
+holiday camps
+home garden
+home gardens
+hunting reserve
+hunting reserves
+hydrographic basin
+hydrographic basins
+ice sheet
+ice sheets
+indigenous forest
+indigenous forests
+industrial area
+industrial areas
+industrial wasteland
+industrial wastelands
+inland water
+inland waters
+integral natural reserve
+integral natural reserves
+integrated environmental assessment
+integrated environmental assessments
+international river basin
+international river basins
+intertidal zone
+intertidal zones
+island
+island ecosystem
+island ecosystems
+islands
+karst
+karst area
+karst areas
+karsts
+lagoon
+lagoons
+lake
+lake basin
+lake basins
+lakes
+land-management intervention area
+land-management intervention areas
+landform
+landforms
+landscape
+landscapes
+landslide
+landslides
+littoral
+littorals
+mangrove
+mangrove swamp
+mangrove swamps
+maqui
+maquis
+marginal land
+marginal lands
+marine conservation area
+marine conservation areas
+marine environment
+marine environments
+marine park
+marine parks
+marine reserve
+marine reserves
+marsh
+marshes
+meadow
+meadows
+mediterranean forest
+mediterranean forests
+mediterranean wood
+mediterranean woods
+microecosystem
+microecosystems
+mine filling
+mine fillings
+mining site restoration
+mining site restorations
+mixed forest
+mixed forests
+moor
+moors
+mountain
+mountainous area
+mountainous areas
+mountains
+mud flat
+mud flats
+multiple use management area
+multiple use management areas
+national park
+national parks
+national reserve
+national reserves
+natural area
+natural areas
+natural environment
+natural environments
+natural forest
+natural forests
+natural monument
+natural monuments
+natural park
+natural parks
+natural resource conservation
+natural resource conservations
+natural sceneries
+natural scenery
+nature reserve
+nature reserves
+nesting area
+nesting areas
+non-built-up area
+non-built-up areas
+non-forested land
+non-forested lands
+nursery garden
+nursery gardens
+open lawn
+open lawns
+opencast mining
+opencast minings
+pasture
+pastures
+peat extraction
+peat extractions
+peripheral park area
+peripheral park areas
+periurban space
+periurban spaces
+permafrost ecosystem
+permafrost ecosystems
+photogrammetries
+photogrammetry
+physical planning
+physical plannings
+plain
+plains
+planning measure
+planning measures
+plant species reintroduction
+plant species reintroductions
+polar ecosystem
+polar ecosystems
+polar region
+polar regions
+polder
+polders
+polluted site
+polluted sites
+pond
+ponds
+pool
+pools
+primary forest
+primary forests
+private forest
+private forests
+protected area
+protected areas
+protected landscape
+protected landscapes
+public park
+public parks
+quarries
+quarry
+radiation damage
+radiation damages
+radiation effect
+radiation effects
+rain forest
+rain forests
+recreational area
+recreational areas
+reef
+reefs
+regional natural park
+regional natural parks
+regional plan
+regional plans
+registered site
+registered sites
+reserve
+reserves
+resource appraisal
+resource appraisals
+resource reserve
+resource reserves
+retarding basin
+retarding basins
+riparian zone
+riparian zones
+river
+river basin
+river basins
+river bed
+river beds
+rivers
+riverside vegetation
+riverside vegetations
+rural area
+rural areas
+rural environment
+rural environments
+rural habitat
+rural habitats
+salina
+salinas
+salt marsh
+salt marshes
+salt meadow
+salt meadows
+sand dune
+sand dunes
+sand flat
+sand flats
+sand pit
+sand pits
+sea bed
+sea beds
+sea grass bed
+sea grass beds
+seashore
+seashores
+secondary biotope
+secondary biotopes
+sedimentary basin
+sedimentary basins
+semi-arid land ecosystem
+semi-arid land ecosystems
+sensitive area
+sensitive areas
+sensitive ecosystem
+sensitive ecosystems
+sensitive environment
+sensitive environments
+sensitive natural area
+sensitive natural areas
+shrub
+shrubs
+site rehabilitation
+site rehabilitations
+slope
+slopes
+soil use regime
+soil use regimes
+state biological reserve
+state biological reserves
+state forest
+state forests
+storm water basin
+storm water basins
+subtropical ecosystem
+subtropical ecosystems
+swamp
+swamps
+temperate ecosystem
+temperate ecosystems
+temperate forest
+temperate forests
+temperate woodland
+temperate woodlands
+terraced garden
+terraced gardens
+terraced landscape
+terraced landscapes
+terrestrial area
+terrestrial areas
+terrestrial ecosystem
+terrestrial ecosystems
+terrestrial environment
+terrestrial environments
+territories
+territory
+timber forest
+timber forests
+touristic zone
+touristic zones
+tropical ecosystem
+tropical ecosystems
+tropical forest
+tropical forest ecosystem
+tropical forest ecosystems
+tropical forests
+tropical rain forest
+tropical rain forests
+tundra
+tundras
+underground ecosystem
+underground ecosystems
+unmanaged land
+unmanaged lands
+urban ecosystem
+urban ecosystems
+urban environment assessment
+urban environment assessments
+urban green
+urban greens
+urban habitat
+urban habitats
+urban landscape
+urban landscapes
+urban settlement
+urban settlements
+urban sprawl
+urban sprawls
+valley
+valleys
+valued ecosystem component
+valued ecosystem components
+vegetation cover
+vegetation covers
+volcanic area
+volcanic areas
+volcano
+volcanoes
+voluntary natural reserve
+voluntary natural reserves
+vulnerability assessment
+vulnerability assessments
+wadden sea
+wadden seas
+water catchment protection
+water catchment protections
+water protection area
+water protection areas
+water table protection
+water table protections
+watercourse
+watercourses
+waterfall
+waterfalls
+watershed management
+watershed managements
+waterside development
+waterside developments
+wetland
+wetlands
+wetlands ecosystem
+wetlands ecosystems
+wilderness
+wildernesses
+wildlife sanctuaries
+wildlife sanctuary
+windfall
+windfalls
+wood
+wood resource
+wood resources
+woodland ecosystem
+woodland ecosystems
+woods
+world heritage site
+world heritage sites
+zoological garden
+zoological gardens
