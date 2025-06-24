@@ -1,0 +1,957 @@
+acceptable daily intake
+acceptable risk level
+access road
+accidental release of organisms
+acid deposition
+acid rain
+activated sludge
+adaptation strategy
+adaptive capacity
+adsorption
+advection
+aerobic treatment
+afterburning
+agricultural building
+agricultural effluent
+agricultural pollution
+air conditioning
+air movement
+air pollutant emission inventory guidebook
+air pollution
+air quality monitoring
+air temperature
+air transportation
+air-water interaction
+aircraft engine emission
+albedo
+algal bloom
+allocation plan
+ames test
+anaerobic treatment
+anthropic activity
+anthropogenic
+anthropogenic greenhouse gas
+antipollution incentive
+antipollution premium
+antiquated plant
+aox value
+apartment block
+aqueduct
+archaeological site
+architecture
+area of potential pollution
+area under stress
+artificial lake
+artificial satellite
+asbestos
+astronautics
+astronomy
+atmospheric component
+atmospheric composition
+atmospheric emission
+atmospheric fallout
+atmospheric layering
+atmospheric ozone
+atmospheric pollution
+atmospheric precipitation
+atmospheric process
+atmospheric science
+atmospheric structure
+avalanche
+bacterial bed
+bacteriological pollution
+battery disposal
+beach cleansing
+bilge oil
+bilge water
+bio desulfurization
+bioaccumulation
+bioaccumulative pollutant
+biochemical oxygen demand
+bioclimatology
+bioconcentration factor
+biodegradable pollutant
+biodiversity loss
+biofiltration
+biogas
+biological contamination
+biological effect of pollution
+biological pollutant
+biological pollution
+biological treatment
+biological waste gas purification
+biological waste treatment
+biological waste water treatment
+bioreactor
+bleaching process
+boreal forest dieback
+botanical conservatory
+botanical garden
+boundary layer
+brick
+bridge
+building
+building area
+building component
+building destruction
+building industry
+building land
+building material
+building materials industry
+building permit
+building planning
+building regulation
+building restoration
+building service
+building site
+building site preparation
+building technology
+building waste
+built drainage system
+built environment
+built structure
+built-up area
+bus station
+cadmium contamination
+camping site
+canal
+canal lock
+car park
+carbon emission
+carcinogen
+carcinogenicity test
+carry-over effect
+carrying capacity
+catalytic converter
+catchment
+cement
+cement industry
+cement manufacture
+channelling
+chemical contamination
+chemical decontamination
+chemical fallout
+chemical in the environment
+chemical installation
+chemical measurement of pollution
+chemical oxygen demand
+chemical plant
+chemical pollutant
+chemical pollution
+chemical waste
+chimney
+chimney height
+church
+city
+city centre
+civil engineering
+classified facility
+cleaning up
+clearing sludge
+climate
+climate alteration
+climate change
+climate change adaptation
+climate change impact
+climate change mitigation
+climate effect
+climate experiment
+climate factor
+climate protection
+climate regulation
+climate resource
+climate type
+climate zone
+climatology
+cloud
+coal gas desulfurization
+coal-fired power plant
+coastal pollution
+cold
+collective waste water treatment
+combination effect
+combined cycle-power station
+combined sewer system
+community facility
+compensatory tax
+composite pollution
+concrete
+concrete products industry
+conservation of monuments
+construction equipment
+construction noise
+construction of installations
+construction technology
+construction with recycled material
+construction work
+contaminated soil
+contamination
+continental climate
+continuous load
+corridor
+cosmic radiation
+country lodge
+critical level
+critical load
+crossing place
+crossing place for animals
+cultural facility
+cycle path
+cyclone
+dangerous installation
+de-inking
+dead organic matter
+decontamination
+deep-sea disposal
+defoliation
+degradation
+degradation of the environment
+degradation product
+demolition waste
+denitrification
+denitrification of waste gas
+deposited particulate matter
+deposition
+desalination
+desalination plant
+desert climate
+desertification
+desulphurisation
+desulphurisation of fuel
+dialysis
+diffuse pollution
+diffuse source
+digested sludge
+digester
+digestion (sewage)
+direct discharger
+direct greenhouse gas emissions
+disposal of warfare materials
+distillation
+district heating plant
+documentation centre
+domestic pollution
+domestic waste landfill
+domestic waste water
+dredging
+drought
+dry cleaning
+dry deposition
+duration of sunshine
+dust
+dust immission
+dwelling
+dyke reinforcement
+dynamical ice loss
+earth observation
+earth-sun relationship
+ec directive on biocides
+ecological capacity
+ecological resilience
+ecomuseum
+ecosystem boundary
+ecosystem degradation
+ecotoxicological evaluation
+educational path
+effect on the environment
+effluent
+electric line
+electric power plant
+electrosmog
+emergency lodging
+emergency shelter
+emission
+emission control
+emission data
+emission estimation
+emission factor
+emission inventory
+emission levels
+emission reduction
+emission reduction banking
+emission register
+emission situation
+emission source
+emission standard
+emission to air
+emission to water
+emissions trading scheme
+encapsulation
+energy distribution system
+enrichment
+environmental change
+environmental chemicals legislation
+environmental consequence
+environmental damage
+environmental degradation
+environmental footprint
+environmental hazard
+environmental impact
+environmental impact of agriculture
+environmental impact of aquaculture
+environmental impact of energy
+environmental impact of industry
+environmental impact of transport
+environmental pollution
+environmental sustainable architecture
+environmental warfare
+equatorial climate
+estuary pollution
+eu emissions trading scheme
+eutrophication
+excavated hole
+excavation side
+excavation site
+excessive height of chimney stacks
+export of hazardous wastes
+faecal bacterium
+fallout
+farm
+farm building
+fast reactor
+feedback loop
+fibreglass
+field damage
+filling station
+filter
+final storage
+fish kill
+fish toxicity
+flaring
+flocculation
+flood forecast
+flue gas desulphurisation
+fly ash
+fog
+food contamination
+food pollutant
+footpath
+forage contamination
+forest cover destruction
+forest deterioration
+fouling growth
+fountain
+freshwater pollution
+frost
+fuel tank installation
+gas desulphurisation
+gas network
+gas pipeline
+gas powered plant
+gas purification
+gas reservoir
+gaswork
+glacial retreat
+glacier
+glass
+glaze
+global climate
+global temperature increase
+global warming
+government building
+green building
+green tide
+greenhouse effect
+greenhouse gas
+greenhouse gas emissions
+groundwater endangering
+groundwater pollution
+gypsum
+habitat destruction
+habitat loss
+hail
+halogenated pollutant
+harbour
+hazard of pollutants
+hazardous waste
+hazardous waste dump
+haze
+health facility
+heat and power station
+heat wave
+heating plant
+heavy goods vehicle traffic
+heavy metal load
+high voltage line
+high-rise building
+high-speed railway
+highway
+historic centre
+historical monument
+historical site
+holiday camp
+hospital
+human exposure to pollutants
+human settlement
+hurricane
+hydraulic construction
+hydrocarbon storage tank
+hydrodesulphurisation
+hydroelectric power plant
+hydrometeorology
+ice
+ice cap
+ice loss
+ice pack
+iceberg
+identification of pollutants
+immission
+immission control
+immission control law
+immission damage
+immission forecast
+immission limit
+immission load
+impact source
+incidental pollution
+incineration
+incineration of waste
+incineration residue
+incinerator
+incorporation
+indirect greenhouse gas emissions
+individual waste water treatment
+indoor air pollution
+indoor environment
+industrial building
+industrial effluent
+industrial emission
+industrial fume
+industrial installation
+industrial pollution
+industrial sludge
+industrial waste
+industrial waste gas
+industrial waste water
+industrial waste water treatment
+industrial wasteland
+inertisation
+inflow
+infrastructure
+inner city
+inorganic pollutant
+insulating material
+integrated pollution control
+intervention on land
+inversion layer
+ion exchange
+ion exchanger
+ionosphere
+irrigation canal
+irrigation system
+laboratory
+laboratory waste
+lagooning
+lake pollution
+land degradation
+land disposal
+land pollution
+land restoration
+land restoration in mountain areas
+land setup
+land use
+land-based activity
+land-based marine pollution
+landfill base sealing
+landfill covering
+landfill degasification
+landfill leachate
+landscape consumption
+landscape utilisation
+large combustion plant
+laundering
+leaching
+lead contamination
+lead level in blood
+legislation on pollution
+leisure centre
+library
+lime
+line source
+liner material
+load bearing capacity
+long-term effect
+long-term effect of pollutants
+loss of biotope
+low-cost housing
+low-level flight
+major risk installation
+man-made climate change
+marina
+marine pollution
+masonry
+mass transport (physics)
+maximum admissible concentration
+maximum immission concentration
+mediterranean climate
+mercury contamination
+meteorological disaster
+meteorological forecasting
+meteorological parameter
+meteorological phenomenon
+meteorological research
+meteorology
+metropolis
+microclimate
+microclimate effect
+microclimatology
+micropollutant
+mill
+mine
+mine gas emission
+mineral pollution
+mining district
+ministry building
+mist
+monitoring station
+monument
+motor vehicle
+motor vehicle emission
+motor vehicle exhaust gas
+motor vehicle pollution
+motorway
+mountain climate
+mountain resort
+municipal waste water
+municipal water distribution system
+museum
+mutagen
+mutagenic substance
+mutated micro-organisms release
+natural stone
+net resource depletion
+netting policy (emissions trading)
+new installation
+new town
+nitrate
+nitrogen oxide
+noel
+noise barrier
+noise effect
+noise emission
+noise immission
+noise pollutant
+noise pollution
+non-biodegradable pollutant
+non-polluting fuel
+non-residential building
+nuclear facility
+nuclear power plant
+nuclear reactor
+nuclear research centre
+nutrient content
+nutrient removal
+observation satellite
+ocean dumping
+ocean temperature
+ocean-air interface
+oceanic climate
+odour
+odour nuisance
+off-site
+office
+offset policy (emissions trading)
+oil binding agent
+oil boom
+oil pipeline
+oil pollution
+oil pollution abatement
+oil recovery vessel
+oil refinery
+oil slick
+oil spill
+old hazardous site
+old landfill site
+olfactory pollution
+on-site waste water treatment
+organic matter
+organic pollutant
+organic pollution
+organic waste water
+organisation environmental footprint
+organisation environmental footprint method
+outdoor air pollution
+outer space (allocation plan)
+overfertilisation
+overflow (outlet)
+overgrazing
+overhead power line
+ozone depletion
+ozone depletion potential
+ozone layer
+ozone layer depletion
+paint room
+paint shop
+palaeoclimatology
+parking provision
+path
+pattern of urban growth
+periphyton
+permissible exposure limit
+persistant organic pollutant
+persistence of pesticides
+pesticide pathway
+phosphate removal
+phosphate substitute
+photochemical agent
+photochemical oxidant
+photochemical pollution
+photochemical product
+photochemical smog
+physical alteration
+physical measurement of pollution
+physical pollutant
+physical pollution
+physicochemical purification
+physicochemical treatment
+physiological change
+pickling plant
+piggery
+pilot plant
+pipeline
+plane source
+planned urban development
+plant-specific release
+playground
+point source
+poison
+polar region
+pollutant
+pollutant absorption
+pollutant accumulation
+pollutant analysis
+pollutant assessment
+pollutant behaviour
+pollutant concentration
+pollutant degradation
+pollutant deposition
+pollutant dispersion
+pollutant distribution
+pollutant elimination
+pollutant emission
+pollutant evolution
+pollutant exposure
+pollutant flow
+pollutant formation
+pollutant immission
+pollutant immobilisation
+pollutant level
+pollutant load
+pollutant migration
+pollutant mobilisation
+pollutant monitoring
+pollutant pathway
+pollutant reduction
+pollutant remobilisation
+pollutant source identification
+polluted matter
+polluted site
+polluter-pays principle
+pollution
+pollution abatement
+pollution abatement equipment
+pollution control
+pollution control equipment
+pollution control investment
+pollution control measure
+pollution control regulation
+pollution control technology
+pollution cost
+pollution criterion
+pollution effect
+pollution indicator
+pollution insurance
+pollution liability
+pollution load
+pollution measurement
+pollution monitoring
+pollution norm
+pollution prevention
+pollution reduction
+pollution risk
+pollution sink
+pollution type
+post-treatment
+power station
+precipitation (chemical)
+precipitation enhancement
+prefabricated building
+primary treatment
+private car
+product environmental footprint
+product environmental footprint method
+propagation process
+public bath
+public building
+purification
+purification facility
+purification plant
+purification through the soil
+purifying power
+radioactive contamination
+radioactive decontamination
+radioactive dumping
+radioactive emission
+radioactive fallout
+radioactive pollutant
+radioactive waste
+railway network
+railway station
+rain
+rain forest
+rain water
+rain water sewer system
+rainout
+red tide
+refinery
+release of organisms
+remote sensing
+research centre
+reservoir
+residential area
+residential area with traffic calmings
+residential building
+residual pesticide
+residue analysis
+restoration
+restoration of water
+retaining reservoir
+retrofitting of old plants
+reverse osmosis
+rinsing
+rising sea level
+river disposal
+river pollution
+road construction
+road construction material
+road network
+rural settlement
+safety standard for building
+salination
+salt content
+salt load
+sand dune fixation
+sanitary fitting
+saprobic index
+satellite
+satellite image
+sea level
+sea level rise
+sea outfall
+sealed area
+sealing
+seaside footpath
+seaside resort
+season
+seasonal variation
+secondary treatment
+sediment mobilisation
+sediment transport
+sedimentation basin
+seepage water
+self-purification
+separate sewer system
+septic tank
+service area
+sewage
+sewage disposal
+sewage farm
+sewage treatment system
+sewerage system
+ship garbage
+ship waste disposal
+shunting yard
+sick building syndrome
+silo
+silting up
+single family dwelling
+sinking of waste
+skyline destruction
+slaughterhouse
+sludge digestion
+sludge incineration
+sluice
+sluice-gate
+small power station
+smog warning
+smoke prevention
+smoking
+snow
+social facility
+soil acidification
+soil contamination
+soil decontamination
+soil erosion
+soil leaching
+soil loading
+soil pollutant
+soil pollution
+soil salination
+soil salinity
+soil surface sealing
+solar power station
+solar radiation
+solid particle
+solvent recovery
+soot
+sound emission
+sound immission
+source of pollution
+space (interplanetary)
+space transportation
+space travel
+space waste
+spatial distribution
+special industrial waste
+special waste
+spillage
+sports facility
+sprayed asbestos
+square
+squatter settlement
+stabilisation lagoon
+stable
+stack
+standard for building industry
+station
+stone
+storage dam
+storm
+storm damage
+stratosphere
+stratospheric ozone depletion
+structure-activity relationship
+substitutability (chemistry)
+substitution of halogenated compounds
+substitution of phosphate
+suburb
+sudden load
+supervision of building works
+suspended matter
+tank farm
+temperate climate
+temporary shelter
+temporary storage
+teratogen
+tertiary treatment
+thermal pollution
+thermal power plant
+thermal treatment
+thermoselect process
+thunderstorm
+tidal power station
+timber
+tornado
+total organic carbon
+tourist facility
+touristic unit
+toxic effect
+toxic pollution
+toxic waste
+toxicological assessment
+toxicological testing
+traditional architecture
+traffic emission
+traffic infrastructure
+traffic noise
+traffic route
+traffic route construction
+training centre
+trajectory
+transboundary pollution
+transitional settlement
+treatment residue
+tree nursery
+trickling filter
+trophic level
+tropical climate
+troposphere
+tropospheric ozone
+trunk road
+turbidity
+twin-hull craft
+typhoon
+ultrafiltration
+ultraviolet radiation
+uncontrolled dump
+underwater outlet
+unleaded petrol
+urban ecology charter
+urban facility
+urban green
+urban pollution
+urban traffic
+urban waste water
+urban waste water treatment
+utilisation of pesticides
+vapour recovery system
+vehicle exhaust gas
+viaduct
+village
+vitrification
+wall
+waste air
+waste air purification (gas)
+waste assimilation capacity
+waste disposal
+waste dump
+waste dumping
+waste gas
+waste gas dispersion
+waste gas emission
+waste gas examination
+waste gas reduction
+waste gas treatment
+waste heat
+waste heat charge
+waste incineration
+waste incinerator
+waste recovery
+waste storage
+waste treatment effluent
+waste treatment plant
+waste water
+waste water charge
+waste water collection
+waste water discharge
+waste water disposal
+waste water load
+waste water pollution
+waste water purification
+waste water quality
+waste water sludge
+waste water statistics
+waste water treatment
+waste water treatment plant
+waste-fed heating and power plant
+waste-fed heating plant
+waste-fed power station
+water aeration
+water distribution system
+water endangering
+water mill
+water monitoring
+water pollutant
+water pollution
+water pollution prevention
+water purification plant
+water salination
+water scarcity
+water seepage
+water stress
+water well
+waterworks
+weakly degradable substance
+weather
+weather condition
+weather forecasting
+weather modification
+weather monitoring
+well
+wet process
+wet scrubber
+wind
+wind power station
+windmill
+world biocapacity
+xenobiotic substance
