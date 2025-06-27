@@ -342,6 +342,8 @@ pasture
 pastures
 peat extraction
 peat extractions
+peat land
+peat lands
 peripheral park area
 peripheral park areas
 periurban space
@@ -563,6 +565,8 @@ wildlife sanctuary
 windfall
 windfalls
 wood
+woodland
+woodlands
 wood resource
 wood resources
 woodland ecosystem
