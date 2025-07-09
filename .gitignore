@@ -1,4 +1,9 @@
 data/*
+models/*
+
+!models/spaCy/cnn_best/
+!models/spaCy/cnn_final/
+!models/spaCy/transformer_best/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
