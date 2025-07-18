@@ -97,3 +97,22 @@ The following models are already included in the repository:
 -   models/crf/final_crf_model.joblib (selected CRF)
 
 Other models are optional and stored externally to reduce file size.
+
+## Running on GPU (Optional)
+
+By default, this project uses CPU to ensure compatibility. All training commands set `--gpu-id -1` in SpaCy.
+
+If you want to run on GPU:
+
+1. Install compatible PyTorch version with CUDA:
+```
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
+
+3. Change `--gpu-id -1` to `--gpu-id 0` in training commands in 05_spacy_models and 06_evaluation notebooks
+
+4. Verify GPU usage with:
+```
+import torch
+print(torch.cuda.is_available())
+```
