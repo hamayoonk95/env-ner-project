@@ -69,7 +69,7 @@ To rerun all notebooks with the full corpus:
 
 1. Download the full dataset ZIP from the provided location:
 
-    [Download full_data.zip](https://example.com/full_data.zip)
+    [Download full_data.zip](https://goldsmithscollege-my.sharepoint.com/:u:/g/personal/hkhan010_campus_goldsmiths_ac_uk/EbDkzHNVrexNlIzsn6UqwMABjeyRBewKBTaJn0_VywaIsg?e=4eg4Q3)
 
 2. Unzip it inside the root project directory:
 
@@ -83,7 +83,7 @@ To access all the trained models:
 
 1. Download all_models.zip from the link below:
 
-    [Download all_models.zip](https://example.com/all_models.zip)
+    [Download all_models.zip](https://goldsmithscollege-my.sharepoint.com/:u:/g/personal/hkhan010_campus_goldsmiths_ac_uk/ESu0pIZondZJi_cMZZnKBdMBCdsbSK6qkfp2DZXtKSu7Jg?e=e7rVfQ)
 
 2. Unzip it into the project root:
 
