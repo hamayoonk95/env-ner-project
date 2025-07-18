@@ -1,0 +1,1000 @@
+1. Curr Opin Psychol. 2020 Apr;32:12-16. doi: 10.1016/j.copsyc.2019.06.023. Epub 
+2019 Jul 2.
+
+Global climate change and mental health.
+
+Palinkas LA(1), Wong M(2).
+
+Author information:
+(1)Suzanne Dworak-Peck School of Social Work, University of Southern California, 
+United States. Electronic address: Palinkas@usc.edu.
+(2)Suzanne Dworak-Peck School of Social Work, University of Southern California, 
+United States.
+
+Comment in
+    JAMA Psychiatry. 2024 Jan 1;81(1):5-6. doi: 
+10.1001/jamapsychiatry.2023.3561.
+
+Although several empirical studies and systematic reviews have documented the 
+mental health impacts of global climate change, the range of impacts has not 
+been well understood. This review examines mental health impacts of three types 
+of climate-related events: (1) acute events such as hurricanes, floods, and 
+wildfires; (2) subacute or long-term changes such as drought and heat stress; 
+and (3) the existential threat of long-lasting changes, including higher 
+temperatures, rising sea levels and a permanently altered and potentially 
+uninhabitable physical environment. The impacts represent both direct (i.e. heat 
+stress) and indirect (i.e. economic loss, threats to health and well-being, 
+displacement and forced migration, collective violence and civil conflict, and 
+alienation from a degraded environment) consequences of global climate change.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.copsyc.2019.06.023
+PMID: 31349129 [Indexed for MEDLINE]
+
+
+2. Expert Rev Anti Infect Ther. 2012 Jan;10(1):95-104. doi: 10.1586/eri.11.155.
+
+Infectious diseases following natural disasters: prevention and control 
+measures.
+
+Kouadio IK(1), Aljunid S, Kamigaki T, Hammad K, Oshitani H.
+
+Author information:
+(1)United Nations University International Institute for Global Health, UKM 
+Hospital Complex, Jalan Jaacob Latiff, Bandar Tun Razak, Cheras 56000, Kuala 
+Lumpur, Malaysia. koffi.kouadio@unu.edu
+
+Comment in
+    Expert Rev Anti Infect Ther. 2012 May;10(5):529-30; author reply 531-2. doi: 
+10.1586/eri.12.33.
+
+Natural disasters may lead to infectious disease outbreaks when they result in 
+substantial population displacement and exacerbate synergic risk factors (change 
+in the environment, in human conditions and in the vulnerability to existing 
+pathogens) for disease transmission. We reviewed risk factors and potential 
+infectious diseases resulting from prolonged secondary effects of major natural 
+disasters that occurred from 2000 to 2011. Natural disasters including floods, 
+tsunamis, earthquakes, tropical cyclones (e.g., hurricanes and typhoons) and 
+tornadoes have been secondarily described with the following infectious diseases 
+including diarrheal diseases, acute respiratory infections, malaria, 
+leptospirosis, measles, dengue fever, viral hepatitis, typhoid fever, 
+meningitis, as well as tetanus and cutaneous mucormycosis. Risk assessment is 
+essential in post-disaster situations and the rapid implementation of control 
+measures through re-establishment and improvement of primary healthcare delivery 
+should be given high priority, especially in the absence of pre-disaster 
+surveillance data.
+
+DOI: 10.1586/eri.11.155
+PMID: 22149618 [Indexed for MEDLINE]
+
+
+3. Curr Environ Health Rep. 2022 Jun;9(2):263-275. doi: 10.1007/s40572-022-00345-9. 
+Epub 2022 Feb 22.
+
+The Changing Climate and Pregnancy Health.
+
+Ha S(1).
+
+Author information:
+(1)Department of Public Health, School of Social Sciences, Humanities and Arts, 
+Health Science Research Institute, University of California, Merced, 5200 N Lake 
+Rd, Merced, CA, 95343, USA. Sha55@ucmerced.edu.
+
+PURPOSE OF REVIEW: Climate change is the biggest public health threat of the 
+twenty-first century but its impact on the perinatal period has only recently 
+received attention. This review summarizes recent literature regarding the 
+impacts of climate change and related environmental disasters on pregnancy 
+health and provides recommendations to inform future adaptation and mitigation 
+efforts.
+RECENT FINDINGS: Accumulating evidence suggests that the changing climate 
+affects pregnancy health directly via discrete environmental disasters (i.e., 
+wildfire, extreme heat, hurricane, flood, and drought), and indirectly through 
+changes in the natural and social environment. Although studies vary greatly in 
+design, analytic methods, and assessment strategies, they generally converge to 
+suggest that climate-related disasters are associated with increased risk of 
+gestational complication, pregnancy loss, restricted fetal growth, low 
+birthweight, preterm birth, and selected delivery/newborn complications. 
+Window(s) of exposure with the highest sensitivity are not clear, but both acute 
+and chronic exposures appear important. Furthermore, socioeconomically 
+disadvantaged populations may be more vulnerable. Policy, clinical, and research 
+strategies for adaptation and mitigation should be continued, strengthened, and 
+expanded with cross-disciplinary efforts. Top priorities should include (a) 
+reinforcing and expanding policies to further reduce emission, (b) increasing 
+awareness and education resources for healthcare providers and the public, (c) 
+facilitating access to quality population-based data in low-resource areas, and 
+(d) research efforts to better understand mechanisms of effects, identify 
+susceptible populations and windows of exposure, explore interactive impacts of 
+multiple exposures, and develop novel methods to better quantify pregnancy 
+health impacts.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s40572-022-00345-9
+PMCID: PMC9090695
+PMID: 35194749 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares no competing interests.
+
+
+4. Sci Total Environ. 2022 Aug 20;835:155553. doi: 10.1016/j.scitotenv.2022.155553. 
+Epub 2022 Apr 27.
+
+A framework for quantifying climate-informed heavy rainfall change: Implications 
+for adaptation strategies.
+
+Zhao W(1), Abhishek(2), Kinouchi T(2), Ang R(2), Zhuang Q(3).
+
+Author information:
+(1)Department of Transdisciplinary Science and Engineering, Tokyo Institute of 
+Technology, Tokyo, Japan. Electronic address: wppzhao@gmail.com.
+(2)Department of Transdisciplinary Science and Engineering, Tokyo Institute of 
+Technology, Tokyo, Japan.
+(3)Department of Hydraulic Engineering, Tongji University, Shanghai, China.
+
+To understand the influence of climate change on heavy rainfalls and reduce the 
+consequential multidimensional risks, we develop a climate-informed and 
+adaptation strategies-related framework by using the information on heavy 
+rainfalls and various socioeconomic factors. For this purpose, we firstly 
+quantify the spatiotemporal characteristics of heavy rainfalls with various 
+durations (1 h to multiple days) and return periods (2-year to 50-year) for the 
+flood-prone country Cambodia, as a case study, during the historical period 
+(1980-2005), mid-century (2040-2065), and late-century (2070-2095), using the 
+latest three hourly climate model datasets under RCP 8.5 and 1 hourly ERA5 
+reanalysis datasets. A novel conditional artificial neural network (CANN) model 
+is employed for temporal disaggregation to obtain the monthly maximum of 1 
+hourly rainfall in the future periods and subsequently, a zero-inflated 
+generalized extreme value function (ZIGEV) is applied for extreme value analysis 
+(EVA) to obtain rainfall intensity with different return periods. Secondly, the 
+province-level flood risk change maps are developed based on a novel flood risk 
+change index. The combination of CANN and ZIGEV performs better in EVA than 
+traditional approaches by reducing the uncertainty from the stationarity 
+assumption of temporal disaggregation and bias in the disaggregated rainfall. 
+Rainfall intensity is projected to increase more in higher return periods and 
+shorter durations towards the late-century, predominantly over Southern and 
+Central Cambodia. Projected rainfall intensity-duration-frequency (IDF) curves 
+in the capital city, Phnom Penh, reveal that the occurrence frequency of heavy 
+rainfall in a given duration (e.g., 48 h) is likely to become ~10-fold in the 
+mid-century. Results of province-level flood risk change maps indicate that 
+Southeastern and Northwestern regions should be prioritized for employing 
+adaption strategies. Our results will assist the policymakers in further mapping 
+the flood susceptibility and vulnerability in different spatiotemporal scales 
+across various communities and localities in the country and beyond.
+
+Copyright © 2022 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2022.155553
+PMID: 35489487 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+5. Sci Rep. 2022 Nov 30;12(1):20687. doi: 10.1038/s41598-022-25182-6.
+
+Enhancement of river flooding due to global warming.
+
+Alifu H(1)(2), Hirabayashi Y(3), Imada Y(4), Shiogama H(5).
+
+Author information:
+(1)Department of Civil Engineering, Shibaura Institute of Technology, Tokyo, 
+Japan. alifu.haireti@slu.edu.
+(2)Taylor Geospatial Institute, Saint Louis University, St. Louis, USA. 
+alifu.haireti@slu.edu.
+(3)Department of Civil Engineering, Shibaura Institute of Technology, Tokyo, 
+Japan.
+(4)Meteorological Research Institute, Tsukuba, Japan.
+(5)National Institute for Environmental Studies, Tsukuba, Japan.
+
+Human-induced climate change has increased the frequency and intensity of heavy 
+precipitation1. Due to the complexity of runoff generation and the streamflow 
+process, the historical impact of human-induced climate change on river flooding 
+remains uncertain. Here, we address the question of whether anthropogenic 
+climate change has altered the probability of the extreme river flood events for 
+the period 1951-2010 based on simulated river discharge derived from large 
+ensemble climate experiments with and without human-induced climate change. The 
+results indicate that human-induced climate change altered the probabilities of 
+20 of the 52 analyzed flood events. Fourteen of these 20 flood events, which 
+occurred mainly in Asia and South America, were very likely to have been 
+enhanced by human-induced climate change due to an increase in heavy 
+precipitation. Conversely, two flood events in North/South America and two flood 
+events in Asia and two flood events in Europe were suppressed by human-induced 
+climate change, perhaps as a result of lower snowfall. Human-induced climate 
+change has enhanced flooding more prominently in recent years, providing 
+important insights into potential adaptation strategies for river flooding.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-25182-6
+PMCID: PMC9712344
+PMID: 36450837 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+6. Environ Sci Pollut Res Int. 2023 Mar;30(14):40563-40575. doi: 
+10.1007/s11356-023-25138-x. Epub 2023 Jan 9.
+
+Improving drought mitigation strategies and disaster risk reduction through 
+MODIS and TRMM-based data in relation to climate change over Pakistan.
+
+Ali S(#)(1)(2), Basit A(#)(3), Makanda TA(4), Inamullah(5), Khan FU(5), Sajid 
+M(5), Riaz T(5), Abbasi HF(5), Manzoor(6), Sohail A(7).
+
+Author information:
+(1)College of Chemistry and Life Sciences, Zhejiang Normal University, Jinhua, 
+321004, China. alis88@zjnu.edu.cn.
+(2)Department of Agriculture, Hazara University, Mansehra, 21120, Pakistan. 
+alis88@zjnu.edu.cn.
+(3)Department of Computer Science, University of Peshawar, Peshawar, 25000, 
+Pakistan.
+(4)College of Chemistry and Life Sciences, Zhejiang Normal University, Jinhua, 
+321004, China.
+(5)Department of Agriculture, Hazara University, Mansehra, 21120, Pakistan.
+(6)Tea Research Institute, Chinese Academy of Agriculture Sciences, Hangzhou, 
+310008, China.
+(7)Rice Research Institute, Chinese Academy of Agriculture Sciences, Hangzhou, 
+310008, China.
+(#)Contributed equally
+
+Drought is an extreme climatic event that mostly occurs as a result of low 
+rainfall, which leads to lack of water in various agro-ecological conditions of 
+Pakistan. The condition could be further exacerbated by the prevailing dry 
+weather. Therefore, accurate, timely, and efficient drought monitoring is 
+crucial to ensure that its adverse effects are mitigated. In this study, 
+Moderate Resolution Imaging Spectroradiometer (MODIS) and TRMM-based data were 
+used together with remote sensing techniques to improve drought mitigation and 
+disaster risk reduction strategies. In order to monitor drought mitigation and 
+disaster risk reduction strategies in Pakistan, the crop water stress index 
+(CWSI), vegetation condition index (VCI), normalized vegetation supply water 
+index (NVSWI), vegetation health index (VHI), and temperature vegetation drought 
+index (TVDI) were chosen as the instrument. Due to low rainfall and 
+significantly low vegetation, CWSI, NDVI, TVDI, and VHI are useful in 
+characterizing drought mitigation strategies in Pakistan. Monthly NDVI, NAP, 
+NVSWI, TVDI, VCI, and VHI values and heat map analysis show that Pakistan 
+suffered from drought in years 2001, 2002, and 2006. Seasonal CWSI, NDVI, VHI, 
+and TVDI confirmed that Pakistan was affected by severe drought in 2001, which 
+continued and led to severe drought in 2002 and 2006. We generate spatial 
+correlation coefficients between NDVI and NVSWI, VCI, and VHI, and NVSWI and VCI 
+and VHI, while the VCI and VHI values are significantly positively correlated. 
+CWSI, NDVI, VHI, and TVDI show positive signs of effective climate change 
+drought mitigation and disaster risk reduction strategies in Pakistan. Thus, 
+these drought indices have been confirmed to be a complete drought monitoring 
+indicator and reduce the risk of drought in Pakistan.
+
+© 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s11356-023-25138-x
+PMID: 36622605 [Indexed for MEDLINE]
+
+
+7. BMJ. 2023 Oct 4;383:2101. doi: 10.1136/bmj.p2101.
+
+Mortality risks associated with flood events.
+
+Cao W(1), Zhao S(2), Sun S(3).
+
+Author information:
+(1)School of Public Health, Peking University, Beijing, China.
+(2)Centre for Health Systems and Policy Research, The Chinese University of Hong 
+Kong, Hong Kong, China.
+(3)School of Public Health, Capital Medical University, Beijing, China 
+shengzhisun@ccmu.edu.cn.
+
+Comment on
+    BMJ. 2023 Oct 4;383:e075081. doi: 10.1136/bmj-2023-075081.
+
+DOI: 10.1136/bmj.p2101
+PMID: 37793692 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The BMJ has judged that 
+there are no disqualifying financial ties to commercial companies. The authors 
+declare the following other interests: none
+
+
+8. J Environ Public Health. 2017;2017:3407325. doi: 10.1155/2017/3407325. Epub 2017 
+Mar 2.
+
+An Approach to Developing Local Climate Change Environmental Public Health 
+Indicators in a Rural District.
+
+Houghton A(1), Austin J(2), Beerman A(2), Horton C(2).
+
+Author information:
+(1)Biositu, LLC, 505D W Alabama St., Houston, TX 77006, USA.
+(2)Green River District Health Department, 1501 Breckenridge Street, Owensboro, 
+KY 42303, USA.
+
+Climate change represents a significant and growing threat to population health. 
+Rural areas face unique challenges, such as high rates of vulnerable 
+populations; economic uncertainty due to their reliance on industries that are 
+vulnerable to climate change; less resilient infrastructure; and lower levels of 
+access to community and emergency services than urban areas. This article fills 
+a gap in public health practice by developing climate and health environmental 
+public health indicators for a local public health department in a rural area. 
+We adapted the National Environmental Public Health Tracking Network's framework 
+for climate and health indicators to a seven-county health department in Western 
+Kentucky. Using a three-step review process, we identified primary 
+climate-related environmental public health hazards for the region (extreme 
+heat, drought, and flooding) and a suite of related exposure, health outcome, 
+population vulnerability, and environmental vulnerability indicators. Indicators 
+that performed more poorly at the county level than at the state and national 
+level were defined as "high vulnerability." Six to eight high vulnerability 
+indicators were identified for each county. The local health department plans to 
+use the results to enhance three key areas of existing services: epidemiology, 
+public health preparedness, and community health assessment.
+
+DOI: 10.1155/2017/3407325
+PMCID: PMC5352907
+PMID: 28352286 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+9. Environ Sci Technol. 2016 May 17;50(10):4905-22. doi: 10.1021/acs.est.5b06186. 
+Epub 2016 Apr 25.
+
+Untangling the Impacts of Climate Change on Waterborne Diseases: a Systematic 
+Review of Relationships between Diarrheal Diseases and Temperature, Rainfall, 
+Flooding, and Drought.
+
+Levy K(1), Woster AP(2), Goldstein RS(1), Carlton EJ(2).
+
+Author information:
+(1)Department of Environmental Health, Rollins School of Public Health, Emory 
+University , 1518 Clifton Road NE, Atlanta, Georgia United States.
+(2)Department of Environmental and Occupational Health, Colorado School of 
+Public Health, University of Colorado , Aurora, Colorado United States.
+
+Global climate change is expected to affect waterborne enteric diseases, yet to 
+date there has been no comprehensive, systematic review of the epidemiological 
+literature examining the relationship between meteorological conditions and 
+diarrheal diseases. We searched PubMed, Embase, Web of Science, and the Cochrane 
+Collection for studies describing the relationship between diarrheal diseases 
+and four meteorological conditions that are expected to increase with climate 
+change: ambient temperature, heavy rainfall, drought, and flooding. We 
+synthesized key areas of agreement and evaluated the biological plausibility of 
+these findings, drawing from a diverse, multidisciplinary evidence base. We 
+identified 141 articles that met our inclusion criteria. Key areas of agreement 
+include a positive association between ambient temperature and diarrheal 
+diseases, with the exception of viral diarrhea and an increase in diarrheal 
+disease following heavy rainfall and flooding events. Insufficient evidence was 
+available to evaluate the effects of drought on diarrhea. There is evidence to 
+support the biological plausibility of these associations, but publication bias 
+is an ongoing concern. Future research evaluating whether interventions, such as 
+improved water and sanitation access, modify risk would further our 
+understanding of the potential impacts of climate change on diarrheal diseases 
+and aid in the prioritization of adaptation measures.
+
+DOI: 10.1021/acs.est.5b06186
+PMCID: PMC5468171
+PMID: 27058059 [Indexed for MEDLINE]
+
+
+10. Pak J Biol Sci. 2023 Apr;26(5):287-299. doi: 10.3923/pjbs.2023.287.299.
+
+Beneficial Root-Associated Microbiome during Drought and Flooding Stress in 
+Plants.
+
+Nio SA, Mantilen Ludong DP.
+
+Crop productivity is seriously threatened by the rise in the frequency and 
+severity of drought and flood events around the world. Reduced drought and 
+flooding stress in vulnerable species and ecosystems depends on our ability to 
+comprehend how drought and flooding affect plant physiology and plant-associated 
+microbes. Involvement of both abscisic acid ABA-dependent and ABA-independent 
+pathways has been noted during drought. Hypoxic conditions impede hydraulic 
+conductance, nutrient uptake and plant growth and development, as well as root 
+aerobic respiration. The root microbiome, which works with the roots during 
+drought and flood, is made up of plant growth-promoting rhizosphere, endophytes 
+and mycorrhizas. A large number of phytohormones, primarily auxins, cytokinin 
+and ethylene, as well as enzymes like 1-Aminocyclopropane-1-Carboxylate 
+deaminase (ACC deaminase) and metabolites like exopolysaccharides are produced 
+by rhizospheric microbes. These phytohormones, enzymes and metabolites have role 
+in the induction of systemic drought tolerance in plants. Under hypoxia, 
+anaerobic microbes with the potential to harm the plant due to their pathogenic 
+behavior or soil denitrification ability are more likely to be present in the 
+rhizosphere and roots. This review concentrates on the primary mechanisms of 
+plant-microbe interactions under drought and flood stress as well as the 
+importance of flood and drought-tolerant microbes in maintaining and increasing 
+crop plant productivity under stress.
+
+DOI: 10.3923/pjbs.2023.287.299
+PMID: 37859559 [Indexed for MEDLINE]
+
+
+11. Ann N Y Acad Sci. 2024 Sep;1539(1):127-184. doi: 10.1111/nyas.15175. Epub 2024 
+Aug 19.
+
+NPCC4: Climate change and New York City's flood risk.
+
+Rosenzweig B(1), Montalto FA(2)(3), Orton P(4), Kaatz J(5), Maher N(6), Kleyman 
+J(5), Chen Z(4), Sanderson E(7), Adhikari N(2)(3), McPhearson T(8)(9), 
+Herreros-Cantis P(10).
+
+Author information:
+(1)Environmental Science, Sarah Lawrence College, Bronxville, New York, USA.
+(2)College of Engineering, Drexel University, Philadelphia, Pennsylvania, USA.
+(3)eDesign Dynamics LLC, New York, New York, USA.
+(4)School of Engineering and Science, Stevens Institute of Technology, Hoboken, 
+New Jersey, USA.
+(5)Arcadis, New York, New York, USA.
+(6)The Nature Conservancy, Cold Spring Harbor, New York, USA.
+(7)New York Botanical Garden, New York, New York, USA.
+(8)Urban Systems Lab, The New School, New York, New York, USA.
+(9)Cary Institute of Ecosystem Studies, Millbrook, New York, USA.
+(10)Basque Center for Climate Change, Leioa, Spain.
+
+This chapter of the New York City Panel on Climate Change 4 (NPCC4) report 
+provides a comprehensive description of the different types of flood hazards 
+(pluvial, fluvial, coastal, groundwater, and compound) facing New York City and 
+provides climatological context that can be utilized, along with climate change 
+projections, to support flood risk management (FRM). Previous NPCC reports 
+documented coastal flood hazards and presented trends in historical and future 
+precipitation and sea level but did not comprehensively assess all the city's 
+flood hazards. Previous NPCC reports also discussed the implications of floods 
+on infrastructure and the city's residents but did not review the impacts of 
+flooding on the city's natural and nature-based systems (NNBSs). This-the NPCC's 
+first report focused on all drivers of flooding-describes and profiles 
+historical examples of each type of flood and summarizes previous and ongoing 
+research regarding exposure, vulnerability, and risk management, including with 
+NNBS and nonstructural measures.
+
+© 2024 The Author(s). Annals of the New York Academy of Sciences published by 
+Wiley Periodicals LLC on behalf of The New York Academy of Sciences.
+
+DOI: 10.1111/nyas.15175
+PMID: 39159317 [Indexed for MEDLINE]
+
+
+12. Lancet. 2017 Sep 9;390(10099):1005. doi: 10.1016/S0140-6736(17)32393-0.
+
+Extreme rain, flooding, and health.
+
+The Lancet.
+
+DOI: 10.1016/S0140-6736(17)32393-0
+PMID: 28901921 [Indexed for MEDLINE]
+
+
+13. Glob Public Health. 2022 Jul;17(7):1406-1419. doi: 
+10.1080/17441692.2021.1924824. Epub 2021 Jun 1.
+
+Climate change and health vulnerability in Nepal: A systematic review of the 
+literature since 2010.
+
+Tome J(1), Richmond HL(1), Rahman M(2), Karmacharya D(3), Schwind JS(1).
+
+Author information:
+(1)Department of Biostatistics, Epidemiology, and Environmental Health Sciences, 
+Georgia Southern University, Statesboro, Georgia, USA.
+(2)Department of Geology and Geography, Georgia Southern University, Statesboro, 
+Georgia, USA.
+(3)Center for Molecular Dynamics-Nepal, Kathmandu, Nepal.
+
+The Nepali population is among those most vulnerable to the health impacts of 
+climate change. We conducted a systematic literature review to document the 
+health effects of climate change in Nepal and identify knowledge gaps by 
+examining vulnerability categories related to health. Three databases were 
+searched for journal articles that addressed health and vulnerability related to 
+climate change in Nepal from 2010 onwards. Of the 1063 articles identified, 37 
+were eligible for inclusion. The findings suggested the health of the population 
+was affected mostly by food insecurity, floods, droughts, and reduced water 
+levels. Studies revealed both morbidity and mortality increased due to climate 
+change, with the most impacted populations being women, children, and the 
+elderly. At greatest risk for impacts from climate change were those from poor 
+and marginal populations, especially impoverished women. The public health 
+sector, healthcare, and potable water sources were some of the least mentioned 
+vulnerability subcategories, indicating more research is needed to better 
+understand their adaptation capacities. We propose that identifying 
+vulnerabilities and areas of limited research are critical steps in the 
+prioritization of health policy and interventions for the most vulnerable 
+populations in Nepal.
+
+DOI: 10.1080/17441692.2021.1924824
+PMID: 34061709 [Indexed for MEDLINE]
+
+
+14. Sci Total Environ. 2022 Nov 10;846:157480. doi: 10.1016/j.scitotenv.2022.157480. 
+Epub 2022 Jul 20.
+
+Characterising the spatiotemporal dynamics of drought and wet events in 
+Australia.
+
+Verhoeven E(1), Wardle GM(2), Roth GW(2), Greenville AC(2).
+
+Author information:
+(1)School of Life and Environmental Sciences, The University of Sydney, New 
+South Wales 2006, Australia; Sydney Institute of Agriculture, The University of 
+Sydney, New South Wales 2006, Australia. Electronic address: 
+elise.verhoeven@sydney.edu.au.
+(2)School of Life and Environmental Sciences, The University of Sydney, New 
+South Wales 2006, Australia; Sydney Institute of Agriculture, The University of 
+Sydney, New South Wales 2006, Australia.
+
+Global climate change has altered precipitation patterns and disrupted the 
+characteristics of drought and rainfall events. Climate projections confirm that 
+more frequent, intense, and extreme droughts and rainfall events will continue. 
+However, knowledge around how drought and wet events move dynamically through 
+space and time is limited, especially in the southern hemisphere. Australia is 
+the driest inhabited continent, renowned as the land of droughts and flooding 
+rains, but recent climate-driven changes to the severity of wildfires and floods 
+have garnered global attention. Here we used S-TRACK, a novel method for spatial 
+drought tracking, to build pathways for past drought and wet events in Australia 
+to examine their spatiotemporal dynamics. Characteristics such as duration, 
+severity, and intensity were obtained from these pathways, and modified 
+Mann-Kendall tests and Sen's slope were used to detect significant trends in 
+characteristics over time. Drought conditions in southern Australia have 
+intensified, particularly in the southwest of Australia and Tasmania, while the 
+north of the country is experiencing longer, more severe, and more intense wet 
+conditions. We also found that the location of drought and wet hotspots has 
+clearly shifted in response to precipitation changes since the 1970's. Finally, 
+pathways for the most extreme events show peak severity is reached in the middle 
+to late stages of pathways, and that the largest drought and wet areas of a 
+pathway have moved further west in recent times. The findings in this study 
+provide the necessary knowledge to improve preparedness for extreme 
+precipitation events as they become more common and to inform predictions for 
+agricultural output or the extent of other climate events such as wildfires and 
+flooding.
+
+Copyright © 2022. Published by Elsevier B.V.
+
+DOI: 10.1016/j.scitotenv.2022.157480
+PMID: 35868391 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+15. J Environ Manage. 2023 Nov 1;345:118557. doi: 10.1016/j.jenvman.2023.118557. 
+Epub 2023 Jul 8.
+
+Between flood and drought: How cities are facing water surplus and scarcity.
+
+Dąbrowska J(1), Menéndez Orellana AE(2), Kilian W(3), Moryl A(4), Cielecka N(5), 
+Michałowska K(6), Policht-Latawiec A(7), Michalski A(8), Bednarek A(9), Włóka 
+A(10).
+
+Author information:
+(1)Department of Civil Engineering, Faculty of Environmental Engineering and 
+Geodesy, Wrocław University of Environmental and Life Sciences, 50-363, Wrocław, 
+Poland. Electronic address: jolanta.dabrowska@upwr.edu.pl.
+(2)Faculty of Civil Engineering, Wrocław University of Science and Technology, 
+50-370, Wrocław, Poland. Electronic address: 263367@student.pwr.edu.pl.
+(3)Department of Civil Engineering, Faculty of Environmental Engineering and 
+Geodesy, Wrocław University of Environmental and Life Sciences, 50-363, Wrocław, 
+Poland. Electronic address: wojciech.kilian@upwr.edu.pl.
+(4)Institute of Environmental Engineering, Faculty of Environmental Engineering 
+and Geodesy, Wrocław University of Environmental and Life Sciences, 50-363, 
+Wrocław, Poland. Electronic address: andrzej.moryl@upwr.edu.pl.
+(5)Students' Scientific Circle "Wspornik", Faculty of Environmental Engineering 
+and Geodesy, Wrocław University of Environmental and Life Sciences, 50-357, 
+Wrocław, Poland. Electronic address: 118042@student.upwr.edu.pl.
+(6)Department of Geodesy, Faculty of Civil and Environmental Engineering, Gdańsk 
+University of Technology, 80-233, Gdańsk, Poland. Electronic address: 
+krystyna.michalowska@pg.edu.pl.
+(7)Department of Land Reclamation and Environmental Development, Faculty of 
+Environmental Engineering and Land Surveying, University of Agriculture in 
+Krakow, 30-059, Kraków, Poland. Electronic address: a.policht@urk.edu.pl.
+(8)Institute of Geodesy and Geoinformatics, Faculty of Environmental Engineering 
+and Geodesy, Wrocław University of Environmental and Life Sciences, 50-357, 
+Wrocław, Poland. Electronic address: adam.michalski@upwr.edu.pl.
+(9)UNESCO Chair on Ecohydrology and Applied Ecology, Faculty of Biology and 
+Environmental Protection, University of Lodz, 90-237, Łódź, Poland. Electronic 
+address: agnieszka.bednarek@biol.uni.lodz.pl.
+(10)Department of Civil Engineering, Faculty of Environmental Engineering and 
+Geodesy, Wrocław University of Environmental and Life Sciences, 50-363, Wrocław, 
+Poland. Electronic address: agata.wloka@upwr.edu.pl.
+
+Droughts and floods are weather-related hazards affecting cities in all climate 
+zones and causing human deaths and material losses on all inhabited continents. 
+The aim of this article is to review, analyse and discuss in detail the problems 
+faced by urban ecosystems due to water surplus and scarcity, as well as the need 
+of adaptation to climate change taking into account the legislation, current 
+challenges and knowledge gaps. The literature review indicated that urban floods 
+are much more recognised than urban droughts. Amongst floods, flash floods are 
+currently the most challenging, which by their nature are difficult to monitor. 
+Research and adaptation measures related to water-released hazards use 
+cutting-edge technologies for risk assessment, decision support systems, or 
+early warning systems, among others, but in all areas knowledge gaps for urban 
+droughts are evident. Increasing urban retention and introducing Low Impact 
+Development and Nature-based Solutions is a remedy for both droughts and floods 
+in cities. There is the need to integrate flood and drought disaster risk 
+reduction strategies and creating a holistic approach.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jenvman.2023.118557
+PMID: 37429091 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+16. Int J Environ Res Public Health. 2023 Jun 8;20(12):6086. doi: 
+10.3390/ijerph20126086.
+
+Climate Change, Ecological Modernization, and Disaster Management: The Coastal 
+Embankment Project in Southwestern Bangladesh.
+
+Kais SM(1), Islam MS(2).
+
+Author information:
+(1)Department of Sociology, University of Rajshahi, Rajshahi 6205, Bangladesh.
+(2)Division of Sociology, School of Social Sciences, Nanyang Technological 
+University, Singapore 639818, Singapore.
+
+Climate change, one of the severest environmental threats to humankind, 
+disproportionately affects low-income, developing countries in the Global South. 
+Having no feasible mitigation alternatives, these countries resort to adaptation 
+efforts to address climate perturbations. Climate change adaptation (or 
+resilience) is primarily a localized course of action that depends on 
+individuals, social networks, economies, ecologies, political structures, and 
+the capabilities of all those to work collectively to absorb, learn from, and 
+transform in the face of new realities. With a view to controlling the floods 
+that shattered the life and economy of the then East Pakistan, which is now 
+Bangladesh, during the mid-twentieth century, the coastal embankment project 
+(CEP) was instituted as an adaptation strategy to natural disasters in 
+Southwestern Bangladesh. Based on a qualitative analysis of primary and 
+secondary data, this paper seeks to critically evaluate the efficacy of the CEP 
+in terms of the space for feasible action and ecological modernization. The 
+findings of this research indicate that the CEP has become an unrealistic 
+venture that hinders the growing economic activity of shrimp aquaculture in the 
+area. This paper is expected to contribute to generating further theoretical and 
+empirical discourse on the evaluation of similar development projects around the 
+globe.
+
+DOI: 10.3390/ijerph20126086
+PMCID: PMC10297967
+PMID: 37372673 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+17. Aust N Z J Psychiatry. 2016 Jan;50(1):16-8. doi: 10.1177/0004867415615946. Epub 
+2015 Nov 9.
+
+Climate change and psychiatry.
+
+Every-Palmer S(1), McBride S(2), Berry H(3), Menkes DB(4).
+
+Author information:
+(1)Capital & Coast District Health Board, Wellington, New Zealand 
+susanna.every-palmer@ccdhb.org.nz.
+(2)Capital & Coast District Health Board, Wellington, New Zealand.
+(3)Centre for Research and Action in Public Health, Canberra, ACT, Australia.
+(4)Waikato Clinical School, University of Auckland, Auckland, New Zealand.
+
+DOI: 10.1177/0004867415615946
+PMID: 26553219 [Indexed for MEDLINE]
+
+
+18. Sci Total Environ. 2022 Feb 10;807(Pt 2):150741. doi: 
+10.1016/j.scitotenv.2021.150741. Epub 2021 Oct 8.
+
+Climate change impact on major crop yield and water footprint under CMIP6 
+climate projections in repeated drought and flood areas in Thailand.
+
+Arunrat N(1), Sereenonchai S(2), Chaowiwat W(3), Wang C(4).
+
+Author information:
+(1)Faculty of Environment and Resource Studies, Mahidol University, Nakhon 
+Pathom 73170, Thailand. Electronic address: noppol.aru@mahidol.ac.th.
+(2)Faculty of Environment and Resource Studies, Mahidol University, Nakhon 
+Pathom 73170, Thailand.
+(3)Hydro-Informatics Innovation Division, Hydro Informatics Institute, Bangkok 
+10400, Thailand.
+(4)State Key Joint Laboratory of Environment Simulation and Pollution Control 
+(SKLESPC), School of Environment, Tsinghua University, Beijing 100084, China; 
+Tsinghua-Rio Tinto Joint Research Centre for Resources, Energy and Sustainable 
+Development, Beijing 100084, China.
+
+Understanding crop yield and water requirements in response to the future 
+climate at the local scale is essential to develop more precise and appropriate 
+adaptation strategies. From this perspective, repeated drought and flood events 
+in the lower north of Thailand were investigated. The objectives of the study 
+were to evaluate the impact of climate change on major crop yields and the water 
+footprint (WF). Five global circulation model datasets from the sixth phase of 
+the Coupled Model Intercomparison Project (CMIP6), known as Shared Socioeconomic 
+Pathways (SSPs), were selected. Three future periods: near (2015-2039), mid 
+(2040-2069), and far future (2070-2100) under SSP245 and SSP585 scenarios were 
+used to predict the major crop yields and WF changes in the future. The 
+precipitation and maximum and minimum temperatures were projected to increase in 
+all periods under both scenarios. Rice yields in irrigated areas were predicted 
+to rise gradually over the three projection periods under SSP245 but decline in 
+mid and far-future periods under SSP585. There was a predicted reduction of 
+first and second rice crop yields by -6.0% to -17.7% under SSP585. Fortunately, 
+those rice yields were expected to increase in the near-future period under 
+SSP245 by 3.0% to 4.3%. Growing maize, soybean, or mung bean instead of a second 
+rice crop will have a less negative impact on future climate change. Changing 
+from growing rice to be planting maize twice per year and growing cassava had 
+increased favorability in rain-fed areas. The WF changes in the future were 
+associated with future crop yield changes; therefore, the decrease in WFs was 
+due to an increase in crop yield and vice-versa. The total WFs of maize, 
+soybean, mung bean, and cassava production were roughly half that of rice 
+production, indicating that these crops are suitable alternatives in the dry 
+season.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2021.150741
+PMID: 34627910 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+19. Curr Environ Health Rep. 2022 Jun;9(2):244-262. doi: 10.1007/s40572-022-00340-0. 
+Epub 2022 Apr 11.
+
+Projecting the Impacts of a Changing Climate: Tropical Cyclones and Flooding.
+
+Anderson GB(1), Schumacher A(2), Done JM(3), Hurrell JW(4).
+
+Author information:
+(1)Colorado State University, 1601 Campus Delivery, Fort Collins, CO, 
+80523-1601, USA. brooke.anderson@colostate.edu.
+(2)Cooperative Institute for Research in the Atmosphere, Colorado State 
+University, 1375 Campus Delivery, Fort Collins, CO, 80523-1375, USA.
+(3)National Center for Atmospheric Research, 3090 Center Green Drive, Boulder, 
+CO, 80301, USA.
+(4)Colorado State University, 200 West Lake Street, 1371 Campus Delivery, Fort 
+Collins, CO, 80523-1371, USA.
+
+PURPOSE OF REVIEW: There is clear evidence that the earth's climate is changing, 
+largely from anthropogenic causes. Flooding and tropical cyclones have clear 
+impacts on human health in the United States at present, and projections of 
+their health impacts in the future will help inform climate policy, yet to date 
+there have been few quantitative climate health impact projections.
+RECENT FINDINGS: Despite a wealth of studies characterizing health impacts of 
+floods and tropical cyclones, many are better suited for qualitative, rather 
+than quantitative, projections of climate change health impacts. However, a 
+growing number have features that will facilitate their use in quantitative 
+projections, features we highlight here. Further, while it can be difficult to 
+project how exposures to flood and tropical cyclone hazards will change in the 
+future, climate science continues to advance in its capabilities to capture 
+changes in these exposures, including capturing regional variation. Developments 
+in climate epidemiology and climate science are opening new possibilities in 
+projecting the health impacts of floods and tropical cyclones under a changing 
+climate.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/s40572-022-00340-0
+PMID: 35403997 [Indexed for MEDLINE]
+
+
+20. Int J Environ Res Public Health. 2022 Jul 21;19(14):8837. doi: 
+10.3390/ijerph19148837.
+
+Review of Urban Flood Resilience: Insights from Scientometric and Systematic 
+Analysis.
+
+Gao M(1)(2), Wang Z(1)(2), Yang H(1)(2).
+
+Author information:
+(1)Yellow River Laboratory, Zhengzhou University, Zhengzhou 450001, China.
+(2)School of Water Conservancy Engineering, Zhengzhou University, Zhengzhou 
+450001, China.
+
+In recent decades, climate change is exacerbating meteorological disasters 
+around the world, causing more serious urban flood disaster losses. Many 
+solutions in related research have been proposed to enhance urban adaptation to 
+climate change, including urban flooding simulations, risk reduction and urban 
+flood-resistance capacity. In this paper we provide a thorough review of urban 
+flood-resilience using scientometric and systematic analysis. Using Cite Space 
+and VOS viewer, we conducted a scientometric analysis to quantitively analyze 
+related papers from the Web of Science Core Collection from 1999 to 2021 with 
+urban flood resilience as the keyword. We systematically summarize the 
+relationship of urban flood resilience, including co-citation analysis of 
+keywords, authors, research institutions, countries, and research trends. The 
+scientometric results show that four stages can be distinguished to indicate the 
+evolution of different keywords in urban flood management from 1999, and urban 
+flood resilience has become a research hotspot with a significant increase 
+globally since 2015. The research methods and progress of urban flood resilience 
+in these four related fields are systematically analyzed, including climate 
+change, urban planning, urban system adaptation and urban flood-simulation 
+models. Climate change has been of high interest in urban flood-resilience 
+research. Urban planning and the adaptation of urban systems differ in terms of 
+human involvement and local policies, while more dynamic factors need to be 
+jointly described. Models are mostly evaluated with indicators, and 
+comprehensive resilience studies based on traditional models are needed for 
+multi-level and higher performance models. Consequently, more studies about 
+urban flood resilience based on local policies and dynamics within global urban 
+areas combined with fine simulation are needed in the future, improving the 
+concept of resilience as applied to urban flood-risk-management and assessment.
+
+DOI: 10.3390/ijerph19148837
+PMCID: PMC9316510
+PMID: 35886688 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+21. Recenti Prog Med. 2014 Feb;105(2):48-50. doi: 10.1701/1417.15695.
+
+[Climate changes, floods, and health consequences].
+
+[Article in Italian]
+
+Michelozzi P, de' Donato F.
+
+In the European Region, floods are the most common natural disaster, causing 
+extensive damage and disruption. In Italy, it has been estimated that over 68% 
+of municipalities are at high hydrogeological risk and with the recent intense 
+rainfall events local populations have been facing severe disruptions. The 
+health consequences of floods are wide ranging and are dependent upon the 
+vulnerability of the environment and the local population. Health effects can be 
+a direct or indirect consequence of flooding. The immediate health impacts of 
+floods include drowning, heart attacks, injuries and hypothermia. The indirect 
+effects include, injuries and infections, water-borne infectious disease, mental 
+health problems, respiratory disease and allergies in both the medium and long 
+term after a flood. Future efforts should be addressed to integrate health 
+preparedness and prevention measures into emergency flood plans and hydrological 
+warning systems.
+
+DOI: 10.1701/1417.15695
+PMID: 24625900 [Indexed for MEDLINE]
+
+
+22. J Nurs Scholarsh. 2017 Nov;49(6):625-634. doi: 10.1111/jnu.12328. Epub 2017 Aug 
+18.
+
+Climate Change-Related Water Disasters' Impact on Population Health.
+
+Veenema TG(1), Thornton CP(2), Lavin RP(3), Bender AK(4), Seal S(5), Corley 
+A(6).
+
+Author information:
+(1)Beta Nu, Associate Professor, School of Nursing, Department Acute and Chronic 
+Care, Johns Hopkins School of Nursing Center for Humanitarian Health, Johns 
+Hopkins Bloomberg School of Public Health, Johns Hopkins University, Baltimore, 
+MD, USA.
+(2)Beta Nu, Clinical Nurse Practitioner, The Johns Hopkins University School of 
+Medicine, Johns Hopkins Charlotte Bloomberg Children's Hospital, Baltimore, MD, 
+USA.
+(3)Associate Dean for Academic Programs, University of Missouri-St. Louis, 
+College of Nursing, St. Louis, MO, USA.
+(4)Research Associate, University of Missouri-St. Louis, College of Nursing, St. 
+Louis, MO, USA.
+(5)Associate Director, Hospital, Health System and Community Services, Welch 
+Medical Library, Johns Hopkins University, Baltimore, MD, USA.
+(6)Beta Nu, Johns Hopkins School of Nursing, Johns Hopkins School of Public 
+Health, Baltimore, MD, USA.
+
+PURPOSE: Rising global temperatures have resulted in an increased frequency and 
+severity of cyclones, hurricanes, and flooding in many parts of the world. These 
+climate change-related water disasters (CCRWDs) have a devastating impact on 
+communities and the health of residents. Clinicians and policymakers require a 
+substantive body of evidence on which to base planning, prevention, and disaster 
+response to these events. The purpose of this study was to conduct a systematic 
+review of the literature concerning the impact of CCRWDs on public health in 
+order to identify factors in these events that are amenable to preparedness and 
+mitigation. Ultimately, this evidence could be used by nurses to advocate for 
+greater preparedness initiatives and inform national and international disaster 
+policy.
+DESIGN AND METHODS: A systematic literature review of publications identified 
+through a comprehensive search of five relevant databases (PubMed, Cumulative 
+Index to Nursing and Allied Health Literature [CINAHL], Embase, Scopus, and Web 
+of Science) was conducted using a modified Preferred Reporting Items for 
+Systematic Reviews and Meta-Analyses (PRISMA) approach in January 2017 to 
+describe major themes and associated factors of the impact of CCRWDs on 
+population health.
+FINDINGS: Three major themes emerged: environmental disruption resulting in 
+exposure to toxins, population susceptibility, and health systems infrastructure 
+(failure to plan-prepare-mitigate, inadequate response, and lack of 
+infrastructure). Direct health impact was characterized by four major 
+categories: weather-related morbidity and mortality, waterborne 
+diseases/water-related illness, vector-borne and zoonotic diseases, and 
+psychiatric/mental health effects. Scope and duration of the event are factors 
+that exacerbate the impact of CCRWDs. Discussion of specific factors amenable to 
+mitigation was limited. Flooding as an event was overrepresented in this 
+analysis (60%), and the majority of the research reviewed was conducted in 
+high-income or upper middle-/high-income countries (62%), despite the fact that 
+low-income countries bear a disproportionate share of the burden on morbidity 
+and mortality from CCRWDs.
+CONCLUSIONS: Empirical evidence related to CCRWDs is predominately descriptive 
+in nature, characterizing the cascade of climatic shifts leading to major 
+environmental disruption and exposure to toxins, and their resultant morbidity 
+and mortality. There is inadequate representation of research exploring 
+potentially modifiable factors associated with CCRWDs and their impact on 
+population health. This review lays the foundation for a wide array of further 
+areas of analysis to explore the negative health impacts of CCRWDs and for 
+nurses to take a leadership role in identifying and advocating for 
+evidence-based policies to plan, prevent, or mitigate these effects.
+CLINICAL RELEVANCE: Nurses comprise the largest global healthcare workforce and 
+are in a position to advocate for disaster preparedness for CCRWDs, develop more 
+robust environmental health policies, and work towards mitigating exposure to 
+environmental toxins that may threaten human health.
+
+© 2017 Sigma Theta Tau International.
+
+DOI: 10.1111/jnu.12328
+PMID: 28834176 [Indexed for MEDLINE]
+
+
+23. Nature. 2021 Jan;589(7843):493. doi: 10.1038/d41586-021-00185-x.
+
+Heed blame for extreme weather.
+
+Betts RA.
+
+DOI: 10.1038/d41586-021-00185-x
+PMID: 33500575 [Indexed for MEDLINE]
+
+
+24. J Environ Manage. 2023 Nov 1;345:118909. doi: 10.1016/j.jenvman.2023.118909. 
+Epub 2023 Aug 31.
+
+A review of economic assessments of drought risk reduction approaches in 
+agriculture.
+
+Vermeulen S(1), Cools J(2), Staes J(3), Van Passel S(4).
+
+Author information:
+(1)University of Antwerp, Department of Engineering Management, Prinsstraat 13, 
+2000 Antwerp, Belgium. Electronic address: sam.vermeulen@uantwerpen.be.
+(2)University of Antwerp, Institute of Environment and Sustainable Development, 
+Prinsstraat 13, 2000 Antwerp, Belgium.
+(3)University of Antwerp, Ecosystem Management Research Group, 
+Universiteitsplein 1C, 2610 Wilrijk, Belgium.
+(4)University of Antwerp, Department of Engineering Management, Prinsstraat 13, 
+2000 Antwerp, Belgium; VCCM, Flanders Make | Nanolab Centre of Excellence, 
+Prinsstraat 13, 2000, Antwerp, Belgium.
+
+Due to climate change, the frequency and intensity of droughts are expected to 
+increase. To improve resilience to droughts, proactive drought management is 
+essential. Economic assessments are typically included to decide on the drought 
+risk-reducing investments to make. The choice of both methods and scope of 
+economic assessments influences the outcome, and thus the investment choice. 
+This paper aims to identify how comprehensively economic assessments are applied 
+in practice. Through a systematic literature review, 14 actual economic 
+assessments are identified and their methods are evaluated based on seven 
+criteria for economic assessments as derived from the United Nations Framework 
+Convention on Climate Change (UNFCCC). The results show that in practice, 
+economic assessments rarely address all criteria. Applying a limited number of 
+criteria reduces the scope and narrows the approach, possibly leading to the 
+underestimation of drought risk reduction approaches' related benefits. Applying 
+the seven criteria in practice will improve the results of economic assessments 
+of drought risk reduction measures, allowing for optimal investment selection. 
+Based on the different criteria, a Framework for Economic Assessments of Drought 
+Risk-Reducing Applications (FEADRRA) is proposed. Applying the criteria of the 
+framework can support decision-makers in drought risk management and in carrying 
+out the most fitting drought interventions.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jenvman.2023.118909
+PMID: 37657290 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+25. Environ Sci Pollut Res Int. 2021 Jun;28(23):29720-29731. doi: 
+10.1007/s11356-021-12801-4. Epub 2021 Feb 10.
+
+Climate change impact assessment, flood management, and mitigation strategies in 
+Pakistan for sustainable future.
+
+Khan I(#)(1)(2), Lei H(#)(3), Shah AA(4), Khan I(5), Muhammad I(6).
+
+Author information:
+(1)Binjiang College of Nanjing University of Information Science & Technology, 
+No. 333, Xishan Road, Wuxi City, Jiangsu Province, China. imran@aup.edu.pk.
+(2)College of Economics & Management, Northwest A&F University, 3 Taicheng Road, 
+Yangling, 712100, Shaanxi, China. imran@aup.edu.pk.
+(3)College of Economics & Management, Northwest A&F University, 3 Taicheng Road, 

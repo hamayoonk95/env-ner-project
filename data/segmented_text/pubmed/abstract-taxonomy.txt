@@ -1,0 +1,540 @@
+1.
+Curr Environ Health Rep. 2021 Jun;8(2):146-156.
+doi: 10.1007/s40572-021-00313-9.
+Epub 2021 May 12.
+Biodiversity and Health in the Urban Environment.
+Marselle MR(1), Lindley SJ(2), Cook PA(3), Bonn A(4)(5)(6).
+Author information: (1)University of Surrey, School of Psychology, Guildford, GU2 7XH, UK. m.marselle@surrey.ac.uk.
+(2)Department of Geography, School of Environment, Education and Development, University of Manchester, Oxford Road, Manchester, M13 9PL, UK.
+(3)School of Health and Society, University of Salford, Salford, M6 6PU, UK.
+(4)Department of Ecosystem Services, Helmholtz Centre for Environmental Research - UFZ, Permoserstr. 15, 04318, Leipzig, Germany.
+(5)Institute of Biodiversity, Friedrich Schiller University Jena, Dornburger Straße 159, 07743, Jena, Germany.
+(6)Department of Ecosystem Services, German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstr.
+4, 04103, Leipzig, Germany.
+Erratum in Curr Environ Health Rep. 2021 Sep;8(3):266.
+doi: 10.1007/s40572-021-00321-9.
+PURPOSE OF REVIEW: Biodiversity underpins urban ecosystem functions that are essential for human health and well-being.
+Understanding how biodiversity relates to human health is a developing frontier for science, policy and practice.
+This article describes the beneficial, as well as harmful, aspects of biodiversity to human health in urban environments.
+RECENT FINDINGS:
+Recent research shows that contact with biodiversity of natural environments within towns and cities can be both positive and negative to human physical, mental and social health and well-being.
+For example, while viruses or pollen can be seriously harmful to human health, biodiverse ecosystems can promote positive health and well-being.
+On balance, these influences are positive.
+As biodiversity is declining at an unprecedented rate, research suggests that its loss could threaten the quality of life of all humans.
+A key research gap is to understand-and evidence-the specific causal pathways through which biodiversity affects human health.
+A mechanistic understanding of pathways linking biodiversity to human health can facilitate the application of nature-based solutions in public health and influence policy.
+Research integration as well as cross-sector urban policy and planning development should harness opportunities to better identify linkages between biodiversity, climate and human health.
+Given its importance for human health, urban biodiversity conservation should be considered as public health investment.
+DOI: 10.1007/s40572-021-00313-9 PMCID: PMC8115992 PMID: 33982150
+[Indexed for MEDLINE]
+Conflict of interest statement: Melissa Marselle, Sarah Lindley, Penny Cook, and Aletta Bonn declare that they have no conflict of interest.
+2.
+Proc Natl Acad Sci U S A. 2023 Aug 15;120(33):e2304663120.
+doi:
+10.1073/pnas.2304663120. Epub 2023 Aug 7.
+Enumerating soil biodiversity.
+Anthony MA(1)(2), Bender SF(1)(3), van der Heijden MGA(1)(3).
+Author information: (1)Plant-Soil Interactions Unit, Research Division Agroecology and Environment, Agroscope, Zürich 8046, Switzerland.
+(2)Swiss Federal Institute for Forest, Snow and Landscape Research, Forest Dynamics Research Unit, Birmensdorf 8903, Switzerland.
+(3)Department of Plant and Microbial Biology, University of Zürich, Zürich 8008, Switzerland.
+Comment in Proc Natl Acad Sci U S A. 2023 Sep 12;120(37):e2312358120.
+doi: 10.1073/pnas.2312358120.
+Soil is an immense habitat for diverse organisms across the tree of life, but just how many organisms live in soil is surprisingly unknown.
+Previous efforts to enumerate soil biodiversity consider only certain types of organisms (e.g., animals) or report values for diverse groups without partitioning species that live in soil versus other habitats.
+Here, we reviewed the biodiversity literature to show that soil is likely home to 59 ± 15% of the species on Earth.
+We therefore estimate an approximately two times greater soil biodiversity than previous estimates, and we include representatives from the simplest (microbial) to most complex (mammals) organisms.
+Enchytraeidae have the greatest percentage of species in soil (98.6%), followed by fungi (90%), Plantae (85.5%), and Isoptera (84.2%).
+Our results demonstrate that soil is the most biodiverse singular habitat.
+By using this estimate of soil biodiversity, we can more accurately and quantitatively advocate for soil organismal conservation and restoration as a central goal of the Anthropocene.
+DOI: 10.1073/pnas.2304663120 PMCID: PMC10437432 PMID: 37549278
+[Indexed for MEDLINE]
+Conflict of interest statement: The authors declare no competing interest.
+3. Curr Opin Microbiol.
+2023 Oct;75:102348.
+doi: 10.1016/j.mib.2023.102348.
+Epub 2023 Jun 21.
+Synthesizing microbial biodiversity.
+Sun X(1), Sanchez A(2).
+Author information: (1)Department of Global Ecology, Carnegie Institution for Science, Stanford, CA 94305, USA.
+(2)Department of Microbial Biotechnology, National Center for Biotechnology CNB-CSIC, Madrid, Spain.
+Electronic address: alvaro.sanchez@cnb.csic.es.
+The diversity of microbial ecosystems is linked to crucial ecological processes and functions.
+Despite its significance, the ecological mechanisms responsible for the initiation and maintenance of microbiome diversity are still not fully understood.
+The primary challenge lies in the difficulty of isolating, monitoring, and manipulating the complex and interrelated ecological processes that modulate the diversity of microbial communities in their natural habitats.
+Synthetic ecology experiments provide a suitable alternative for investigating the mechanisms behind microbial biodiversity in controlled laboratory settings, as the environment can be systematically and modularly manipulated by adding and removing components.
+This enables the testing of hypotheses and the advancement of predictive theories.
+In this review, we present an overview of recent progress toward achieving this goal.
+Copyright © 2023
+The Authors. Published by Elsevier Ltd.. All rights reserved.
+DOI: 10.1016/j.mib.2023.102348 PMID: 37352679
+[Indexed for MEDLINE]
+Conflict of interest statement: Declaration of Competing Interest The authors declare no conflicts of interest.
+4.
+Allergy.
+2019 Aug;74(8):1445-1456.
+doi: 10.1111/all.13763.
+Epub 2019 Apr 4.
+A biodiversity hypothesis.
+Author information: (1)Skin and Allergy Hospital, Helsinki University Hospital, University of Helsinki, Helsinki, Finland.
+Biodiversity hypothesis states that contact with natural environments enriches the human microbiome, promotes immune balance and protects from allergy and inflammatory disorders.
+We are protected by two nested layers of biodiversity, microbiota of the outer layer (soil, natural waters, plants, animals) and inner layer (gut, skin, airways).
+The latter inhabits our body and is colonized from the outer layer.
+Explosion of human populations along with cultural evolution is profoundly changing our environment and lifestyle.
+Adaptive immunoregulatory circuits and dynamic homeostasis are at stake in the newly emerged urban surroundings.
+In allergy, and chronic inflammatory disorders in general, exploring the determinants of immunotolerance is the key for prevention and more effective treatment.
+Loss of immunoprotective factors, derived from nature, is a new kind of health risk poorly acknowledged until recently.
+The paradigm change has been implemented in the Finnish allergy programme (2008-2018), which emphasized tolerance instead of avoidance.
+The first results are promising, as allergy burden has started to reduce.
+The rapidly urbanizing world is facing serious biodiversity loss with global warming, which are interconnected.
+Biodiversity hypothesis of health and disease has societal impact, for example, on city planning, food and energy production and nature conservation.
+It has also a message for individuals for health and well-being: take nature close, to touch, eat, breathe, experience and enjoy.
+Biodiverse natural environments are dependent on planetary health, which should be a priority also among health professionals.
+© 2019 EAACI and John Wiley and Sons A/S. Published by John Wiley and Sons Ltd.
+DOI: 10.1111/all.13763 PMID: 30835837
+[Indexed for MEDLINE]
+5.
+Int J Environ Res Public Health.
+2022
+Sep 20;19(19):11882.
+doi: 10.3390/ijerph191911882.
+Biodiversity Effects on Human Mental Health via Microbiota Alterations.
+Wong YS(1), Osborne NJ(2)(3)(4).
+Author information: (1)School of Medicine, The University of Queensland, Herston, QLD 4006, Australia.
+(2)School of Public Health, The University of Queensland, Herston, QLD 4006, Australia.
+(3)School of Population Health, University of New South Wales, Sydney, NSW 2052, Australia.
+(4)European Centre for Environment and Human Health (ECEHH), University of Exeter Medical School, Knowledge Spa, Royal Cornwall Hospital, Truro TR1 3HD, Cornwall, UK.
+The biodiversity hypothesis postulates that the natural environment positively affects human physical and mental health.
+We evaluate the latest evidence and propose new tools to examine the halobiont environment.
+We chose to target our review at neuropsychiatric disorders, including depression, anxiety, autism, dementia, multiple sclerosis, etc. because a green prescription (exposure to green spaces) was shown to benefit patients with neuropsychiatric disorders.
+Specifically, our review consists of three mini reviews on the associations exploring: (1) ecological biodiversity and human microbiota; (2) human microbiota and neuropsychiatric disorders; (3) ecological biodiversity and neuropsychiatric disorders.
+We conclude that the environment could directly transfer microbes to humans and that human studies support the gut microbiota as part of the pathophysiology of neuropsychiatric disorders.
+Overall, the results from the three mini reviews consistently support the biodiversity hypothesis.
+These findings demonstrated the plausibility of biodiversity exerting mental health effects through biophysiological mechanisms instead of psychological mechanisms alone.
+The idea can be further tested with novel biodiversity measurements and research on the effects of a green prescription.
+DOI: 10.3390/ijerph191911882 PMCID: PMC9565733 PMID: 36231182 [Indexed for MEDLINE]
+Conflict of interest statement: No conflict of interest to declare.
+6.
+Biol Rev Camb Philos Soc. 2020
+Apr;95(2):350-364.
+doi: 10.1111/brv.12567.
+Epub 2019 Nov 15.
+Towards an integrative understanding of soil biodiversity.
+Thakur MP(1)(2)(3), Phillips HRP(2), Brose U(2)(4), De Vries FT(5), Lavelle P(6), Loreau M(7), Mathieu J(6), Mulder C(8), Van der Putten WH(1)(9), Rillig MC(10)(11), Wardle DA(12), Bach EM(13), Bartz MLC(14)(15), Bennett JM(2)(16), Briones MJI(17), Brown G(18), Decaëns T(19), Eisenhauer N(2)(3), Ferlian O(2)(3), Guerra CA(2)(16), König-Ries B(2)(20), Orgiazzi A(21), Ramirez KS(1), Russell DJ(22), Rutgers M(23), Wall DH(13), Cameron EK(24)(25).
+Author information: (1)Department of Terrestrial Ecology, Netherlands Institute of Ecology (NIOO-KNAW), Wageningen, Gelderland, The Netherlands.
+(2)German Centre for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig, Leipzig, Saxony, Germany.
+(3)Institute of Biology, Leipzig University, Leipzig, Saxony, Germany.
+(4)Institute of Biodiversity, Friedrich Schiller University Jena, Jena, Thuringia, Germany.
+(5)School of Earth and Environmental Sciences, The University of Manchester, Manchester, North West England, UK.
+(6)Sorbonne Université, CNRS, UPEC, Paris, Île-de-France, France.
+(7)Centre for Biodiversity Theory and Modelling, Theoretical and Experimental Ecology Station, CNRS and Paul Sabatier University, Moulis, Occitanie, France.
+(8)Department Biological, Geological and Environmental Sciences, University of Catania, Catania, Sicily, Italy.
+(9)Laboratory of Nematology, Wageningen University, Wageningen, Gelderland, The Netherlands.
+(10)Freie Universität Berlin, Institute of Biology, Berlin, Germany.
+(11)Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany.
+(12)Asian School for the Environment, Nanyang Technological University, Singapore, Singapore.
+(13)Department of Biology and School of Global Environmental Sustainability, Colorado State University, Fort Collins, CO, USA.
+(14)Center of Functional Ecology, Department of Life Sciences, University of Coimbra, Coimbra, Centro, Portugal.
+(15)Universidade Positivo, Rua Professor Pedro Viriato Parigot de Souza, Curitiba, Paraná, Brazil.
+(16)Institute of Biology, Martin Luther University Halle-Wittenberg, Halle (Saale), Saxony-Anhalt, Germany.
+(17)Departamento de Ecología y Biología Animal, Universidad de Vigo, Vigo, Galicien, Spain.
+(18)Embrapa Forestry, CEP 83411-000, Colombo, PR, Brazil.
+(19)Centre d'Ecologie Fonctionnelle et Evolutive (CEFE UMR 5175, CNRS-Université de Montpellier-Université Paul-Valéry Montpellier-EPHE), Montpellier, Occitanie, France.
+(20)Institute of Computer Science, Friedrich Schiller University Jena, Jena, Thuringia, Germany.
+(21)European Commission, Joint Research Centre (JRC), Sustainable Resources Directorate, Ispra, Varese, Italy.
+(22)Senckenberg Museum of Natural History Görlitz, Goerlitz, Saxony, Germany.
+(23)National Institute for Public Health and the Environment, Bilthoven, Utrecht, The Netherlands.
+(24)Faculty of Biological and Environmental Sciences, University of Helsinki, Helsinki, Uusimaa, Finland.
+(25)Department of Environmental Science, Saint Mary's University, Halifax, Nova Scotia, Canada.
+Soil is one of the most biodiverse terrestrial habitats.
+Yet, we lack an integrative conceptual framework for understanding the patterns and mechanisms driving soil biodiversity.
+One of the underlying reasons for our poor understanding of soil biodiversity patterns relates to whether key biodiversity theories (historically developed for aboveground and aquatic organisms) are applicable to patterns of soil biodiversity.
+Here, we present a systematic literature review to investigate whether and how key biodiversity theories (species-energy relationship, theory of island biogeography, metacommunity theory, niche theory and neutral theory) can explain observed patterns of soil biodiversity.
+We then discuss two spatial compartments nested within soil at which biodiversity theories can be applied to acknowledge the scale-dependent nature of soil biodiversity.
+© 2019
+The Authors.
+Biological Reviews published by John Wiley & Sons Ltd on behalf of Cambridge Philosophical Society.
+DOI: 10.1111/brv.12567 PMCID: PMC7078968 PMID: 31729831 [Indexed for MEDLINE]
+7.
+Science. 2019
+Sep 13;365(6458):1114-1119.
+doi: 10.1126/science.aax0151.
+Building mountain biodiversity: Geological and evolutionary processes.
+Rahbek C(#)(1)(2)(3), Borregaard MK(#)(4), Antonelli A(5)(6), Colwell RK(4)(7)(8), Holt BG(4), Nogues-Bravo D(4), Rasmussen CMØ(4)(9), Richardson K(4), Rosing MT(10), Whittaker RJ(4)(11), Fjeldså J(4)(8).
+Author information: (1)Center for Macroecology, Evolution and Climate, GLOBE Institute, University of Copenhagen, Denmark.
+crahbek@snm.ku.dk.
+(2)Department of Life Sciences, Imperial College London, Ascot SL5 7PY, UK. (3)Danish Institute for Advanced Study, University of Southern Denmark, Campusvej 55, 5230 Odense M, Denmark.
+(4)Center for Macroecology, Evolution and Climate, GLOBE Institute, University of Copenhagen, Denmark.
+(5)Royal Botanic Gardens, Kew, Surrey TW9 3AE, UK.
+(6)Gothenburg Global Biodiversity Centre, SE-41319 Göteborg, Sweden.
+(7)Department of Ecology and Evolutionary Biology, University of Connecticut, Storrs, CT 06269, USA.
+(8)University of Colorado Museum of Natural History, Boulder, CO 80309, USA.
+(9)Natural History Museum of Denmark, University of Copenhagen, Copenhagen, Denmark.
+(10)Section for GeoBiology, GLOBE Institute, University of Copenhagen, Copenhagen, Denmark.
+(11)School of Geography and the Environment, University of Oxford, South Parks Road, Oxford OX1 3QY, UK.
+(#)Contributed equally
+Mountain regions are unusually biodiverse, with rich aggregations of small-ranged species that form centers of endemism.
+Mountains play an array of roles for Earth's biodiversity and affect neighboring lowlands through biotic interchange, changes in regional climate, and nutrient runoff.
+The high biodiversity of certain mountains reflects the interplay of multiple evolutionary mechanisms: enhanced speciation rates with distinct opportunities for coexistence and persistence of lineages, shaped by long-term climatic changes interacting with topographically dynamic landscapes.
+High diversity in most tropical mountains is tightly linked to bedrock geology-notably, areas comprising mafic and ultramafic lithologies, rock types rich in magnesium and poor in phosphate that present special requirements for plant physiology.
+Mountain biodiversity bears the signature of deep-time evolutionary and ecological processes, a history well worth preserving.
+Copyright © 2019, American Association for the Advancement of Science.
+DOI: 10.1126/science.aax0151 PMID: 31515384
+[Indexed for MEDLINE]
+8.
+Biol Rev Camb Philos Soc. 2018
+May;93(2):971-995.
+doi: 10.1111/brv.12381.
+Epub 2017 Nov 8.
+Scaling biodiversity responses to hydrological regimes.
+Rolls RJ(1)(2), Heino J(3), Ryder DS(2), Chessman BC(4), Growns IO(2), Thompson RM(1), Gido KB(5).
+Author information: (1)Institute for Applied Ecology, University of Canberra, Canberra, ACT 2601, Australia.
+(2)School of Environmental and Rural Science, University of New England, Armidale, New South Wales, 2351, Australia.
+(3)Finnish Environment Institute, Natural Environment Centre, Biodiversity, Oulu, Finland.
+(4)7 Dalrymple Crescent, Pymble, New South Wales, 2073, Australia.
+(5)Division of Biology, Kansas State University, Manhattan, KS, U.S.A.
+Of all ecosystems, freshwaters support the most dynamic and highly concentrated biodiversity on Earth.
+These attributes of freshwater biodiversity along with increasing demand for water mean that these systems serve as significant models to understand drivers of global biodiversity change.
+Freshwater biodiversity changes are often attributed to hydrological alteration by water-resource development and climate change owing to the role of the hydrological regime of rivers, wetlands and floodplains affecting patterns of biodiversity.
+However, a major gap remains in conceptualising how the hydrological regime determines patterns in biodiversity's multiple spatial components and facets (taxonomic, functional and phylogenetic).
+We synthesised primary evidence of freshwater biodiversity responses to natural hydrological regimes to determine how distinct ecohydrological mechanisms affect freshwater biodiversity at local, landscape and regional spatial scales.
+Hydrological connectivity influences local and landscape biodiversity, yet responses vary depending on spatial scale.
+Biodiversity at local scales is generally positively associated with increasing connectivity whereas landscape-scale biodiversity is greater with increasing fragmentation among locations.
+The effects of hydrological disturbance on freshwater biodiversity are variable at separate spatial scales and depend on disturbance frequency and history and organism characteristics.
+The role of hydrology in determining habitat for freshwater biodiversity also depends on spatial scaling.
+At local scales, persistence, stability and size of habitat each contribute to patterns of freshwater biodiversity yet the responses are variable across the organism groups that constitute overall freshwater biodiversity.
+We present a conceptual model to unite the effects of different ecohydrological mechanisms on freshwater biodiversity across spatial scales, and develop four principles for applying a multi-scaled understanding of freshwater biodiversity responses to hydrological regimes.
+The protection and restoration of freshwater biodiversity is both a fundamental justification and a central goal of environmental water allocation worldwide.
+Clearer integration of concepts of spatial scaling in the context of understanding impacts of hydrological regimes on biodiversity will increase uptake of evidence into environmental flow implementation, identify suitable biodiversity targets responsive to hydrological change or restoration, and identify and manage risks of environmental flows contributing to biodiversity decline.
+© 2017 Cambridge Philosophical Society.
+DOI: 10.1111/brv.12381 PMID: 29115026
+[Indexed for MEDLINE]
+9.
+Sci Adv. 2020 Jan 29;6(5):eaax7712.
+doi: 10.1126/sciadv.aax7712.
+eCollection 2020 Jan.
+On the functional relationship between biodiversity and economic value.
+Paul C(1)(2), Hanley N(3), Meyer ST(4), Fürst C(5), Weisser WW(4), Knoke T(1).
+Author information: (1)Institute of Forest Management, Department of Ecology and Ecosystem Management, TUM School of Life Sciences Weihenstephan, Technical University of Munich, 85354 Freising, Germany.
+(2)Department of Forest Economics and Sustainable Land-use Planning, University of Goettingen, 37077 Goettingen, Germany.
+(3)Institute of Biodiversity, Animal Health and Comparative Medicine, University of Glasgow, Glasgow G12 8QQ, Scotland.
+(4)Terrestrial Ecology Research Group, Department of Ecology and Ecosystem Management, TUM School of Life Sciences Weihenstephan, Technical University of Munich, 85354 Freising, Germany.
+(5)Institute for Geosciences and Geography, Department of Sustainable Landscape Development, Martin-Luther University Halle, 06108 Halle, Germany.
+Biodiversity's contribution to human welfare has become a key argument for maintaining and enhancing biodiversity in managed ecosystems.
+The functional relationship between biodiversity (b) and economic value (V) is, however, insufficiently understood, despite the premise of a positive-concave bV relationship that dominates scientific and political arenas.
+Here, we review how individual links between biodiversity, ecosystem functions (F), and services affect resulting bV relationships.
+Our findings show that bV relationships are more variable, also taking negative-concave/convex or strictly concave and convex forms.
+This functional form is driven not only by the underlying bF relationship but also by the number and type of ecosystem services and their potential trade-offs considered, the effects of inputs, and the type of utility function used to represent human preferences.
+Explicitly accounting for these aspects will enhance the substance and coverage of future valuation studies and allow more nuanced conclusions, particularly for managed ecosystems.
+Copyright © 2020 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science.
+No claim to original U.S. Government Works.
+Distributed under a Creative Commons Attribution NonCommercial License 4.0 (CC BY-NC).
+DOI: 10.1126/sciadv.aax7712 PMCID: PMC6989135 PMID: 32064338
+[Indexed for MEDLINE]
+10.
+Trends Ecol Evol. 2020
+Aug;35(8):679-690. doi: 10.1016/j.tree.2020.03.004.
+Epub 2020 Apr 2.
+Transboundary Frontiers: An Emerging Priority for Biodiversity Conservation.
+Liu J(1), Yong DL(2), Choi CY(3), Gibson L(4).
+Author information: (1)Ministry of Education Key Laboratory for Biodiversity Science and Ecological Engineering, Coastal Ecosystems Research Station of the Yangtze River Estuary, Institute of Biodiversity Science, School of Life Sciences, Fudan University, Shanghai, 200438, China.
+(2)BirdLife International, 354 Tanglin Road, #01-16/17, Tanglin International Centre, 247672, Singapore.
+(3)School of Environmental Science and Engineering, Southern University of Science and Technology, Shenzhen, China.
+(4)School of Environmental Science and Engineering, Southern University of Science and Technology, Shenzhen, China.
+Electronic address: biodiversity@sustech.edu.cn.
+The world's biomes and their associated ecosystems are artificially fractured by geopolitical boundaries that define countries.
+Yet 'transboundary' landscapes often overlap with biodiversity hotspots, contain surprisingly important ecosystems, and provide critical habitats for threatened species.
+Notwithstanding, biodiversity in these landscapes is increasingly imperiled by infrastructure, including walls and fences along borders and cross-border roads that drive landscape fragmentation and the loss of ecological connectivity.
+Associated problems due to reduced governance (e.g., illegal wildlife trade) also undermine conservation efforts in these important regions.
+In this review, we distinguish positive and negative effects of transboundary frontiers on biodiversity conservation, discuss lessons from existing frameworks, and identify scenarios that can maximize opportunities for biodiversity conservation in transboundary frontiers.
+Copyright © 2020 Elsevier Ltd.
+All rights reserved.
+DOI: 10.1016/j.tree.2020.03.004 PMID: 32668213
+[Indexed for MEDLINE]
+11.
+Proc Natl Acad Sci U S A. 2023 Oct 3;120(40):e2302424120.
+doi: 10.1073/pnas.2302424120.
+Epub 2023 Sep 25.
+Acknowledging more biodiversity without more species.
+Dufresnes C(1), Poyarkov N(2)(3), Jablonski D(4).
+Author information: (1)Laboratory of Amphibian Systematics and Evolutionary Research, College of Biology and Environment, Nanjing Forestry University, Nanjing 210037, People's Republic of China.
+(2)Joint Russian-Vietnamese Tropical Research and Technological Center, Hanoi 122000, Vietnam.
+(3)Department of Vertebrate Zoology, Lomonosov Moscow State University, Moscow 119234, Russia.
+(4)Department of Zoology, Comenius University in Bratislava, Bratislava 84215, Slovakia.
+Delimiting and naming biodiversity is a vital step toward wildlife conservation and research.
+However, species delimitation must be consistent across biota so that the limited resources available for nature protection can be spent effectively and objectively.
+To date, newly discovered lineages typically are either left undescribed and thus remain unprotected or are being erroneously proposed as new species despite mixed evidence for completed speciation, in turn contributing to the emerging problem of taxonomic inflation.
+Inspired by recent conceptual and methodological progress, we propose a standardized workflow for species delimitation that combines phylogenetic and hybrid zone analyses of genomic datasets ("genomic taxonomy"), in which phylogeographic lineages that do not freely admix are ranked as species, while those that have remained fully genetically compatible are ranked as subspecies.
+In both cases, we encourage their formal taxonomic naming, diagnosis, and description to promote social awareness toward biodiversity.
+The use of loci throughout the genome overcomes the unreliability of widely used barcoding genes when phylogeographic patterns are complex, while the evaluation of divergence and reproductive isolation unifies the long-opposed concepts of lineage species and biological species.
+We suggest that a shift in conservation assessments from a single level (species) toward a two-level hierarchy (species and subspecies) will lead to a more balanced perception of biodiversity in which both intraspecific and interspecific diversity are valued and more adequately protected.
+DOI: 10.1073/pnas.2302424120 PMCID: PMC10556632 PMID: 37748058
+[Indexed for MEDLINE]
+Conflict of interest statement: The authors declare no competing interest.
+12.
+Proc Biol Sci. 2016
+Dec 14;283(1844):20162094. doi: 10.1098/rspb.2016.2094.
+Biodiversity in the Anthropocene: prospects and policy.
+Seddon N(1)(2)(3), Mace GM(4), Naeem S(5), Tobias JA(6), Pigot AL(4)(7), Cavanagh R(8), Mouillot D(9)(10), Vause J(11), Walpole M(11).
+Author information: (1)Biodiversity Institute, University of Oxford, Oxford, UK nathalie.seddon@zoo.ox.ac.uk.
+(2)Edward Grey Institute, Department of Zoology, University of Oxford, Oxford, UK.
+(3)International Institute for Environment and Development, 80-86 Gray's Inn Road, London WC1X 8NH, UK.
+(4)Centre for Biodiversity and Environment Research, University College London, London, UK.
+(5)Department of Ecology, Evolution and Environmental Biology, Columbia University, New York, NY, USA.
+(6)Department of Life Sciences, Imperial College London, Silwood Park, Buckhurst Road, Ascot, Berkshire SL5 7PY, UK.
+(7)Groningen Institute for Evolutionary Life Sciences, University of Groningen, PO Box 11103, Groningen 9700 CC, The Netherlands.
+(8)British Antarctic Survey, Cambridge, UK.
+(9)MARBEC, UMR CNRS-UM2 9190, Université Montpellier, Montpellier, France.
+(10)Australian Research Council Centre of Excellence for Coral Reef Studies, James Cook University, Townsville, Queensland 4811, Australia.
+(11)UNEP, World Conservation Monitoring Centre, Cambridge, UK.
+Meeting the ever-increasing needs of the Earth's human population without excessively reducing biological diversity is one of the greatest challenges facing humanity, suggesting that new approaches to biodiversity conservation are required.
+One idea rapidly gaining momentum-as well as opposition-is to incorporate the values of biodiversity into decision-making using economic methods.
+Here, we develop several lines of argument for how biodiversity might be valued, building on recent developments in natural science, economics and science-policy processes.
+Then we provide a synoptic guide to the papers in this special feature, summarizing recent research advances relevant to biodiversity valuation and management.
+Current evidence suggests that more biodiverse systems have greater stability and resilience, and that by maximizing key components of biodiversity we maximize an ecosystem's long-term value.
+Moreover, many services and values arising from biodiversity are interdependent, and often poorly captured by standard economic models.
+We conclude that economic valuation approaches to biodiversity conservation should (i) account for interdependency and (ii) complement rather than replace traditional approaches.
+To identify possible solutions, we present a framework for understanding the foundational role of hard-to-quantify 'biodiversity services' in sustaining the value of ecosystems to humanity, and then use this framework to highlight new directions for pure and applied research.
+In most cases, clarifying the links between biodiversity and ecosystem services, and developing effective policy and practice for managing biodiversity, will require a genuinely interdisciplinary approach.
+© 2016
+The Author(s).
+DOI: 10.1098/rspb.2016.2094 PMCID: PMC5204156 PMID: 27928040
+[Indexed for MEDLINE]
+13.
+Nat Rev Microbiol.
+2016 Jul;14(7):434-47.
+doi: 10.1038/nrmicro.2016.59.
+Dimensions of biodiversity in the Earth mycobiome.
+Peay KG(1), Kennedy PG(2)(3), Talbot JM(4).
+Author information: (1)Department of Biology, Stanford University, Stanford, California 94305, USA.
+(2)Department of Plant Biology, University of Minnesota.
+(3)Department of Ecology, Evolution and Behavior, University of Minnesota, St. Paul, Minnesota 55108, USA.
+(4)Department of Biology, Boston University, Boston, Massachusetts 02215, USA.
+Fungi represent a large proportion of the genetic diversity on Earth and fungal activity influences the structure of plant and animal communities, as well as rates of ecosystem processes.
+Large-scale DNA-sequencing datasets are beginning to reveal the dimensions of fungal biodiversity, which seem to be fundamentally different to bacteria, plants and animals.
+In this Review, we describe the patterns of fungal biodiversity that have been revealed by molecular-based studies.
+Furthermore, we consider the evidence that supports the roles of different candidate drivers of fungal diversity at a range of spatial scales, as well as the role of dispersal limitation in maintaining regional endemism and influencing local community assembly.
+Finally, we discuss the ecological mechanisms that are likely to be responsible for the high heterogeneity that is observed in fungal communities at local scales.
+DOI: 10.1038/nrmicro.2016.59 PMID: 27296482
+[Indexed for MEDLINE]
+14.
+Genes (Basel).
+2019
+Mar 1;10(3):192.
+doi: 10.3390/genes10030192.
+Beyond Biodiversity: Can Environmental DNA (eDNA) Cut It as a Population Genetics Tool?
+Adams CIM(1), Knapp M(2), Gemmell NJ(3), Jeunen GJ(4), Bunce M(5), Lamare MD(6), Taylor HR(7).
+Author information: (1)Department of Anatomy, University of Otago, 270 Great King Street, Dunedin, Otago 9016, New Zealand.
+clare.adams@postgrad.otago.ac.nz.
+(2)Department of Anatomy, University of Otago, 270 Great King Street, Dunedin, Otago 9016, New Zealand.
+michael.knapp@otago.ac.nz.
+(3)Department of Anatomy, University of Otago, 270 Great King Street, Dunedin, Otago 9016, New Zealand.
+neil.gemmell@otago.ac.nz.
+(4)Department of Anatomy, University of Otago, 270 Great King Street, Dunedin, Otago 9016, New Zealand.
+gjeunen@gmail.com.
+(5)Trace and Environmental DNA (TrEnD) Laboratory, School of Molecular and Life Sciences, Curtin University, Bentley, Perth, WA 6102, Australia.
+michael.bunce@curtin.edu.au.
+(6)Department of Marine Science, University of Otago, 310 Castle Street, Dunedin, Otago 9016, New Zealand.
+miles.lamare@otago.ac.nz.
+(7)Department of Anatomy, University of Otago, 270 Great King Street, Dunedin, Otago 9016, New Zealand.
+helen.taylor@otago.ac.nz.
+Population genetic data underpin many studies of behavioral, ecological, and evolutionary processes in wild populations and contribute to effective conservation management.
+However, collecting genetic samples can be challenging when working with endangered, invasive, or cryptic species.
+Environmental DNA (eDNA) offers a way to sample genetic material non-invasively without requiring visual observation.
+While eDNA has been trialed extensively as a biodiversity and biosecurity monitoring tool with a strong taxonomic focus, it has yet to be fully explored as a means for obtaining population genetic information.
+Here, we review current research that employs eDNA approaches for the study of populations.
+We outline challenges facing eDNA-based population genetic methodologies, and suggest avenues of research for future developments.
+We advocate that with further optimizations, this emergent field holds great potential as part of the population genetics toolkit.
+DOI: 10.3390/genes10030192 PMCID: PMC6470983 PMID: 30832286
+[Indexed for MEDLINE]
+Conflict of interest statement: The authors declare no conflict of interest.
+15.
+Trends Ecol Evol. 2024
+Oct;39(10):889-891.
+doi: 10.1016/j.tree.2024.08.001.
+Epub 2024 Aug 28.
+The overlooked biodiversity loss.
+Limborg MT(1), Winther-Have CS(2), Morueta-Holme N(3), Gilbert MTP(2), Rasmussen JA(2).
+Author information: (1)Center for Evolutionary Hologenomics, Globe Institute, University of Copenhagen, Copenhagen, Denmark.
+Electronic address: morten.limborg@sund.ku.dk.
+(2)Center for Evolutionary Hologenomics, Globe Institute, University of Copenhagen, Copenhagen, Denmark.
+(3)Center for Macroecology, Evolution and Climate, Globe Institute, University of Copenhagen, Copenhagen, Denmark.
+As most life-forms exist as holobionts, reduction of host-level biodiversity drives parallel habitat losses to their host-adapted microorganisms.
+The holobiont concept helps us to understand how species are habitats for - often ignored - coevolved microorganisms also worthy of conservation.
+Indeed, loss of host-associated microbial biodiversity may accelerate the extinction risks of their host.
+Copyright © 2024 Elsevier Ltd.
+All rights reserved.
+DOI: 10.1016/j.tree.2024.08.001 PMID: 39209587
+[Indexed for MEDLINE]
+Conflict of interest statement: Declaration of interests The authors declare no competing interests.
+16.
+Ambio.
+2020
+Feb;49(2):419-433.
+doi: 10.1007/s13280-019-01210-0.
+Epub 2019 Jun 24.
+Linking democracy and biodiversity conservation: Empirical evidence and research gaps.
+Rydén O(1)(2)(3)(4), Zizka A(5)(6), Jagers SC(7)(8), Lindberg SI(5)(7), Antonelli A(9)(10)(11).
+Author information: (1)Gothenburg Global Biodiversity Centre, Department of Biological and Environmental Sciences, University of Gothenburg, Gothenburg, Sweden. oskar.ryden@gu.se.
+(2)Department of Biological and Environmental Sciences, University of Gothenburg, Box 461, 405 30, Gothenburg, Sweden. oskar.ryden@gu.se.
+(3)Department of Political Science, University of Gothenburg, Box 711, 405 30, Gothenburg, Sweden. oskar.ryden@gu.se.
+(4)Centre for Collective Action Research, Department of Political Science, University of Gothenburg, Gothenburg, Sweden. oskar.ryden@gu.se.
+(5)Varieties of Democracy Institute, Department of Political Science, University of Gothenburg, Gothenburg, Sweden.
+(6)German Center for Integrative Biodiversity Research (iDiv), University of Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany.
+(7)Department of Political Science, University of Gothenburg, Box 711, 405 30, Gothenburg, Sweden.
+(8)Centre for Collective Action Research, Department of Political Science, University of Gothenburg, Gothenburg, Sweden.
+(9)Gothenburg Global Biodiversity Centre, Department of Biological and Environmental Sciences, University of Gothenburg, Gothenburg, Sweden.
+(10)Department of Biological and Environmental Sciences, University of Gothenburg, Box 461, 405 30, Gothenburg, Sweden.
+(11)Royal Botanical Gardens Kew, Richmond, Surrey, TW9 3AE, UK.
+Increasing human pressure threatens plant and animal species with extinction worldwide.
+National political institutions constitute an important arena for biodiversity conservation.
+Yet, the relationship between how democratic these national institutions are and a country's efforts towards and track-record for biodiversity conservation remains poorly understood.
+In this review, we outline the theoretical links between democracy and biodiversity conservation and review the empirical literature testing them.
+While more studies reported a positive than a negative relation between democracy and biodiversity conservation (15 vs. 11), the most common result was a mixed relationship (28), often conditioned on economic factors.
+The use of different proxies to measure biodiversity, including deforestation, protected areas, threatened species, and fishery statistics emerged as a primary obstacle for synthesis.
+We suggest overcoming this caveat together with a consistent definition of democratic institutions and a standardized statistical framework as research priorities to improve policies against the global biodiversity loss.
+DOI: 10.1007/s13280-019-01210-0 PMCID: PMC6965076 PMID: 31236785 [Indexed for MEDLINE]
+17.
+Curr Opin Biotechnol. 2022 Feb;73:28-33.
+doi: 10.1016/j.copbio.2021.06.028.
+Epub 2021 Jul 16.
+Creating an atlas to visualize the biodiversity of the mammalian gut microbiota.
+Alessandri G(1), Rizzo SM(1), Ossiprandi MC(2), van Sinderen D(3), Ventura M(4).
+Author information: (1)Laboratory of Probiogenomics, Department of Chemistry, Life Sciences, and Environmental Sustainability, University of Parma, Parma, Italy.
+(2)Department of Veterinary Medical Science, University of Parma, Parma, Italy; Microbiome Research Hub, University of Parma, Parma, Italy.
+(3)APC Microbiome Ireland and School of Microbiology, University College Cork, Western Road, Cork, Ireland.
+(4)Laboratory of Probiogenomics, Department of Chemistry, Life Sciences, and Environmental Sustainability, University of Parma, Parma, Italy; Microbiome Research Hub, University of Parma, Parma, Italy.
+Electronic address: marco.ventura@unipr.it.
+Given the fundamental role played by the intestinal microbial community in influencing host health, it is not surprising that recent decades have been marked by increased efforts to determine the taxonomic composition of the human gut microbiota and its associated functions.
+Despite their generally accepted importance, these large-scale human-centered studies prevent an exhaustive overview of those mechanisms and factors that contribute to the mammalian gut microbiota assembly.
+However, Next-Generation Sequencing techniques and associated bioinformatic tools provide an exciting opportunity to rapidly expand our knowledge on the intestinal microbial communities associated with members of the Mammalia class.
+These non-human-focused studies established that dietary, host phylogeny, host physiology and anthropogenic influences represent the main factors driving the selection of a specific gut microbial consortium in mammals.
+The current review is aimed at providing a comprehensive overview on the impact that the above-mentioned factors exert on the assembly of the mammalian gut microbiota.
+Copyright © 2021 Elsevier Ltd.
+All rights reserved.
+DOI: 10.1016/j.copbio.2021.06.028 PMID: 34280701
+[Indexed for MEDLINE]
+18.
+Science.
+2023
+Aug 11;381(6658):612.
+doi: 10.1126/science.adj1395.
+Epub 2023 Aug 10.
+China's canal project threatens biodiversity.
+Yang Q(1), Yang S(1)(2).
+Author information: (1)Institute for Advanced Marine Research, China University of Geosciences, Guangzhou 511462, China.
+(2)College of Marine Science and Technology, China University of Geosciences, Wuhan 430074, China.
+DOI: 10.1126/science.adj1395 PMID: 37561849
+[Indexed for MEDLINE]
+19.
+Glob Chang Biol.
+2022 Apr;28(8):2555-2577.
+doi: 10.1111/gcb.16056.
+Epub 2022 Jan 10.
+How do we best synergize climate mitigation actions to co-benefit biodiversity?
+Smith P(1), Arneth A(2), Barnes DKA(3), Ichii K(4), Marquet PA(5), Popp A(6), Pörtner HO(7), Rogers AD(8)(9), Scholes RJ(10), Strassburg B(11)(12), Wu J(13), Ngo H(14).
+Author information: (1)Institute of Biological and Environmental Sciences, University of Aberdeen, Aberdeen, UK.
+(2)Atmospheric Environmental Research, Karlsruhe Institute of Technology (KIT), Garmisch-Partenkirchen, Germany.
+(3)British Antarctic Survey, Cambridge, UK.
+(4)Center for Environmental Remote Sensing (CeRES), Chiba University, Chiba, Japan.
+(5)Center for Applied Ecology and Sustainability (CAPES), Pontificia Universidad Catolica de Chile, Santiago, Chile.
+(6)Potsdam Institute for Climate Impact Research (PIK), Potsdam, Germany.
+(7)Alfred Wegener Institute for Polar and Marine Research, Bremerhaven, Germany.
+(8)Somerville College, University of Oxford, Oxford, UK.
+(9)REV Ocean, Lysaker, Norway.
+(10)Global Change Institute, University of the Witwatersrand, Johannesburg, South Africa.
+(11)Rio Conservation and Sustainability Science Centre, Department of Geography and Environment, Pontifical Catholic University, Rio de Janeiro, Brazil.
+(12)International Institute for Sustainability, Rio de Janeiro, Brazil.
+(13)The Institute of Environmental Ecology, Chinese Research Academy of Environmental Sciences, Beijing, China.
+(14)Food and Agriculture Organization of the United Nations (FAO), Rome, Italy.
+A multitude of actions to protect, sustainably manage and restore natural and modified ecosystems can have co-benefits for both climate mitigation and biodiversity conservation.
+Reducing greenhouse emissions to limit warming to less than 1.5 or 2°C above preindustrial levels, as outlined in the Paris Agreement, can yield strong co-benefits for land, freshwater and marine biodiversity and reduce amplifying climate feedbacks from ecosystem changes.
+Not all climate mitigation strategies are equally effective at producing biodiversity co-benefits, some in fact are counterproductive.
+Moreover, social implications are often overlooked within the climate-biodiversity nexus.
+Protecting biodiverse and carbon-rich natural environments, ecological restoration of potentially biodiverse and carbon-rich habitats, the deliberate creation of novel habitats, taking into consideration a locally adapted and meaningful (i.e. full consequences considered) mix of these measures, can result in the most robust win-win solutions.
+These can be further enhanced by avoidance of narrow goals, taking long-term views and minimizing further losses of intact ecosystems.
+In this review paper, we first discuss various climate mitigation actions that evidence demonstrates can negatively impact biodiversity, resulting in unseen and unintended negative consequences.
+We then examine climate mitigation actions that co-deliver biodiversity and societal benefits.
+We give examples of these win-win solutions, categorized as 'protect, restore, manage and create', in different regions of the world that could be expanded, upscaled and used for further innovation.
+© 2021 John Wiley & Sons Ltd.
+DOI: 10.1111/gcb.16056 PMID: 34951743 [Indexed for MEDLINE]
+20. PLoS
+Biol.
+2018
+Nov 13;16(11):e2006686.
+doi: 10.1371/journal.pbio.2006686.
+eCollection 2018 Nov.
+Biodiversity assessments: Origin matters.
+Pauchard A(1)(2), Meyerson LA(3), Bacher S(4), Blackburn TM(5)(6), Brundu G(7), Cadotte MW(8), Courchamp F(9), Essl F(10), Genovesi P(11), Haider S(12)(13), Holmes ND(14), Hulme PE(15), Jeschke JM(16)(17), Lockwood JL(18), Novoa A(19), Nuñez MA(20), Peltzer DA(21), Pyšek P(19)(22), Richardson DM(23), Simberloff D(24), Smith K(25), van Wilgen BW(23), Vilà M(26), Wilson JRU(23)(27), Winter M(13), Zenni RD(28).
+Author information: (1)Facultad de Ciencias Forestales, Universidad de Concepción, Concepción, Chile.
+(2)Institute of Ecology and Biodiversity, Santiago, Chile.
+(3)University of Rhode Island, Natural Resources Science, Kingston, Rhode Island, United States of America.
+(4)Department of Biology, University of Fribourg, Fribourg, Switzerland.
+(5)Centre for Biodiversity and Environment Research, Department of Genetics, Evolution, and Environment, University College London, London, United Kingdom.
+(6)Institute of Zoology, Zoological Society of London, Regent's Park, London, United Kingdom.
+(7)University of Sassari, Department of Agriculture, Sassari, Italy.
+(8)University of Toronto, Scarborough, Toronto, Canada.
+(9)Ecologie, Systématique, et Evolution, Univ Paris-Sud, CNRS, AgroParisTech, Université Paris-Saclay, Paris, France.
+(10)Division of Conservation Biology, Vegetation and Landscape Ecology, University Vienna, Vienna, Austria.
+(11)ISPRA, Institute for Environmental Protection and Research and Chair IUCN SSC Invasive Species Specialist Group, Rome, Italy.
+(12)Martin Luther University Halle-Wittenberg, Institute of Biology/Geobotany and Botanical Garden, Halle, Germany.
+(13)German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Leipzig, Germany.
+(14)Island Conservation, Santa Cruz, California, United States of America.
+(15)Bio-Protection Research Centre, Lincoln University, Canterbury, New Zealand.
+(16)Leibniz-Institute of Freshwater Ecology and Inland Fisheries, Berlin, Germany.
+(17)Institute of Biology, Freie Universität Berlin, Berlin, Germany.
+(18)Ecology, Evolution, and Natural Resources, Rutgers University, New Brunswick, New Jersey, United States of America.
+(19)Department of Invasion Ecology, Institute of Botany, Czech Academy of Sciences, Prague, Czech Republic.
+(20)Grupo de Ecologıa de Invasiones, INIBIOMA, CONICET Universidad Nacional del Comahue, Argentina.
+(21)Manaaki Whenua Landcare Research, Lincoln, New Zealand.
+(22)Department of Ecology, Faculty of Science, Charles University, Prague, Czech Republic.
+(23)Centre for Invasion Biology, Department of Botany and Zoology, Stellenbosch University, Matieland, South Africa.
+(24)Department of Ecology and Evolutionary Biology, University of Tennessee, Knoxville, Tennessee, United States of America.
+(25)International Union for Conservation of Nature, Cambridge, United Kingdom.
+(26)Estación Biológica de Doñana (EBD-CSIC), Isla de la Cartuja, Sevilla, Spain.
+(27)South African National Biodiversity Institute, South Africa, Stellenbosch, South Africa.
+(28)Department of Biology, University of Lavras, Lavras, Minas Gerais, Brazil.
+Comment in PLoS Biol.
+2018
+Nov 13;16(11):e3000039.
+doi: 10.1371/journal.pbio.3000039.
+Comment on PLoS Biol.
+2018
+Apr 17;16(4):e2005568.
+doi: 10.1371/journal.pbio.2005568.
+DOI: 10.1371/journal.pbio.2006686 PMCID: PMC6233909 PMID: 30422976 [Indexed for MEDLINE]
+Conflict of interest statement: The authors have declared that no competing interests exist.
+21.
+Science.
+2010 Mar 5;327(5970):1179.
+doi: 10.1126/science.1188424.
+Biodiversity is our life.
+Comment in Science.
+2010
+Apr 16;328(5976):307-8. doi: 10.1126/science.328.5976.307-c.
+DOI: 10.1126/science.1188424 PMID: 20203016
+[Indexed for MEDLINE]
+22.
+Sci Rep. 2023 May 9;13(1):7509.
+doi: 10.1038/s41598-023-34543-8.
+Biodiversity is overlooked in the diets of different social groups in Brazil.
+Gomes SM(1), Chaves VM(2), de Carvalho AM(3), da Silva EB(4), de Menezes Neto EJ(5), de Farias Moura G(6), da Silva Chaves L(7)(8), Alves RRN(9), de Albuquerque UP(10), de Oliveira Pereira F(11), Jacob MCM(6).
+Author information: (1)Department of Nutrition, Federal University of Paraiba, Street Tabelião Stanislau Eloy, s/n, Castelo Branco, João Pessoa, PB, 58050-585, Brazil.
+savio.gomes@academico.ufpb.br.
+(2)Multicampi School of Medical Sciences, Federal University of Rio Grande do Norte, Caicó, RN, Brazil.
+(3)Department of Nutrition, School of Public Health, University of São Paulo, Av.
+Dr Arnaldo, 715, São Paulo, SP, 01246-904, Brazil.
+(4)Restaurante Universitário-Federal University of Para, Rua Algusto Corrêa, 01, Belém, Pará, 66075-110, Brazil.
+(5)Metropole Digital Institute, Federal University of Rio Grande do Norte, Natal, RN, Brazil.
+(6)LabNutrir, Nutrition Department, Federal University of Rio Grande do Norte, Av.
+Senador Salgado Filho, s/n, Lagoa Nova, Natal, RN, 59078-970, Brazil.
+(7)Escola de Educação e Humanidades, Universidade Católica de Pernambuco, Rua do Príncipe, n. 526, Boa Vista, Recife, Pernambuco, Brasil.
+(8)Museu de Arqueologia e Ciências Naturais da Universidade Católica de Pernambuco, Rua Oliveira Lima, 824, Boa Vista, Recife, Pernambuco, Brasil.
+(9)Departamento de Biologia, Universidade Estadual da Paraíba, Campina Grande, Paraíba, 58019-753, Brazil.
+(10)Laboratório de Ecologia e Evolução de Sistemas Socioecológicos, Departamento de Botânica, Universidade Federal de Pernambuco, Recife, Pernambuco, 50670-901, Brazil.
+(11)FUNGI Research Group, Academic Unit of Health, Education and Health Center, Federal University of Campina Grande, Sítio Olho D'agua da Bica, s/n, Cuité, PB, 58175-000, Brazil.
+Erratum in Sci Rep. 2023
+Jun 7;13(1):9278.
+doi: 10.1038/s41598-023-36394-9.
+Food biodiversity is essential for improving nutrition and reducing hunger in populations worldwide.
+However, in middle and low-income countries, the biodiversity of food production does not necessarily represent food consumption patterns by population.
+We used Brazil, one of the world's megabiodiverse
