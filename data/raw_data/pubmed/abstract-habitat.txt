@@ -1,0 +1,1000 @@
+1. PeerJ. 2023 Jun 15;11:e15540. doi: 10.7717/peerj.15540. eCollection 2023.
+
+Habitat-use of the vulnerable Atlantic Nurse Shark: a review.
+
+Bettcher VB(1)(2), Franco ACS(1)(3), Dos Santos LN(1)(2)(3).
+
+Author information:
+(1)Theoretical and Applied Ichthyology Lab (LICTA), Federal University of the 
+State of Rio de Janeiro, Rio de Janeiro, RJ, Brazil.
+(2)Postgraduate Program in Ecology and Evolution (PPGEE), Rio de Janeiro State 
+University (UERJ), Rio de Janeiro, RJ, Brazil.
+(3)Postgraduate Program in Neotropical Biodiversity (PPGBIO), Universidade 
+Federal do Estado do Rio de Janeiro (UNIRIO), Rio de Janeiro, RJ, Brazil.
+
+Human activities have led to the loss of critical habitats for aquatic species 
+at such an accelerated rate that habitat modification is considered a leading 
+threat to biodiversity. Sharks and rays are considered the second most 
+threatened group of vertebrates that have also suffered from habitat loss, 
+especially in nursery grounds and reef-associated species. In this sense, 
+actions toward the conservation of critical grounds for species survival are 
+urgently needed, especially for those threatened with extinction. This study 
+aimed to gather and provide information on the worldwide distribution and 
+habitat association of the 'vulnerable' Atlantic Nurse Shark Ginglymostoma 
+cirratum through a literature review performed at the Dimensions research 
+database. A total of 30 studies published between 1950 and 2021 were retained 
+since they defined at least the type of habitat in which G. cirratum was 
+associated. Most studies covered the Floridian ecoregion, where G. cirratum is 
+more common and abundant. Reefs, seagrass, sandy, rocky, mangrove, and 
+macroalgae accounted for the majority of habitat associations, with a higher 
+diversity of habitats detected within marine protected areas (MPAs). 
+Ginglymostoma cirratum was recorded at a maximum depth of 75 m, temperatures 
+ranging from 25 °C to 34 °C, and salinities between 31 and 38 ppt. Neonates were 
+associated with shallower habitats (<20 m), mostly reefs, rocks, macroalgae, 
+sandy shores, and seagrass, in an average temperature of 26 °C and salinity of 
+36 ppt. Breeding events and habitats were reported by 11 studies, 72.7% of them 
+in shallow waters, mostly inside MPAs (90.9%). Our findings highlighted the key 
+role played by MPAs in protecting essential grounds for threatened species, such 
+as the Atlantic Nurse Shark. Major ecoregions (e.g., the Eastern Atlantic) are 
+still underrepresented in the scientific literature as long as studies aim 
+specifically to assess G. cirratum habitat association. Thus, further insights 
+into the essential habitats needed to conserve the Atlantic Nurse Shark can 
+still emerge from future studies. Considering the recent IUCN extinction risk 
+status change in G. cirratum (i.e., Data Deficient to 'Vulnerable'), new 
+conservation measures that integrate habitat protection and management are 
+urgently needed and should consider the data collected herein.
+
+© 2023 Bettcher et al.
+
+DOI: 10.7717/peerj.15540
+PMCID: PMC10276984
+PMID: 37337585 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare.
+
+
+2. Ecology. 2007 Nov;88(11):2713-9. doi: 10.1890/06-1408.1.
+
+Habitat structure affects intraguild predation.
+
+Janssen A(1), Sabelis MW, Magalhães S, Montserrat M, van der Hammen T.
+
+Author information:
+(1)IBED, Section Population Biology, University of Amsterdam, P.O. Box 94084, 
+1090 GB Amsterdam, The Netherlands. janssen@science.uva.nl
+
+Intraguild predation is thought to be ubiquitous in natural food webs. Yet, 
+theory on intraguild predation predicts the intraguild prey to persist only 
+under limited conditions. This gap between theory and empirical observations 
+needs scrutiny. One reason might be that theory has focused on equilibrium 
+dynamics and a limited set of species (usually three) that interact in 
+well-mixed populations in unstructured habitats, and these assumptions will 
+often not hold in natural systems. In this review, we focus on the effects of 
+habitat structure on intraguild predation. Habitat structure could reduce 
+encounter rates between predators and prey and could create refuges for prey. In 
+both cases, habitat structure could reduce the strength of intraguild 
+interactions, thereby facilitating species coexistence. A meta-analysis of 
+studies on manipulation of habitat structure shows that intraguild prey indeed 
+suffer less from intraguild predation in structured habitats. This was further 
+confirmed by a meta-analysis in which studies on intraguild predation were 
+classified according to habitat structure. Intraguild predation reduced 
+densities of the intraguild prey significantly more in habitats with little 
+structure than in habitats rich in structure. The effect of intraguild predation 
+on the shared prey was negative, and not significantly affected by habitat 
+structure. We conclude that habitat structure may increase persistence of the 
+intraguild prey by decreasing the strength of the interaction between intraguild 
+predator and intraguild prey.
+
+DOI: 10.1890/06-1408.1
+PMID: 18051638 [Indexed for MEDLINE]
+
+
+3. Sci Total Environ. 2022 Dec 15;852:158207. doi: 10.1016/j.scitotenv.2022.158207. 
+Epub 2022 Aug 24.
+
+A review of the habitat restoration of giant pandas from 2012 to 2021: Research 
+topics and advances.
+
+Kang D(1).
+
+Author information:
+(1)School of Ecology and Nature Conservation, Beijing Forestry University, 
+Beijing, China. Electronic address: kangdw@bjfu.edu.cn.
+
+The giant panda (Ailuropoda melanoleuca) is a flagship species in nature 
+conservation. Habitat degradation and fragmentation threaten the sustainable 
+survival of giant pandas, and thus degraded habitats need to be restored and 
+fragmented habitats require connection. In the past ten years, some new studies 
+have emerged on the habitat restoration of giant pandas, yet no specialized 
+reviews of this topic have been published. This paper reviews the habitat 
+restoration of giant pandas based on related articles published between 2012 and 
+2021. Three principal research topics are identified and summarized: restoration 
+effect, restoration requirements, and restoration considerations. The review 
+demonstrates that some measures, such as protection projects and policies, 
+controlling human disturbances and impacts, and natural recovery, contribute to 
+the habitat restoration of giant pandas. Many issues related to artificial 
+forests need to be addressed to clarify their role in habitat restoration. Many 
+habitats with clear locations and types need restoration, especially those that 
+are disturbed or threatened by human activities and some that are disturbed by 
+natural disturbances such as earthquakes. To integrate consideration factors, a 
+reference habitat should be established and well described. In addition, social 
+and economic factors should not be ignored. More targeted studies of the habitat 
+restoration of giant pandas are urgently needed, including theoretical, 
+cross-scale, interdisciplinary, multi-factor, and long-term monitoring studies. 
+This review provides a reference for future research work and a source of 
+information for future restoration of giant panda habitat.
+
+Copyright © 2022 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2022.158207
+PMID: 36028037 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The author 
+declares no conflict of interest.
+
+
+4. Harmful Algae. 2022 Mar;113:102199. doi: 10.1016/j.hal.2022.102199. Epub 2022 
+Feb 12.
+
+The role of habitat in the facilitation of Ostreopsis spp. blooms.
+
+Monserrat M(1), Catania D(2), Asnaghi V(3), Chiantore M(3), Lemée R(4), 
+Mangialajo L(5).
+
+Author information:
+(1)Université Côte d'Azur, CNRS, UMR 7035 ECOSEAS, Nice, France; Sorbonne 
+Université, CNRS, Laboratoire d'Océanographie de Villefranche, 
+Villefranche-sur-mer, France; Federative Research Institute - Marine Resources, 
+Université Côte d'Azur, Nice, France. Electronic address: 
+margalida.monserrat-barcelo@univ-cotedazur.fr.
+(2)Université Côte d'Azur, CNRS, UMR 7035 ECOSEAS, Nice, France; Sorbonne 
+Université, CNRS, Laboratoire d'Océanographie de Villefranche, 
+Villefranche-sur-mer, France.
+(3)DiSTAV, Università degli Studi di Genova, Genova, Italy.
+(4)Sorbonne Université, CNRS, Laboratoire d'Océanographie de Villefranche, 
+Villefranche-sur-mer, France.
+(5)Université Côte d'Azur, CNRS, UMR 7035 ECOSEAS, Nice, France; Federative 
+Research Institute - Marine Resources, Université Côte d'Azur, Nice, France.
+
+In recent decades, recurrent Ostreopsis spp. blooms have been recorded 
+throughout the globe, causing public health issues and mass mortalities of 
+invertebrates. Ostreopsis species are benthic and develop in shallow waters in 
+close relation with a substrate, but possible substrate preferences are still 
+ambiguous. Bloom develops on both living and dead substrates and several 
+interacting biotic and abiotic factors acting at different spatial scales can 
+potentially foster or regulate Ostreopsis spp. development. The objective of 
+this review is to collect and summarize information on Ostreopsis spp. blooms 
+related to the habitat at different spatial scales, in order to assess 
+preferences and trends. References including Ostreopsis spp. samplings in the 
+field were analysed in this review, as potentially including information about 
+the micro- (substrate), meso‑ (community) and macrohabitat (ecosystem) related 
+to Ostreopsis spp. blooms. The sampled substrate and the ecosystem where 
+Ostreopsis spp. were collected were generally reported and described in the 
+studies, while the description of the mesohabitat was rarely reported. 
+Ostreopsis spp. were generally described as attached to biotic substrates and in 
+particular, macroalgae, even in studies conducted in coral reefs, where 
+macroalgae are generally not dominant (but they can be in case of coral reef 
+degradation). In both temperate and tropical areas, Ostreopsis spp. were mostly 
+sampled on algal species usually forming medium or low complexity communities 
+(erect or turf-forming algae), often characteristic from post-regime shift 
+scenarios, and rarely on canopy-forming species (such as fucoids and kelps). 
+This literature review highlights the need of collecting more information about 
+the mesohabitat where important Ostreopsis spp. blooms develop, as much as of 
+the underlying mechanisms driving eventual differences on Ostreopsis spp. 
+abundances. This knowledge would allow a better risk assessment of Ostreopsis 
+spp. blooms, identifying areas at high risk on the base of the benthic habitats.
+
+Copyright © 2022 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.hal.2022.102199
+PMID: 35287932 [Indexed for MEDLINE]
+
+
+5. J Anim Ecol. 2021 May;90(5):1239-1251. doi: 10.1111/1365-2656.13450. Epub 2021 
+Mar 12.
+
+Habitat restoration in spatially explicit metacommunity models.
+
+Gawecka KA(1), Bascompte J(1).
+
+Author information:
+(1)Department of Evolutionary Biology and Environmental Studies, University of 
+Zurich, Zurich, Switzerland.
+
+In a time of rapid habitat destruction threatening the existence of many 
+species, restoration of degraded habitats plays a crucial role in hampering 
+biodiversity decline and recovering ecosystem services. The goal of this study 
+is to advance the understanding of the consequences of habitat restoration on 
+metacommunities, which is of upmost importance for designing successful 
+restoration projects. We approach habitat restoration from a theoretical 
+perspective by analysing spatially explicit metacommunity models which have 
+previously been essential to understanding the effects of habitat loss and 
+fragmentation. We investigate the efficiency of various restoration strategies 
+on metacommunities involving interactions ranging from pairwise competition, 
+predation and mutualism to more complex three-trophic modules. Our novel 
+approach for measuring the restoration efficiency enables direct comparison of 
+the responses of species in different metacommunities. We show that species 
+recovery is affected by the amount of habitat destroyed, and the restoration 
+strategy. When habitat is restored by randomly selecting destroyed sites, 
+species recovery becomes less efficient and more uncertain with increasing 
+amount of previously destroyed habitat. However, when the destroyed sites are 
+restored in clusters, minimising the effects of fragmentation, species recovery 
+and the certainty of success are substantially improved. Furthermore, we 
+demonstrate that the community structure and the types of interactions involved 
+determine the most efficient restoration approach. Our findings highlight the 
+importance of carefully planning the restoration process, especially in 
+landscapes where a large proportion of habitat has been destroyed, and with 
+species at the brink of extinction. Our results may be used as guidelines for 
+designing habitat restoration projects.
+
+© 2021 British Ecological Society.
+
+DOI: 10.1111/1365-2656.13450
+PMID: 33630316 [Indexed for MEDLINE]
+
+
+6. PLoS One. 2023 Jul 26;18(7):e0289174. doi: 10.1371/journal.pone.0289174. 
+eCollection 2023.
+
+Habitat isolation interacts with top-down and bottom-up processes in a seagrass 
+ecosystem.
+
+Carroll EW(1), Freestone AL(2).
+
+Author information:
+(1)Department of Biology, Holy Family University, Philadelphia, Pennsylvania, 
+United States of America.
+(2)Department of Biology, Temple University, Philadelphia, Pennsylvania, United 
+States of America.
+
+Habitat loss is accelerating at unprecedented rates, leading to the emergence of 
+smaller, more isolated habitat remnants. Habitat isolation adversely affects 
+many ecological processes independently, but little is known about how habitat 
+isolation may interact with ecosystem processes such as top-down 
+(consumer-driven) and bottom-up (resource-driven) effects. To investigate the 
+interactive influence of habitat isolation, resource availability and consumer 
+distribution and impact on community structure, we tested two hypotheses using 
+invertebrate and algal epibionts on temperate seagrasses, an ecosystem of 
+ecological and conservation importance. First, we hypothesized that habitat 
+isolation will change the structure of the seagrass epibiont community, and 
+isolated patches of seagrass will have lower epibiont biomass and different 
+epibiont community composition than contiguous meadows. Second, we hypothesized 
+that habitat isolation would mediate top-down (i.e., herbivory) and bottom-up 
+(i.e., nutrient enrichment) control for algal epibionts. We used observational 
+studies in natural seagrass patches and experimental artificial seagrass to 
+examine three levels of habitat isolation. We further manipulated top-down and 
+bottom-up processes in artificial seagrass through consumer reductions and 
+nutrient additions, respectively. We indeed found that habitat isolation of 
+seagrass patches decreased epibiont biomass and modified epibiont community 
+composition. This pattern was largely due to dispersal limitation of 
+invertebrate epibionts that resulted in a decline in their abundance and 
+richness in isolated patches. Further, habitat isolation reduced consumer 
+abundances, weakening top-down control of algal epibionts in isolated seagrass 
+patches. Nutrient additions, however, reversed this pattern, and allowed a 
+top-down effect on algal richness to emerge in isolated habitats, demonstrating 
+a complex interaction between patch isolation and top-down and bottom-up 
+processes. Habitat isolation may therefore shape the relative importance of 
+central processes in ecosystems, leading to changes in community composition and 
+food web structure in marine habitats.
+
+Copyright: © 2023 Carroll, Freestone. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0289174
+PMCID: PMC10370773
+PMID: 37494351 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+7. Ecology. 2022 Jan;103(1):e03558. doi: 10.1002/ecy.3558. Epub 2021 Nov 4.
+
+Differential habitat use and recruitment facilitate coexistence in a community 
+with intraguild predation.
+
+Goldberg JF(1), Fraser DF(2), Lamphere BA(3), Reznick DN(1).
+
+Author information:
+(1)Department of Evolution, Ecology and Organismal Biology, University of 
+California-Riverside, Riverside, California, 92521, USA.
+(2)Department of Biology, Siena College, Loudonville, New York, 12211, USA.
+(3)Department of Biological Sciences, University of Mary Washington, 1301 
+College Avenue, Fredericksburg, Virginia, 22401, USA.
+
+Theory predicts that species engaged in intraguild predation (IGP) can only 
+coexist under limited conditions, yet IGP is common in nature. Habitat 
+complexity can promote coexistence by reducing encounter rates, but little 
+information is known about the contribution of differential habitat use. We 
+hypothesized that differential use of alternative habitats promotes coexistence 
+of an intraguild (IG) predator and prey. We evaluated predictions of this 
+hypothesis with an experimental introduction of an IG predator fish into four 
+natural stream communities that previously contained only the IG prey fish. We 
+monitored the development of this IGP over the course of four years to determine 
+how each species used alternative stream habitats. The introduced species 
+preferred pool habitats while the resident species was more evenly distributed 
+across pools and riffles. The density of the resident decreased in the pool 
+habitat preferred by the invader, accompanied by a local increase in the mean of 
+the resident size distribution. Selective predation by the invader on hatchling 
+residents appears to impact the residents' demographic response. The continued 
+recruitment of resident juveniles in riffles, where the introduced species is 
+rare, facilitated the persistence of the resident. This differential use of 
+habitats was not accompanied by a change in the resident's growth rates in 
+either habitat. Our results showed that differential habitat selection and 
+recruitment promoted persistence during an invasion involving IGP, which helps 
+to bridge the gap between theory and observation in explaining coexistence in 
+IGP systems.
+
+© 2021 by the Ecological Society of America.
+
+DOI: 10.1002/ecy.3558
+PMID: 34622952 [Indexed for MEDLINE]
+
+
+8. PeerJ. 2022 Oct 17;10:e14161. doi: 10.7717/peerj.14161. eCollection 2022.
+
+Habitat selection of black grouse in an isolated population in northern 
+Germany-the importance of mixing dry and wet habitats.
+
+Tost D(1), Ludwig T(1), Strauss E(1), Jung K(2), Siebert U(1).
+
+Author information:
+(1)Institute for Terrestrial and Aquatic Wildlife Research, University of 
+Veterinary Medicine Hannover, Foundation, Hannover, Germany.
+(2)Institute for Animal Breeding and Genetics, University of Veterinary Medicine 
+Hannover, Foundation, Hannover, Germany.
+
+Wildlife habitats in general must provide foraging, hiding and resting places as 
+well as sites for reproduction. Little is known about habitat selection of black 
+grouse in the lowlands of Central Europe. We investigated habitat selection of 
+seven radio tagged birds in an open heath and grassland area surrounded by dense 
+pine forests in the northern German Lüneburg Heath Nature Reserve. This site 
+carries one of the last remaining populations in the Central European lowlands. 
+Using resource selection functions based on presence/background data, we 
+estimated the probability of black grouse occurrence by availability of, or 
+distance to habitat types as well as vegetation diversity indices. Black grouse 
+preferred undisturbed and heterogeneous habitats far from dense forests with 
+wide sand heaths, natural grasslands and intermixed bogs, diverse vegetation and 
+food sources, low density of (loose) shrub formations and solitary trees. 
+Wetlands were extremely important in a landscape that is dominated by dry heaths 
+and grasslands. About 4% (9 km2) of the nature reserve was a suitable habitat 
+for black grouse, mostly due to lack of open areas due to the amount of dense 
+forest, and because smaller, open heaths are only partly suitable. We suggest 
+that to improve habitat quality and quantity for the grouse, habitat patch size 
+and connectivity must be increased, along with a mosaic of heterogeneous 
+landscape structures in these habitat islands. Our results may be used to inform 
+and improve black grouse habitat management in the region and elsewhere.
+
+©2022 Tost et al.
+
+DOI: 10.7717/peerj.14161
+PMCID: PMC9583852
+PMID: 36275457 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare there are no competing 
+interests.
+
+
+9. Sci Total Environ. 2021 Apr 1;763:142975. doi: 10.1016/j.scitotenv.2020.142975. 
+Epub 2020 Oct 15.
+
+A review of the impacts of four identified major human disturbances on the 
+habitat and habitat use of wild giant pandas from 2015 to 2020.
+
+Kang D(1).
+
+Author information:
+(1)School of Ecology and Nature Conservation, Beijing Forestry University, No.35 
+Tsinghua East Road Haidian District, Beijing 100083, China. Electronic address: 
+kangdw@bjfu.edu.cn.
+
+Human disturbance poses a serious threat to the survival of the giant panda 
+(Ailuropoda melanoleuca), but few systematic and specialized reviews on the 
+impacts of human disturbance on pandas and their habitats have been published. 
+After the fourth giant panda survey (2011-2014), some new studies and important 
+findings have emerged. To update the understanding of the impacts of human 
+disturbance, research on the impacts of major human disturbances on the habitat 
+and habitat use of wild giant pandas from 2015 to 2020 was reviewed based on 33 
+publications (including three books and 30 articles). The major human 
+disturbances in panda habitat included livestock grazing, roads, herb 
+collection, and logging. Livestock affects panda habitat by occupying, 
+disturbing, and defecating in it, and the time and intensity of habitat use by 
+horses are greater than the time and intensity at which pandas use their 
+habitats. Roads affect nearby habitats by disturbing the vegetation and causing 
+pollution, and the effect of roads extends far beyond the roads themselves and 
+varies with road type. The impacts of logging on the forest structure and bamboo 
+in panda habitat are long-term. Pandas avoid habitats disturbed by livestock 
+grazing, roads, and logging. The impacts of herb collection are not known, 
+because they have received little attention. Findings suggested a need for 
+further research on human disturbance to giant pandas, focusing on comprehensive 
+evaluations of the interactions between different disturbances.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2020.142975
+PMID: 33109372 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+10. Mar Pollut Bull. 2023 Nov;196:115597. doi: 10.1016/j.marpolbul.2023.115597. Epub 
+2023 Oct 11.
+
+Habitat complexity drives food web structure along a dynamic mangrove coast.
+
+Nauta J(1), Lammers C(2), Lexmond R(3), Christianen MJA(4), Borst A(5), Lamers 
+LPM(6), van Lavieren H(7), Naipal S(8), Govers LL(2).
+
+Author information:
+(1)Conservation Ecology Group, Groningen Institute for Evolutionary Life 
+Sciences, University of Groningen, 9700 AA Groningen, the Netherlands; Aquatic 
+Ecology and Environmental Biology, Radboud Institute for Biological and 
+Environmental Sciences, Radboud University, Heyendaalseweg 135, 6525 AJ 
+Nijmegen, the Netherlands. Electronic address: janne.nauta@gmail.com.
+(2)Conservation Ecology Group, Groningen Institute for Evolutionary Life 
+Sciences, University of Groningen, 9700 AA Groningen, the Netherlands; Aquatic 
+Ecology and Environmental Biology, Radboud Institute for Biological and 
+Environmental Sciences, Radboud University, Heyendaalseweg 135, 6525 AJ 
+Nijmegen, the Netherlands; Department of Coastal Systems, Royal Netherlands 
+Institute of Sea Research (NIOZ), 1790 AB Den Burg, the Netherlands.
+(3)Aquatic Ecology and Environmental Biology, Radboud Institute for Biological 
+and Environmental Sciences, Radboud University, Heyendaalseweg 135, 6525 AJ 
+Nijmegen, the Netherlands; Plant Ecology and Physiology, Radboud Institute for 
+Biological and Environmental Sciences, Radboud University, Heyendaalseweg 135, 
+6525 AJ Nijmegen, the Netherlands.
+(4)Aquatic Ecology and Environmental Biology, Radboud Institute for Biological 
+and Environmental Sciences, Radboud University, Heyendaalseweg 135, 6525 AJ 
+Nijmegen, the Netherlands; Aquatic Ecology and Water Quality Management Group, 
+Wageningen University & Research, P.O. Box 47, 6700 AA, Wageningen, the 
+Netherlands.
+(5)Aquatic Ecology and Environmental Biology, Radboud Institute for Biological 
+and Environmental Sciences, Radboud University, Heyendaalseweg 135, 6525 AJ 
+Nijmegen, the Netherlands.
+(6)Aquatic Ecology and Environmental Biology, Radboud Institute for Biological 
+and Environmental Sciences, Radboud University, Heyendaalseweg 135, 6525 AJ 
+Nijmegen, the Netherlands; B-WARE Research Centre, Toernooiveld 1, 6525 ED 
+Nijmegen, the Netherlands.
+(7)WWF Guianas, Henck Arronstraat 63 Suite E, Paramaribo, Suriname.
+(8)Anton de Kom University of Suriname, Leysweg 86, P.O.B. 9212, Paramaribo, 
+Suriname.
+
+Structurally complex habitats, such as mangrove forests, allow for rich 
+assemblages of species that benefit from the provided space, volume and 
+substrate. Changes in habitat complexity can affect species abundance, diversity 
+and resilience. In this study, we explored the effects of habitat complexity on 
+food web networks in four developmental stages of mangrove forests with 
+differing structural complexities: climax > degrading > colonizing > bare, by 
+analyzing food web structure, stable isotopes and habitat complexity. We found 
+that food webs became gradually more biodiverse (species richness: +119 %), 
+complex (link density: +39 %), and robust (connectance: -35 %) in climax versus 
+bare stages with increasing complexity of the mangrove forest (i.e., number of 
+trees, leaf cover, and pneumatophore densities). This study shows that habitat 
+complexity drives food web network structure in dynamic mangrove forests. We 
+recommend restoration practitioners to use this food web network approach to 
+quantify habitat restoration successes complementary to traditional biodiversity 
+metrics.
+
+Copyright © 2023 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.marpolbul.2023.115597
+PMID: 37832500 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare no conflict of interest.
+
+
+11. Ecol Lett. 2020 Mar;23(3):506-517. doi: 10.1111/ele.13450. Epub 2019 Dec 20.
+
+Habitat fragmentation and species diversity in competitive communities.
+
+Rybicki J(1), Abrego N(2), Ovaskainen O(3).
+
+Author information:
+(1)Institute of Science and Technology Austria (IST Austria), Am Campus 1, 3400, 
+Klosterneuburg, Austria.
+(2)Department of Agricultural Sciences, University of Helsinki, PO Box 27, 
+FI-00014, Helsinki, Finland.
+(3)Oragnismal and Evolutionary Biology Research Programme, University of 
+Helsinki, PO Box 65, FI-00014, Helsinki, Finland.
+
+Habitat loss is one of the key drivers of the ongoing decline of biodiversity. 
+However, ecologists still argue about how fragmentation of habitat (independent 
+of habitat loss) affects species richness. The recently proposed habitat amount 
+hypothesis posits that species richness only depends on the total amount of 
+habitat in a local landscape. In contrast, empirical studies report contrasting 
+patterns: some find positive and others negative effects of fragmentation per se 
+on species richness. To explain this apparent disparity, we devise a stochastic, 
+spatially explicit model of competitive species communities in heterogeneous 
+habitats. The model shows that habitat loss and fragmentation have complex 
+effects on species diversity in competitive communities. When the total amount 
+of habitat is large, fragmentation per se tends to increase species diversity, 
+but if the total amount of habitat is small, the situation is reversed: 
+fragmentation per se decreases species diversity.
+
+© 2019 The Authors. Ecology Letters published by CNRS and John Wiley & Sons Ltd.
+
+DOI: 10.1111/ele.13450
+PMCID: PMC7027465
+PMID: 31863571 [Indexed for MEDLINE]
+
+
+12. Sci Rep. 2020 Jan 27;10(1):1221. doi: 10.1038/s41598-020-58202-4.
+
+Different Habitat Types Affect Bird Richness and Evenness.
+
+Tu HM(1), Fan MW(2), Ko JC(2).
+
+Author information:
+(1)Department of Horticulture, National Chung Hsing University, Taichung, 40227, 
+Taiwan. hmtu@dragon.nchu.edu.com.
+(2)Endemic Species Research Institute, Nantou, 55244, Taiwan.
+
+More studies are needed on the mechanism and effective prediction of bird 
+diversity in various habitats. The primary purpose of this study was to explore 
+the difference in the species richness and evenness of various habitats. The 
+secondary purpose was to explore which habitat types and compositions predict a 
+high bird diversity. The 2010-2016 Taiwan Breeding Bird Survey was used to 
+analyze the relationship between landscape habitat and bird ecology. Landscape 
+habitat type was divided into seven categories and 26 sub-types: forestland, 
+farmland, grassland, freshwater wetland, aquaculture pond and saltpan, 
+coastland, and building area. Four ecological indexes were used: the number of 
+bird individuals, the number of species, the Margalef Richness Index, and the 
+Pielou Evenness Index. The result indicated that forestland decreased bird 
+numbers, except in a windbreak forest. Natural and farmland-related habitats 
+increased bird species richness. Similarly, the natural habitat increased 
+species evenness. Urban greenspace could not replace the effect of forestland on 
+species richness and evenness. Conifer forest, bamboo forest, windbreak forest, 
+mixed tree, tall grassland, and orchard were important habitats for promoting 
+higher species richness and evenness.
+
+DOI: 10.1038/s41598-020-58202-4
+PMCID: PMC6985263
+PMID: 31988439 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+13. Mar Pollut Bull. 2021 Jun;167:112333. doi: 10.1016/j.marpolbul.2021.112333. Epub 
+2021 Apr 16.
+
+A benthic habitat sensitivity analysis of Qatar's coastal zone.
+
+Butler JD(1), Purkis LM(2), Purkis SJ(3), Yousif R(4), Al-Shaikh I(5).
+
+Author information:
+(1)Environmental Management Division, ExxonMobil Research Qatar, Qatar Science 
+and Technology Park, Tech 2, PO BOX 22500, Al Wosail Tower, Doha, Qatar. 
+Electronic address: josh.d.butler@exxonmobil.com.
+(2)Sea from Space Inc., Miami, Florida, USA.
+(3)CSL - Center for Carbonate Research, Department of Marine Geosciences, 
+Rosenstiel School of Marine and Atmospheric Science, University of Miami, Miami, 
+FL 33149, USA.
+(4)Contractor to Environmental Management Division, ExxonMobil Research Qatar, 
+Qatar Science and Technology Park, Tech 2, PO BOX 22500, Al Wosail Tower, Doha, 
+Qatar.
+(5)Environmental Management Division, ExxonMobil Research Qatar, Qatar Science 
+and Technology Park, Tech 2, PO BOX 22500, Al Wosail Tower, Doha, Qatar.
+
+Characterizing benthic habitat sensitivities of rapidly-developing countries is 
+of paramount importance. Recent efforts defining the benthic habitat of Qatar's 
+coastal zone with a high-resolution, ground-truthed benthic habitat map has 
+provided a framework on which to develop a habitat sensitivity map. Here we 
+present a sensitivity analysis catered towards identifying habitats with varying 
+sensitivities to natural and anthropogenic stressors on a quantitative scale 
+from 1 to 5, low to high. We have identified that the majority of the coastal 
+area is low risk habitat (i.e. sandflats). However, there are six areas which 
+are assigned as high risk by virtue of their rich occurrences of seagrass 
+meadows, mangrove forests, and coral reefs - [1]. The reefs offshore of Al 
+Zubarah on the west coast of the peninsula; [2] The Al Ruwais fringing reef on 
+the northern tip of the peninsula; [3] The east-coast bays of Al Khor and Al 
+Dhakira; [4] The shore-attached reef complex off Mesaieed (east coast); [5] The 
+Jazirat al Bushayriyah offshore high; and, [6] The entire shelf of Halul Island. 
+The sensitivity analysis presented here builds on a recently-developed benthic 
+habitat map of Qatar's coastal zone and covers a total are of 4500km2. Results 
+gleaned from this analysis can be used to support marine spatial planning 
+objectives and ecosystem-based management decision making.
+
+Copyright © 2021. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.marpolbul.2021.112333
+PMID: 33873042 [Indexed for MEDLINE]
+
+
+14. J Environ Manage. 2025 Jan;373:123567. doi: 10.1016/j.jenvman.2024.123567. Epub 
+2024 Dec 14.
+
+The "Blue" Habitat of Urban & Suburban Areas and approaches for its biodiversity 
+research: A scoping review.
+
+Sun P(1), Chen M(2), Chen J(3).
+
+Author information:
+(1)Nature AI Lab, Zhujiang No.1 Building, Xuanwu District, Nanjing, Jiangsu 
+Province, 210018, China. Electronic address: pingyaosun@natureailab.com.
+(2)Nature AI Lab, Zhujiang No.1 Building, Xuanwu District, Nanjing, Jiangsu 
+Province, 210018, China; Faculty of Forestry, University of British Columbia, 
+Vancouver, BC, V6T 1Z4, Canada. Electronic address: mingzec@student.ubc.ca.
+(3)Zhuhai Institute of Urban Planning & Design, Xiangzhou District, Zhuhai, 
+Guangdong Province, 519072, China. Electronic address: up_chen@sina.cn.
+
+This article explores recent research initially driven by interest in studying 
+the "Blue" Habitat of Urban and Suburban Areas (BHUS), focusing on water-related 
+ecosystems. BHUS, encompassing a wide range of aquatic habitats, is crucial to 
+ecosystem health but is increasingly threatened by biodiversity loss resulting 
+from climate change, land-use expansion, and unsustainable practices. Through a 
+scoping review of 93 peer-reviewed studies, this article establishes a framework 
+to classify BHUS types, identify target species, and analyze diverse and latest 
+techniques in water system research. The main themes for studying biodiversity 
+and environmental aspects of these blue habitats are highlighted, along with the 
+urgent need to address BHUS in urban biodiversity conservation. Findings reveal 
+that water systems are biologically rich but present unique research challenges 
+due to their variability and dynamic, interconnected nature. While there is 
+growing recognition of the need to consider human influence, many studies 
+overlook the complex, adaptive nature of BHUS as an integrated system. The 
+article gives insight into establishing a comprehensive framework and 
+integrating diverse methodologies and technologies for specialized research of 
+the BHUS biodiversity, emphasizing the role of advancing technologies and 
+interdisciplinary collaboration between urbanism and ecology. These approaches 
+are essential to support sustainable development that addresses conservation 
+needs and mitigates urbanization's impacts on BHUS. Further research should 
+explore how spatial planning and strategies can more effectively integrate blue 
+habitats to strengthen biodiversity conservation within the global urbanization 
+context.
+
+Copyright © 2024 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jenvman.2024.123567
+PMID: 39675323 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+15. J Insect Sci. 2022 Jul 1;22(4):9. doi: 10.1093/jisesa/ieac046.
+
+Habitat Type Affects Elevational Patterns in Ground-dwelling Arthropod 
+Communities.
+
+Uhey DA(1), Bowker MA(1), Haubensak KA(2), Auty D(1), Vissa S(1), Hofstetter 
+RW(1).
+
+Author information:
+(1)School of Forestry, Northern Arizona University, 200 East Pine Knoll Drive, 
+Flagstaff, AZ 86011, USA.
+(2)Department of Biological Sciences and Center for Ecosystem Science and 
+Society, Northern Arizona University, 617 North Beaver Road, Flagstaff, AZ 
+86011, USA.
+
+Understanding factors that drive biodiversity distributions is central in 
+ecology and critical to conservation. Elevational gradients are useful for 
+studying the effects of climate on biodiversity but it can be difficult to 
+disentangle climate effects from resource differences among habitat types. Here 
+we compare elevational patterns and influences of environmental variables on 
+ground-dwelling arthropods in open- and forested-habitats. We examine these 
+comparisons in three arthropod functional groups (detritivores, predators, and 
+herbivores) and two taxonomic groups (beetles and arachnids). We sampled twelve 
+sites spanning 1,132 m elevation and four life zones, collecting 4,834 
+individual ground arthropods identified to 123 taxa. Elevation was a strong 
+predicator for arthropod composition, however, patterns differed among 
+functional and taxonomic groups and individual species between open- and 
+forested-habitats. Beetles, arachnids, and predators decreased with elevation in 
+open habitats but increased in forests showing a significant interaction between 
+habitat type and elevation. Detritivores and herbivores showed no elevational 
+patterns. We found 11 arthropod taxa with linear elevational patterns, seven 
+that peaked in abundance at high elevations, and four taxa at low elevations. We 
+also found eight taxa with parabolic elevational patterns that peaked in 
+abundance at mid-elevations. We found that vegetation composition and 
+productivity had stronger explanatory power for arthropod composition in 
+forested habitats, while ground cover was a stronger predictor in open habitats. 
+Temperature and precipitation were important in both habitats. Our findings 
+demonstrate that relationships between animal diversity and elevation can be 
+mediated by habitat type, suggesting that physiological restraints and resource 
+limitations work differently between habitat types.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of 
+Entomological Society of America.
+
+DOI: 10.1093/jisesa/ieac046
+PMCID: PMC11639851
+PMID: 35983692 [Indexed for MEDLINE]
+
+
+16. Glob Chang Biol. 2023 May;29(9):2450-2465. doi: 10.1111/gcb.16642. Epub 2023 Feb 
+26.
+
+Temperature, productivity, and habitat characteristics collectively drive lake 
+food web structure.
+
+Leclerc C(1)(2), Reynaud N(1)(2), Danis PA(2)(3), Moatar F(4), Daufresne 
+M(1)(2), Argillier C(1)(2), Usseglio-Polatera P(5), Verneaux V(6), Dedieu N(6), 
+Frossard V(2)(7), Sentis A(1)(2).
+
+Author information:
+(1)INRAE, Aix-Marseille Univ., RECOVER, Aix-en-Provence, France.
+(2)Pôle R&D Écosystèmes Lacustres (ECLA), OFB-INRAE-USMB, Aix-en-Provence, 
+France.
+(3)OFB, Service ECOAQUA, DRAS, Aix-en-Provence, France.
+(4)RiverLy, INRAE, Centre de Lyon-Grenoble Auvergne-Rhône-Alpes, Villeurbanne, 
+France.
+(5)Université de Lorraine, CNRS, LIEC, Metz, France.
+(6)UMR CNRS 6249, Laboratoire Chrono-Environnement, Univ. Bourgogne 
+Franche-Comté, Besançon, France.
+(7)Université Savoie Mont-Blanc, INRAE, CARRTEL, Thonon-les-Bains, France.
+
+While many efforts have been devoted to understand variations in food web 
+structure among terrestrial and aquatic ecosystems, the environmental factors 
+influencing food web structure at large spatial scales remain hardly explored. 
+Here, we compiled biodiversity inventories to infer food web structure of 67 
+French lakes using an allometric niche-based model and tested how environmental 
+variables (temperature, productivity, and habitat) influence them. By applying a 
+multivariate analysis on 20 metrics of food web topology, we found that food web 
+structural variations are represented by two distinct complementary and 
+independent structural descriptors. The first is related to the overall trophic 
+diversity, whereas the second is related to the vertical structure. 
+Interestingly, the trophic diversity descriptor was mostly explained by habitat 
+size (26.7% of total deviance explained) and habitat complexity (20.1%) followed 
+by productivity (dissolved organic carbon: 16.4%; nitrate: 9.1%) and thermal 
+variations (10.7%). Regarding the vertical structure descriptor, it was mostly 
+explained by water thermal seasonality (39.0% of total deviance explained) and 
+habitat depth (31.9%) followed by habitat complexity (8.5%) and size (5.5%) as 
+well as annual mean temperature (5.6%). Overall, we found that temperature, 
+productivity, and habitat characteristics collectively shape lake food web 
+structure. We also found that intermediate levels of productivity, high levels 
+of temperature (mean and seasonality), as well as large habitats are associated 
+with the largest and most complex food webs. Our findings, therefore, highlight 
+the importance of focusing on these three components especially in the context 
+of global change, as significant structural changes in aquatic food webs could 
+be expected under increased temperature, pollution, and habitat alterations.
+
+© 2023 The Authors. Global Change Biology published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/gcb.16642
+PMID: 36799515 [Indexed for MEDLINE]
+
+
+17. Nat Ecol Evol. 2021 May;5(5):656-662. doi: 10.1038/s41559-020-01342-7. Epub 2021 
+Mar 8.
+
+Habitat loss and range shifts contribute to ecological generalization among reef 
+fishes.
+
+Stuart-Smith RD(1), Mellin C(2)(3), Bates AE(4), Edgar GJ(2).
+
+Author information:
+(1)Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, 
+Tasmania, Australia. rstuarts@utas.edu.au.
+(2)Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, 
+Tasmania, Australia.
+(3)The Environment Institute and School of Biological Sciences, University of 
+Adelaide, Adelaide, South Australia, Australia.
+(4)Department of Ocean Sciences, Memorial University of Newfoundland, St John's, 
+Newfoundland and Labrador, Canada.
+
+Comment in
+    Nat Ecol Evol. 2021 May;5(5):556-557. doi: 10.1038/s41559-021-01402-6.
+
+Human activities are altering the structure of ecological communities, often 
+favouring generalists over specialists. For reef fishes, increasingly degraded 
+habitats and climate-driven range shifts may independently augment 
+generalization, particularly if fishes with least-specific habitat requirements 
+are more likely to shift geographic ranges to track their thermal niche. Using a 
+unique global dataset on temperate and tropical reef fishes and habitat 
+composition, we calculated a species generalization index that empirically 
+estimates the habitat niche breadth of each fish species. We then applied the 
+species generalization index to evaluate potential impacts of habitat loss and 
+range shifts across large scales, on coral and rocky reefs. Our analyses 
+revealed consistent habitat-induced shifts in community structure that favoured 
+generalist fishes following regional coral mortality events and between adjacent 
+sea urchin barrens and kelp habitats. Analysis of the distribution of tropical 
+fishes also identified the species generalization index as the most important 
+trait in predicting their poleward range extent, more so than body or range 
+size. Generalist tropical reef fishes penetrate further into subtropical and 
+temperate zones than specialists. Dynamic responses of reef fishes to habitat 
+degradation imply loss of specialists at local scales, while generalists will be 
+broadly favoured under intensifying anthropogenic pressures. An increased focus 
+on individual requirements of specialists could provide useful guidance for 
+species threat assessments and conservation actions, while ecosystem and 
+multi-species fisheries models should recognize increasing prevalence of 
+generalists.
+
+DOI: 10.1038/s41559-020-01342-7
+PMID: 33686182 [Indexed for MEDLINE]
+
+
+18. Nature. 2024 Sep;633(8028):114-119. doi: 10.1038/s41586-024-07825-y. Epub 2024 
+Aug 21.
+
+Multi-habitat landscapes are more diverse and stable with improved function.
+
+Hackett TD(1)(2), Sauve AMC(3)(4)(5), Maia KP(3)(6), Montoya D(3)(7)(8), Davies 
+N(3), Archer R(3), Potts SG(9), Tylianakis JM(10), Vaughan IP(11), Memmott 
+J(12).
+
+Author information:
+(1)School of Biological Sciences, University of Bristol, Bristol, UK. 
+talya.hackett@biology.ox.ac.uk.
+(2)Department of Biology, University of Oxford, Oxford, UK. 
+talya.hackett@biology.ox.ac.uk.
+(3)School of Biological Sciences, University of Bristol, Bristol, UK.
+(4)Department of Computer Science, University of Bristol, Bristol, UK.
+(5)University of Bordeaux, Integrative and Theoretical Ecology group, LabEx 
+COTE, Pessac, France.
+(6)Institute of Biosciences Institute, University of São Paulo, São Paulo, 
+Brazil.
+(7)Basque Centre for Climate Change (BC3), Parque Científico UPV-EHU, Leioa, 
+Spain.
+(8)IKERBASQUE, Basque Foundation for Science, Bilbao, Spain.
+(9)Centre for Agri-Environmental Research, School of Agriculture, Policy and 
+Development, University of Reading, Reading, UK.
+(10)Bioprotection Aotearoa and Centre for Integrative Ecology, School of 
+Biological Sciences, University of Canterbury, Christchurch, New Zealand.
+(11)School of Biosciences, Cardiff University, Sir Martin Evans Building, 
+Cardiff, UK.
+(12)School of Biological Sciences, University of Bristol, Bristol, UK. 
+jane.memmott@bristol.ac.uk.
+
+Conservation, restoration and land management are increasingly implemented at 
+landscape scales1,2. However, because species interaction data are typically 
+habitat- and/or guild-specific, exactly how those interactions connect habitats 
+and affect the stability and function of communities at landscape scales remains 
+poorly understood. We combine multi-guild species interaction data 
+(plant-pollinator and three plant-herbivore-parasitoid communities, collected 
+from landscapes with one, two or three habitats), a field experiment and a 
+modelling approach to show that multi-habitat landscapes support higher species 
+and interaction evenness, more complementary species interactions and more 
+consistent robustness to species loss. These emergent network properties drive 
+improved pollination success in landscapes with more habitats and are not 
+explained by simply summing component habitat webs. Linking landscape 
+composition, through community structure, to ecosystem function, highlights 
+mechanisms by which several contiguous habitats can support landscape-scale 
+ecosystem services.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41586-024-07825-y
+PMCID: PMC11374697
+PMID: 39169178 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+19. Proc Natl Acad Sci U S A. 2023 Dec 12;120(50):e2304411120. doi: 
+10.1073/pnas.2304411120. Epub 2023 Dec 4.
+
+Maximum temperatures determine the habitat affiliations of North American 
+mammals.
+
+Tourani M(1)(2), Sollmann R(2)(3), Kays R(4)(5), Ahumada J(6)(7), Fegraus E(6), 
+Karp DS(2).
+
+Author information:
+(1)Department of Ecosystem and Conservation Sciences, University of Montana, 
+Missoula, MT 59812.
+(2)Department of Wildlife, Fish, and Conservation Biology, University of 
+California, Davis, CA 95616.
+(3)Department of Ecological Dynamics, Leibniz Institute for Zoo and Wildlife 
+Research, Berlin 10315, Germany.
+(4)Department of Forestry and Environmental Resources, North Carolina State 
+University, Raleigh, NC 27607.
+(5)North Carolina Museum of Natural Sciences, Raleigh, NC 27601.
+(6)Moore Center for Science, Conservation International, Arlington, VA 22202.
+(7)Center for Biodiversity Outcomes, Julia Ann Wrigley Global Institute of 
+Sustainability, Arizona State University, Tempe, AZ 85281.
+
+Addressing the ongoing biodiversity crisis requires identifying the winners and 
+losers of global change. Species are often categorized based on how they respond 
+to habitat loss; for example, species restricted to natural environments, those 
+that most often occur in anthropogenic habitats, and generalists that do well in 
+both. However, species might switch habitat affiliations across time and space: 
+an organism may venture into human-modified areas in benign regions but retreat 
+into thermally buffered forested habitats in areas with high temperatures. Here, 
+we apply community occupancy models to a large-scale camera trapping dataset 
+with 29 mammal species distributed over 2,485 sites across the continental 
+United States, to ask three questions. First, are species' responses to forest 
+and anthropogenic habitats consistent across continental scales? Second, do 
+macroclimatic conditions explain spatial variation in species responses to land 
+use? Third, can species traits elucidate which taxa are most likely to show 
+climate-dependent habitat associations? We found that all species exhibited 
+significant spatial variation in how they respond to land-use, tending to avoid 
+anthropogenic areas and increasingly use forests in hotter regions. In the 
+hottest regions, species occupancy was 50% higher in forested compared to open 
+habitats, whereas in the coldest regions, the trend reversed. Larger species 
+with larger ranges, herbivores, and primary predators were more likely to change 
+their habitat affiliations than top predators, which consistently affiliated 
+with high forest cover. Our findings suggest that climatic conditions influence 
+species' space-use and that maintaining forest cover can help protect mammals 
+from warming climates.
+
+DOI: 10.1073/pnas.2304411120
+PMCID: PMC10723132
+PMID: 38048469 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests statement:The authors 
+declare no competing interest.
+
+
+20. Glob Chang Biol. 2023 Dec;29(23):6756-6771. doi: 10.1111/gcb.16965. Epub 2023 
+Oct 11.
+
+Habitat-based biodiversity responses to macroclimate and edaphic factors in 
+European fen ecosystems.
+
+Jiménez-Alfaro B(1)(2), Aunina L(3), Carbognani M(4), Dítě D(2)(5), 
+Fernández-Pascual E(1), Garbolino E(6), Hájek O(2), Hájková P(2)(7), Ivchenko 
+TG(8)(9), Jandt U(10)(11), Jansen F(12), Kolari THM(13), Pawlikowski P(14), 
+Pérez-Haase A(15), Peterka T(2), Petraglia A(4), Plesková Z(2), Tahvanainen 
+T(13), Tomaselli M(4), Hájek M(2).
+
+Author information:
+(1)Biodiversity Research Institute, IMIB (Univ.Oviedo-CSIC-Princ.Asturias), 
+Mieres, Spain.
+(2)Department of Botany and Zoology, Faculty of Science, Masaryk University, 
+Brno, Czech Republic.
+(3)Institute of Biology of University of Latvia, Riga, Latvia.
+(4)Department of Chemistry, Life Sciences and Environmental Sustainability, 
+University of Parma, Parma, Italy.
+(5)Institute of Botany, Plant Science and Biodiversity Centre, Slovak Academy of 
+Sciences, Bratislava, Slovakia.
+(6)Climpact Data Science, Nova Sophia-Regus Nova, Sophia Antipolis Cedex, 
+France.
+(7)Department of Paleoecology, Institute of Botany, The Czech Academy of 
+Sciences, Brno, Czech Republic.
+(8)Laboratory of General Geobotany, Komarov Botanical Institute, Russian Academy 
+of Sciences, St. Petersburg, Russia.
+(9)Group of Ecology of Living Organisms, Tobolsk Complex Scientific Station, 
+Ural Branch of the Russian Academy of Sciences, Tobolsk, Russia.
+(10)Institute of Biology/Geobotany and Botanical Garden, Martin Luther 
+University Halle-Wittenberg, Halle (Saale), Germany.
+(11)German Centre for Integrative Biodiversity Research (iDiv) 
+Halle-Jena-Leipzig, Leipzig, Germany.
+(12)Faculty of Agricultural- and Environmental Sciences, University of Rostock, 
+Rostock, Germany.
+(13)Department of Environmental and Biological Sciences, University of Eastern 
+Finland, Joensuu, Finland.
+(14)Department of Ecology and Environmental Conservation, Faculty of Biology, 
+University of Warsaw, Warsaw, Poland.
+(15)Department of Evolutionary Biology, Ecology and Environmental Sciences, 
+University of Barcelona, Barcelona, Spain.
+
+Understanding large-scale drivers of biodiversity in palustrine wetlands is 
+challenging due to the combined effects of macroclimate and local edaphic 
+conditions. In boreal and temperate fen ecosystems, the influence of 
+macroclimate on biodiversity is modulated by hydrological settings across 
+habitats, making it difficult to assess their vulnerability to climate change. 
+Here, we investigate the influence of macroclimate and edaphic factors on three 
+Essential Biodiversity Variables across eight ecologically defined habitats that 
+align with ecosystem classifications and red lists. We used 27,555 vegetation 
+plot samples from European fens to assess the influence of macroclimate and 
+groundwater pH predictors on the geographic distribution of each habitat type. 
+Additionally, we modeled the relative influence of macroclimate, water pH, and 
+water table depth on community species richness and composition, focusing on 309 
+plant specialists. Our models reveal strong effects of mean annual temperature, 
+diurnal thermal range, and summer temperature on biodiversity variables, with 
+contrasting differences among habitats. While macroclimatic factors primarily 
+shape geographic distributions and species richness, edaphic factors emerge as 
+the primary drivers of composition for vascular plants and bryophytes. Annual 
+precipitation exhibits non-linear effects on fen biodiversity, with varying 
+impact across habitats with different hydrological characteristics, suggesting a 
+minimum requirement of 600 mm of annual precipitation for the occurrence of fen 
+ecosystems. Our results anticipate potential impacts of climate warming on 
+European fens, with predictable changes among habitat types and geographic 
+regions. Moreover, we provide evidence that the drivers of biodiversity in 
+boreal and temperate fens are closely tied to the ecological characteristics of 
+each habitat type and the dispersal abilities of bryophytes and vascular plants. 
+Given that the influence of macroclimate and edaphic factors on fen ecosystems 
+is habitat specific, climate change research and conservation actions should 
+consider ecological differentiation within functional IUCN ecosystems at 
+continental and regional scales.
+
+© 2023 The Authors. Global Change Biology published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/gcb.16965
+PMID: 37818677 [Indexed for MEDLINE]

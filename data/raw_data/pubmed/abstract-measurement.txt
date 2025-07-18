@@ -1,0 +1,1000 @@
+1. J Community Health. 2021 Feb;46(1):211-224. doi: 10.1007/s10900-020-00846-4.
+
+A Scoping Review of Bikeability Assessment Methods.
+
+Kellstedt DK(1), Spengler JO(2), Foster M(3), Lee C(4), Maddock JE(2).
+
+Author information:
+(1)College of Public Health, University of Nebraska Medical Center, Omaha, NE, 
+68198, USA. deb.kellstedt@unmc.edu.
+(2)Texas A&M School of Public Health, Texas A&M University, College Station, TX, 
+77843, USA.
+(3)Texas A&M University Libraries, Texas A&M University, College Station, TX, 
+77843, USA.
+(4)Texas A&M College of Architecture, Texas A&M University, College Station, TX, 
+77843, USA.
+
+Bicycling holds promise as a healthy and sustainable means of transportation and 
+physical activity. Despite the growing interest in community-based environmental 
+approaches to promoting physical activity, bikeability has received relatively 
+little attention. This paper provides a scoping review of the instruments 
+developed to measure bikeability along with practice-based analyses of the tools 
+related to user expertise, estimated cost, and required time to implement. The 
+review summarizes the literature, identifies research gaps, and informs 
+stakeholders with articles from EBSCO and transportation databases published 
+after 2003 when the previous bikeability instrument review paper was published. 
+Data extraction included the tool name, data collection method, study location, 
+data collection scale, type of measure, and description. Two reviewers 
+independently reviewed articles included in the full text review, and the 
+inter-rater agreement exceeded 90%. The database search yielded 388 unique 
+articles, and 17 met the inclusion/exclusion criteria. Most of the studies, 11 
+of 17, were applied to settings outside of the U.S. Five studies employed a 
+self-report survey, and five studies examined bikeability using geospatial data, 
+like GIS. Seven studies used a direct observation audit tool-one specifically 
+using a mobile app and another using virtual observation techniques with Google 
+Street View. Bikeability tools are useful for assessing communities and their 
+supports for bicycling. Our primary finding is that advances in technology over 
+the past two decades have driven innovative and useful methodologies, in a 
+variety of disciplines, for assessing the environment, but more consensus is 
+needed to provide a universal definition of bikeability.
+
+DOI: 10.1007/s10900-020-00846-4
+PMID: 32419079 [Indexed for MEDLINE]
+
+
+2. Am J Prev Med. 2015 May;48(5):639-45. doi: 10.1016/j.amepre.2014.10.008.
+
+Physical activity and food environment assessments: implications for practice.
+
+Eyler AA(1), Blanck HM(2), Gittelsohn J(3), Karpyn A(4), McKenzie TL(5), 
+Partington S(6), Slater SJ(7), Winters M(8).
+
+Author information:
+(1)Prevention Research Center, Washington University in St. Louis, St. Louis, 
+Missouri. Electronic address: aeyler@wustl.edu.
+(2)Division of Nutrition, Physical Activity, and Obesity, CDC, Atlanta, Georgia.
+(3)Bloomberg School of Public Health, Johns Hopkins University School of Public 
+Health, Baltimore, Maryland.
+(4)Center for Research in Education and Social Policy, University of Delaware 
+Newark, Delaware.
+(5)Exercise and Nutritional Sciences, San Diego State University, San Diego, 
+California.
+(6)Human Nutrition and Food Science, West Virginia University, Morgantown, West 
+Virginia.
+(7)School of Public Health, University of Illinois at Chicago, Chicago.
+(8)Illinois; and Health Sciences, Simon Fraser University, Burnaby, British 
+Columbia, Canada.
+
+There is growing interest in the use of physical activity and nutrition 
+environmental measures by both researchers and practitioners. Built environment 
+assessment methods and tools range from simple to complex and encompass 
+perceived, observed, and geographic data collection. Even though challenges in 
+tool selection and use may exist for non-researchers, there are opportunities to 
+incorporate these measures into practice. The aims of this paper are to (1) 
+describe examples of built environment assessment methods and tools in the 
+practice context; (2) present case studies that outline successful approaches 
+for the use of built environment assessment tools and data among practitioners; 
+and (3) make recommendations for both research and practice. As part of the 
+Built Environment Assessment Training Think Tank meeting in July 2013, experts 
+who work with community partners gathered to provide input on conceptualizing 
+recommendations for collecting and analyzing built environment data in practice 
+and research. The methods were summarized in terms of perceived environment 
+measures, observational measures, and geographic measures for physical activity 
+and food environment assessment. Challenges are outlined and case study examples 
+of successful use of assessments in practice are described. Built environment 
+assessment tools and measures are important outside the research setting. There 
+is a need for improved collaboration between research and practice in forming 
+partnerships for developing tools, collecting and analyzing data, and using the 
+results to work toward positive environmental changes.
+
+Copyright © 2015 American Journal of Preventive Medicine. All rights reserved.
+
+DOI: 10.1016/j.amepre.2014.10.008
+PMID: 25891064 [Indexed for MEDLINE]
+
+
+3. Sci Rep. 2022 Dec 27;12(1):22401. doi: 10.1038/s41598-022-27070-5.
+
+Comparative analysis of environmental standards to install a rooftop temperature 
+monitoring station.
+
+Kim B(1), Hwang S(2), Lee Y(2), Shin S(3), Kim K(2).
+
+Author information:
+(1)Observation Research Department, National Institute of Meteorological 
+Sciences, 33 Seohobukro, Jeju, 63568, Republic of Korea. nakbt777@korea.kr.
+(2)Observation Research Department, National Institute of Meteorological 
+Sciences, 33 Seohobukro, Jeju, 63568, Republic of Korea.
+(3)Forecast Research Department, National Institute of Meteorological Sciences, 
+33 Seohobukro, Jeju, 63568, Republic of Korea.
+
+Urban climate influences economic activities and the health and safety of urban 
+residents. Therefore, monitoring temperature in urban areas is important. 
+However, owing to the lack of space for an appropriate observation site, an 
+automatic weather station (AWS) was installed on a building rooftop. The rooftop 
+installation can indicate temperature differences depending on the intensity of 
+strong solar radiation and radiant heat of the building, and wind speed. 
+Therefore, in this study, we aimed to provide observation standards for 
+measuring rooftop temperature according to the optimal rooftop material and 
+observation height. Specifically, an AWS was installed on the rooftop of the 
+Gochang Standard Weather Station (GSWO), Jeollabuk-do Province, to observe the 
+urban climate in South Korea and establish suitable weather standards. Different 
+temperatures, optimum surface materials, and optimum heights for measuring the 
+temperature at the rooftop of GSWO were investigated and compared over 1 year. 
+The temperature recorded after installing a palm mat on the rooftop was more 
+similar to that observed in the grassland. Furthermore, the installation height 
+of the temperature sensor of 2.5-3.0 m for the palm mat and 3.5-4.0 m for 
+concrete was found to be the optimal height for observing temperature at the 
+rooftop.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-27070-5
+PMCID: PMC9794724
+PMID: 36575249 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+4. Water Res. 2022 Sep 1;223:118968. doi: 10.1016/j.watres.2022.118968. Epub 2022 
+Aug 9.
+
+A decade of monitoring micropollutants in urban wet-weather flows: What did we 
+learn?
+
+Mutzner L(1), Furrer V(2), Castebrunet H(3), Dittmer U(4), Fuchs S(5), Gernjak 
+W(6), Gromaire MC(7), Matzinger A(8), Mikkelsen PS(9), Selbig WR(10), Vezzaro 
+L(11).
+
+Author information:
+(1)Department of Environmental and Resource Engineering (DTU Sustain), Technical 
+University of Denmark, Bygningstorvet, Building 115, 2800 Kgs., Lyngby, Denmark. 
+Electronic address: lezomu@dtu.dk.
+(2)Eawag, Swiss Federal Institute of Aquatic Science and Technology, Dübendorf 
+8600, Switzerland; Institute of Civil, Environmental and Geomatic Engineering, 
+ETH Zürich, Zurich 8093, Switzerland. Electronic address: 
+Viviane.Furrer@eawag.ch.
+(3)University of Lyon, INSA Lyon, DEEP, EA 7429, 11 rue de la Physique, 
+Villeurbanne Cedex F-69621, France. Electronic address: hcastebrunet@gmail.com.
+(4)Department of Civil Engineering, Institute for Urban Water Management, 
+Technical University Kaiserslautern, Kaiserslautern 67663, Germany. Electronic 
+address: ulrich.dittmer@bauing.uni-kl.de.
+(5)Department of Aquatic Environmental Engineering, Institute for Water and 
+River Basin Management, Karlsruhe Institute of Technology (KIT), 
+Gotthard-Franz-Str. 3, Karlsruhe 76131, Germany. Electronic address: 
+stephan.fuchs@kit.edu.
+(6)ICRA, Catalan Institute for Water Research, Scientific and Technological Park 
+of the University of Girona, H2O Building, Emili Grahit 101, Girona 17003, 
+Spain; ICREA, Catalan Institute for Research and Advanced Studies, Barcelona 
+08010, Spain. Electronic address: wgernjak@icra.cat.
+(7)Leesu, École des Ponts ParisTech, Université Paris-Est Créteil. 6-8 avenue 
+Blaise Pascal, Cité Descartes, Marne-la-Vallée cedex 2, 77455, France. 
+Electronic address: marie-christine.gromaire@enpc.fr.
+(8)Kompetenzzentrum Wasser Berlin (KWB), Berlin 10961, Germany. Electronic 
+address: Andreas.Matzinger@kompetenz-wasser.de.
+(9)Department of Environmental and Resource Engineering (DTU Sustain), Technical 
+University of Denmark, Bygningstorvet, Building 115, 2800 Kgs., Lyngby, Denmark. 
+Electronic address: psmi@dtu.dk.
+(10)U.S. Geological Survey, Upper Midwest Water Science Center, Madison 53726, 
+WI, United States. Electronic address: wrselbig@usgs.gov.
+(11)Department of Environmental and Resource Engineering (DTU Sustain), 
+Technical University of Denmark, Bygningstorvet, Building 115, 2800 Kgs., 
+Lyngby, Denmark. Electronic address: luve@dtu.dk.
+
+Urban wet-weather discharges from combined sewer overflows (CSO) and stormwater 
+outlets (SWO) are a potential pathway for micropollutants (trace contaminants) 
+to surface waters, posing a threat to the environment and possible water reuse 
+applications. Despite large efforts to monitor micropollutants in the last 
+decade, the gained information is still limited and scattered. In a metastudy we 
+performed a data-driven analysis of measurements collected at 77 sites (683 
+events, 297 detected micropollutants) over the last decade to investigate which 
+micropollutants are most relevant in terms of 1) occurrence and 2) potential 
+risk for the aquatic environment, 3) estimate the minimum number of data to be 
+collected in monitoring studies to reliably obtain concentration estimates, and 
+4) provide recommendations for future monitoring campaigns. We highlight 
+micropollutants to be prioritized due to their high occurrence and critical 
+concentration levels compared to environmental quality standards. These 
+top-listed micropollutants include contaminants from all chemical classes 
+(pesticides, heavy metals, polycyclic aromatic hydrocarbons, personal care 
+products, pharmaceuticals, and industrial and household chemicals). Analysis of 
+over 30,000 event mean concentrations shows a large fraction of measurements (> 
+50%) were below the limit of quantification, stressing the need for reliable, 
+standard monitoring procedures. High variability was observed among events and 
+sites, with differences between micropollutant classes. The number of events 
+required for a reliable estimate of site mean concentrations (error bandwidth of 
+1 around the "true" value) depends on the individual micropollutant. The median 
+minimum number of events is 7 for CSO (2 to 31, 80%-interquantile) and 6 for SWO 
+(1 to 25 events, 80%-interquantile). Our analysis indicates the minimum number 
+of sites needed to assess global pollution levels and our data collection and 
+analysis can be used to estimate the required number of sites for an urban 
+catchment. Our data-driven analysis demonstrates how future wet-weather 
+monitoring programs will be more effective if the consequences of high 
+variability inherent in urban wet-weather discharges are considered.
+
+Copyright © 2022. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.watres.2022.118968
+PMID: 35988331 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+5. Accid Anal Prev. 2024 Mar;196:107430. doi: 10.1016/j.aap.2023.107430. Epub 2023 
+Dec 23.
+
+The role of traffic conflicts in roundabout safety evaluation: A review.
+
+Li L(1), Zhang Z(2), Xu ZG(3), Yang WC(4), Lu QC(5).
+
+Author information:
+(1)Department of Traffic Information and Control Engineering, Chang'an 
+University, Xi'an, China. Electronic address: lili@chd.edu.cn.
+(2)Department of Traffic Information and Control Engineering, Chang'an 
+University, Xi'an, China. Electronic address: zhangzai@chd.edu.cn.
+(3)School of Information Engineering, Chang'an University, Xi'an, China. 
+Electronic address: xuzhigang@chd.edu.cn.
+(4)National Engineering Laboratory For Surface Transportation Weather Impacts 
+Prevention, Kunming, China; Yunnan Key Laboratory of Digital Communications, 
+Kunming, China. Electronic address: tongjiywc@163.com.
+(5)Department of Traffic Information and Control Engineering, Chang'an 
+University, Xi'an, China. Electronic address: qclu@chd.edu.cn.
+
+The roundabout is one type of at-grade intersection commonly seen in many 
+countries. The evaluation of roundabout safety is usually counted on conflict 
+analysis of the roundabout traffic due to random and limited records of real 
+accidents. This paper surveyed published papers and reports that investigate the 
+role of traffic conflicts in roundabout safety evaluation. It summarized the 
+definitions and observation methods of roundabout conflicts and classified the 
+attributing factors of roundabout conflicts and the countermeasures to control 
+the conflicts. This study found that although unique traffic flow movements at 
+roundabouts create special patterns of roundabout conflicts, the methods of 
+roundabout conflict analysis used in most existing studies were inherited from 
+the studies of highway or cross-intersection conflicts, including conflict 
+definitions, conflict measurements, and thresholds of conflict severity. Special 
+or improper designs of roundabout configurations or basic geometry elements 
+could arouse roundabout conflicts. The most common vehicle-to-vehicle conflicts 
+were entering-circulating conflicts, sideswipe conflicts, and 
+exiting-circulating conflicts. The conflicts among vehicles and vulnerable road 
+users (VRUs) easily evolved into serious collisions, but these conflicts did not 
+get deserved attention in previous studies. Drivers' familiarity with 
+roundabouts also affected road users' safety. Traffic signs and pavement 
+markings were commonly used to control roundabout conflicts, while traffic 
+signals were more effective methods for the roundabouts with uneven distribution 
+of approaching traffic or high traffic volume. Based on the analysis of existing 
+studies, this paper pointed out seven future directions of further research in 
+term of conflict measurement, data collection, infrastructure and access 
+management, geometry, drivers and VRUs, signal control, and vehicle control.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.aap.2023.107430
+PMID: 38142578 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+6. Acad Med. 2015 Dec;90(12):1624-30. doi: 10.1097/ACM.0000000000000801.
+
+The Art of Observation: A Pedagogical Framework.
+
+Wellbery C(1), McAteer RA.
+
+Author information:
+(1)C. Wellbery is professor, Department of Family Medicine, Georgetown 
+University School of Medicine, Washington, DC. R.A. McAteer is clinical 
+assistant professor, Department of Family Medicine, Georgetown University School 
+of Medicine, Washington, DC, and was a medical humanities fellow there from 2012 
+to 2013. She also serves on the faculty of Tansen Mission Hospital, Palpa, 
+Nepal.
+
+Observational skills, honed through experience with the literary and visual 
+arts, bring together in a timely manner many of the goals of the medical 
+humanities, providing thematic cohesion through the act of seeing while aiming 
+to advance clinical skills through a unified practice. In an arts observation 
+pedagogy, nature writing serves as an apt model for precise, clinically relevant 
+linguistic noticing because meticulous attention to the natural world involves 
+scientific precision; additionally, a number of visual metaphors employed in 
+medicine are derived from close observation of the natural world. Close reading 
+reinforces observational skills as part of integrative, multidisciplinary 
+clinical practice. Literary precision provides an educational bridge to 
+recognizing the importance of detail in the clinical realm. In weighing multiple 
+perspectives, observation applied to practice helps learners understand the 
+nuances of the role of witness, activating reflection consonant with the 
+viewer's professional identity. The realization that seeing is highly filtered 
+through the observer's values allows the act of observation to come under 
+scrutiny, opening the observer's gaze to disturbance and challenging the values 
+and precepts of the prevailing medical culture. Application of observational 
+skills can, for example, help observers recognize and address noxious effects of 
+the built environment. As learners describe what they see, they also develop the 
+communication skills needed to articulate both problems and possible 
+improvements within their expanding sphere of influence. The ability to craft 
+this speech as public narrative can lead to interventions with positive impacts 
+on physicians, their colleagues, and patients.
+
+DOI: 10.1097/ACM.0000000000000801
+PMID: 26164640 [Indexed for MEDLINE]
+
+
+7. Glob Chang Biol. 2022 Sep;28(17):5254-5268. doi: 10.1111/gcb.16302. Epub 2022 
+Jun 28.
+
+Tallo: A global tree allometry and crown architecture database.
+
+Jucker T(1), Fischer FJ(1), Chave J(2)(3), Coomes DA(4), Caspersen J(5), Ali 
+A(6), Loubota Panzou GJ(7)(8), Feldpausch TR(9), Falster D(10), Usoltsev 
+VA(11)(12), Adu-Bredu S(13), Alves LF(14), Aminpour M(15), Angoboy IB(16), Anten 
+NPR(17), Antin C(18), Askari Y(19), Muñoz R(20)(21), Ayyappan N(22), Balvanera 
+P(23), Banin L(24), Barbier N(18), Battles JJ(25), Beeckman H(26), Bocko YE(8), 
+Bond-Lamberty B(27), Bongers F(21), Bowers S(28), Brade T(28), van Breugel 
+M(29)(30)(31), Chantrain A(7), Chaudhary R(32), Dai J(33), Dalponte M(34), 
+Dimobe K(35), Domec JC(36)(37), Doucet JL(7), Duursma RA(38), Enríquez M(20), 
+van Ewijk KY(39), Farfán-Rios W(40), Fayolle A(7), Forni E(41), Forrester 
+DI(42), Gilani H(43), Godlee JL(28), Gourlet-Fleury S(41), Haeni M(44), Hall 
+JS(30), He JK(45), Hemp A(46), Hernández-Stefanoni JL(47), Higgins SI(48), 
+Holdaway RJ(49), Hussain K(50), Hutley LB(51), Ichie T(52), Iida Y(53), Jiang 
+HS(45), Joshi PR(54), Kaboli H(55), Larsary MK(56), Kenzo T(57), Kloeppel 
+BD(58)(59), Kohyama T(60), Kunwar S(32)(61), Kuyah S(62), Kvasnica J(63), Lin 
+S(64), Lines ER(65), Liu H(33), Lorimer C(66), Loumeto JJ(8), Malhi Y(67), 
+Marshall PL(68), Mattsson E(69)(70), Matula R(71), Meave JA(20), Mensah S(72), 
+Mi X(73), Momo S(18)(74), Moncrieff GR(75)(76), Mora F(23), Nissanka SP(77), 
+O'Hara KL(25), Pearce S(78), Pelissier R(18), Peri PL(79), Ploton P(18), Poorter 
+L(21), Pour MJ(80), Pourbabaei H(56), Dupuy-Rada JM(47), Ribeiro SC(81), Ryan 
+C(28), Sanaei A(82), Sanger J(78), Schlund M(83), Sellan G(84)(85), Shenkin 
+A(67), Sonké B(74), Sterck FJ(21), Svátek M(63), Takagi K(86), Trugman AT(87), 
+Ullah F(6)(61), Vadeboncoeur MA(88), Valipour A(89), Vanderwel MC(90), Vovides 
+AG(91), Wang W(73), Wang LQ(61), Wirth C(92)(93), Woods M(94), Xiang W(95), 
+Ximenes FA(96), Xu Y(97)(98), Yamada T(99), Zavala MA(100).
+
+Author information:
+(1)School of Biological Sciences, University of Bristol, Bristol, UK.
+(2)Laboratoire Évolution et Diversité Biologique (EDB), UMR 5174 (CNRS/IRD/UPS), 
+Toulouse Cedex 9, France.
+(3)Université Toulouse, Toulouse Cedex 9, France.
+(4)Conservation Research Institute, University of Cambridge, Cambridge, UK.
+(5)Institute of Forestry and Conservation, University of Toronto, Toronto, 
+Ontario, Canada.
+(6)Forest Ecology Research Group, College of Life Sciences, Hebei University, 
+Baoding, Hebei, China.
+(7)Université de Liège, Gembloux Agro-Bio Tech, Gembloux, Belgium.
+(8)Laboratoire de Biodiversité, de Gestion des Ecosystèmes et de l'Environnement 
+(LBGE), Faculté des Sciences et Techniques, Université Marien Ngouabi, 
+Brazzaville, Republic of Congo.
+(9)College of Life and Environmental Sciences, University of Exeter, Exeter, UK.
+(10)Evolution & Ecology Research Centre, University of New South Wales Sydney, 
+Sydney, New South Wales, Australia.
+(11)Department of Forestry, Ural State Forest Engineering University, 
+Yekaterinburg, Russia.
+(12)Department of Forest Dynamics, Botanical Garden of the Ural Branch of 
+Russian Academy of Sciences, Yekaterinburg, Russia.
+(13)Forestry Research Institute of Ghana, Council for Scientific and Industrial 
+Research, University, Kumasi, Ghana.
+(14)Center for Tropical Research, Institute of the Environment and 
+Sustainability, University of California Los Angeles, Los Angeles, California, 
+USA.
+(15)Natural Recourses and Watershed Management Office, West Azerbaijan Province, 
+Urmia, Iran.
+(16)Institut National pour l'Etude et la Recherche Agronimiques, Democratic 
+Republic of the Congo.
+(17)Center for Crop Systems Analysis, Wageningen University, Wageningen, The 
+Netherlands.
+(18)AMAP Lab, Montpellier University, IRD, CIRAD, CNRS, INRAE, Montpellier, 
+France.
+(19)Research Division of Natural Resources, Kohgiluyeh and Boyerahmad 
+Agriculture and Natural Resources Research and Education Center, AREEO, Yasouj, 
+Iran.
+(20)Departamento de Ecología y Recursos Naturales, Facultad de Ciencias, 
+Universidad Nacional Autónoma de México, Coyoacán, Ciudad de México, Mexico.
+(21)Forest Ecology and Forest Management Group, Wageningen University, 
+Wageningen, The Netherlands.
+(22)Department of Ecology, French Institute of Pondicherry, Puducherry, India.
+(23)Instituto de Investigaciones en Ecosistemas y Sustentabilidad, Universidad 
+Nacional Autónoma de México, Morelia, Michoacán, Mexico.
+(24)UK Centre for Ecology and Hydrology, Edinburgh, UK.
+(25)University of California Berkeley, Berkeley, California, USA.
+(26)Service of Wood Biology, Royal Museum for Central Africa, Tervuren, Belgium.
+(27)Pacific Northwest National Laboratory, Joint Global Change Research 
+Institute, College Park, Maryland, USA.
+(28)School of GeoSciences, University of Edinburgh, Edinburgh, UK.
+(29)Yale-NUS College, Singapore.
+(30)ForestGEO, Smithsonian Tropical Research Institute, Apartado, Panama, 
+Republic of Panama.
+(31)Department of Geography, National University of Singapore, Singapore.
+(32)Division Forest Office, Ministry of Forest, Dhangadhi, Sudurpashchim 
+Province, Nepal.
+(33)College of Urban and Environmental Sciences and MOE Laboratory for Earth 
+Surface Processes, Peking University, Beijing, China.
+(34)Research and Innovation Centre, Fondazione Edmund Mach, San Michele 
+all'Adige, Italy.
+(35)Institut des Sciences de l'Environnement et du Développement Rural (ISEDR), 
+Université de Dédougou, Dédougou, Burkina Faso.
+(36)Bordeaux Sciences Agro-UMR ISPA, INRAE, Bordeaux, France.
+(37)Nicholas School of the Environment, Duke University, Durham, NC, USA.
+(38)Shinto Labs, Eindhoven, The Netherlands.
+(39)Department of Geography and Planning, Queen's University, Kingston, Ontario, 
+Canada.
+(40)Department of Biology, Washington University in St Louis, St Louis, 
+Missouri, USA.
+(41)CIRAD, UPR Forêts et Sociétés, Montpellier, France.
+(42)CSIRO Land and Water, Canberra, Australian Capital Territory, Australia.
+(43)Institute of Space Technology, Islamabad Highway, Islamabad, Pakistan.
+(44)Swiss Federal Research Institute WSL, Birmensdorf, Switzerland.
+(45)Spatial Ecology Lab, School of Life Sciences, South China Normal University, 
+Guangzhou, Guangdong, China.
+(46)Department of Plant Systematics, University of Bayreuth, Bayreuth, Germany.
+(47)Centro de Investigación Científica de Yucatán A.C., Unidad de Recursos 
+Naturales, Mérida, Yucatán, Mexico.
+(48)Department of Botany, University of Otago, Dunedin, New Zealand.
+(49)Landcare Research, Lincoln, New Zealand.
+(50)Gilgit-Baltistan Forest Wildlife and Environment Department, Gilgit, 
+Pakistan.
+(51)Research Institute for the Environment & Livelihoods, Charles Darwin 
+University, Casuarina, Northern Territory, Australia.
+(52)Faculty of Agriculture and Marine Science, Kochi University, Nankoku, Kochi, 
+Japan.
+(53)Forestry and Forest Products Research Institute, Tsukuba, Ibaraki, Japan.
+(54)Institute of Forestry, Tribhuvan University, Hetauda, Nepal.
+(55)Faculty of Desert Studies Semnan University, Semnan, Iran.
+(56)Department of Forestry, Faculty of Natural Resources, University of Guilan, 
+Somehsara, Iran.
+(57)Japan International Research Center for Agricultural Sciences, Tsukuba, 
+Ibaraki, Japan.
+(58)Department of Geosciences and Natural Resources, Western Carolina 
+University, Cullowhee, North Carolina, USA.
+(59)Graduate School and Research, Western Carolina Unversity, Cullowhee, North 
+Carolina, USA.
+(60)Faculty of Environmental Earth Science, Hokkaido University, Sapporo, Japan.
+(61)Department of Forest Resources Management, College of Forestry, Nanjing 
+Forestry University, Nanjing, Jiangsu, China.
+(62)Jomo Kenyatta University of Agriculture and Technology (JKUAT), Nairobi, 
+Kenya.
+(63)Department of Forest Botany, Dendrology and Geobiocoenology, Faculty of 
+Forestry and Wood Technology, Mendel University in Brno, Brno, Czech Republic.
+(64)Guangdong Provincial Key Laboratory of High Technology for Plant Protection, 
+Plant Protection Research Institute, Guangdong Academy of Agricultural Sciences, 
+Guangzhou, Guangdong, China.
+(65)Department of Geography, University of Cambridge, Cambridge, UK.
+(66)Department of Forest and Wildlife Ecology, University of Wisconsin-Madison, 
+Madison, Wisconsin, USA.
+(67)Environmental Change Institute, School of Geography and the Environment, 
+University of Oxford, Oxford, UK.
+(68)Faculty of Forestry, University of British Columbia, Vancouver, British 
+Columbia, Canada.
+(69)IVL Swedish Environmental Research Institute, Göteborg, Sweden.
+(70)Gothenburg Global Biodiversity Centre (GGBC), Gothenburg, Sweden.
+(71)Faculty of Forestry and Wood Sciences, Czech University of Life Sciences 
+Prague, Prague 6, Suchdol, Czech Republic.
+(72)Laboratoire de Biomathématiques et d'Estimations Forestières, Faculté des 
+Sciences Agronomiques, Université d'Abomey Calavi, Cotonou, Benin.
+(73)State Key Laboratory of Vegetation and Environmental Change, Institute of 
+Botany, Chinese Academy of Sciences, Beijing, China.
+(74)Laboratoire de Botanique systématique et d'Ecologie, Département des 
+Sciences Biologiques, Ecole Normale Supérieure, Université de Yaoundé I, 
+Yaoundé, Cameroon.
+(75)Fynbos Node, South African Environmental Observation Network, Claremont, 
+South Africa.
+(76)Centre for Statistics in Ecology, Environment and Conservation, Department 
+of Statistical Sciences, University of Cape Town, Rondebosch, South Africa.
+(77)Department of Crop Science, Faculty of Agriculture, University of 
+Peradeniya, Peradeniya, Sri Lanka.
+(78)The Tree Projects, Hobart, Tasmania, Australia.
+(79)Universidad Nacional de la Patagonia Austral (UNPA) - Instituto Nacional de 
+Tecnología Agropecuaria (INTA) - CONICET, Río Gallegos, Santa Cruz, Argentina.
+(80)Natural Resources Faculty, University of Tehran, Karaj, Iran.
+(81)Centro de Ciências Biológicas e da Natureza, Universidade Federal do Acre, 
+Campus Universitário, Rio Branco, Brazil.
+(82)Systematic Botany and Functional Biodiversity, Institute of Biology, Leipzig 
+University, Leipzig, Germany.
+(83)Department of Natural Resources, Faculty of Geo-information Science and 
+Earth Observation (ITC), University of Twente, Enschede, The Netherlands.
+(84)UMR EcoFoG, CNRS, Kourou, French Guiana.
+(85)Department of Natural Sciences, Manchester Metropolitan University, 
+Manchester, UK.
+(86)Field Science Center for Northern Biosphere, Hokkaido University, Horonobe, 
+Japan.
+(87)Department of Geography, University of California Santa Barbara, Santa 
+Barbara, California, USA.
+(88)Earth Systems Research Center, University of New Hampshire, Durham, New 
+Hampshire, USA.
+(89)Department of Forestry and The Center for Research and Development of 
+Northern Zagros Forestry, University of Kurdistan, Erbil, Iran.
+(90)Department of Biology, University of Regina, Regina, Saskatchewan, Canada.
+(91)School of Geographical and Earth Sciences, University of Glasgow, East 
+Quadrangle, Glasgow, UK.
+(92)Systematic Botany and Functional Biodiversity, Institute of Biology, 
+University of Leipzig, Leipzig, Germany.
+(93)German Centre for Integrative Biodiversity Research (iDiv) 
+Halle-Jena-Leipzig, Leipzig, Germany.
+(94)Ontario Ministry of Natural Resources, North Bay, Ontario, Canada.
+(95)Faculty of Life Science and Technology, Central South University of Forestry 
+and Technology, Changsha, Hunan, China.
+(96)Forest Science, New South Wales Department of Primary Industries, 
+Parramatta, New South Wales, Australia.
+(97)State Key Laboratory of Aquatic Botany and Watershed Ecology, Wuhan 
+Botanical Garden, Chinese Academy of Sciences, Wuhan, China.
+(98)Center of Conservation Biology, Core Botanical Gardens, Chinese Academy of 
+Sciences, Wuhan, China.
+(99)Graduate School of Integrated Sciences of Life, Hiroshima University, 
+Hiroshima, Japan.
+(100)Forest Ecology and Restoration Group (FORECO), Departamento de Ciencias de 
+la Vida, Universidad de Alcalá, Madrid, Spain.
+
+Data capturing multiple axes of tree size and shape, such as a tree's stem 
+diameter, height and crown size, underpin a wide range of ecological 
+research-from developing and testing theory on forest structure and dynamics, to 
+estimating forest carbon stocks and their uncertainties, and integrating remote 
+sensing imagery into forest monitoring programmes. However, these data can be 
+surprisingly hard to come by, particularly for certain regions of the world and 
+for specific taxonomic groups, posing a real barrier to progress in these 
+fields. To overcome this challenge, we developed the Tallo database, a 
+collection of 498,838 georeferenced and taxonomically standardized records of 
+individual trees for which stem diameter, height and/or crown radius have been 
+measured. These data were collected at 61,856 globally distributed sites, 
+spanning all major forested and non-forested biomes. The majority of trees in 
+the database are identified to species (88%), and collectively Tallo includes 
+data for 5163 species distributed across 1453 genera and 187 plant families. The 
+database is publicly archived under a CC-BY 4.0 licence and can be access from: 
+https://doi.org/10.5281/zenodo.6637599. To demonstrate its value, here we 
+present three case studies that highlight how the Tallo database can be used to 
+address a range of theoretical and applied questions in ecology-from testing the 
+predictions of metabolic scaling theory, to exploring the limits of tree 
+allometric plasticity along environmental gradients and modelling global 
+variation in maximum attainable tree height. In doing so, we provide a key 
+resource for field ecologists, remote sensing researchers and the modelling 
+community working together to better understand the role that trees play in 
+regulating the terrestrial carbon cycle.
+
+© 2022 The Authors. Global Change Biology published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/gcb.16302
+PMCID: PMC9542605
+PMID: 35703577 [Indexed for MEDLINE]
+
+
+8. Environ Int. 2024 Jul;189:108783. doi: 10.1016/j.envint.2024.108783. Epub 2024 
+May 28.
+
+Association between ambient temperature and influenza prevalence: A nationwide 
+time-series analysis in 201 Chinese cities from 2013 to 2018.
+
+Yin Y(1), Lai M(1), Lu K(2), Jiang X(1), Chen Z(1), Li T(3), Wang L(4), Zhang 
+Y(4), Peng Z(5).
+
+Author information:
+(1)School of Public Health, Nanjing Medical University, Nanjing 211166, China.
+(2)China CDC Key Laboratory of Environment and Population Health, National 
+Institute of Environmental Health, Chinese Center for Disease Control and 
+Prevention, Beijing, China.
+(3)China CDC Key Laboratory of Environment and Population Health, National 
+Institute of Environmental Health, Chinese Center for Disease Control and 
+Prevention, Beijing, China; National Key Laboratory of Intelligent Tracking and 
+Forecasting for Infectious Diseases, National Institute of Environmental Health, 
+Chinese Center for Disease Control and Prevention, Beijing, China.
+(4)National Key Laboratory of Intelligent Tracking and Forecasting for 
+Infectious Diseases, National Institute of Environmental Health, Chinese Center 
+for Disease Control and Prevention, Beijing, China; Division of Infectious 
+Disease, Chinese Center for Disease Control and Prevention, Beijing, China.
+(5)School of Public Health, Nanjing Medical University, Nanjing 211166, China; 
+National Key Laboratory of Intelligent Tracking and Forecasting for Infectious 
+Diseases, National Institute of Environmental Health, Chinese Center for Disease 
+Control and Prevention, Beijing, China; Division of Infectious Disease, Chinese 
+Center for Disease Control and Prevention, Beijing, China. Electronic address: 
+zhihangpeng@njmu.edu.cn.
+
+BACKGROUND: Temperature affects influenza transmission; however, currently, 
+limited evidence exists about its effect in China at the national and city 
+levels as well as how temperature can be integrated into influenza 
+interventions.
+METHODS: Meteorological, pollutant, and influenza data from 201 cities in 
+mainland China between 2013 and 2018 were analyzed at both the city and national 
+levels to investigate the relationship between temperature and influenza 
+prevalence. We examined the impact of temperature on the time-varying 
+reproduction number (Rt) using generalized additive quasi-Poisson regression 
+models combined with the distributed lag nonlinear model. Threshold temperatures 
+were determined for seven regions based on the early warning threshold of 
+serious influenza outbreaks, set at Rt = 1.2. A multivariate random-effects 
+meta-analysis was employed to assess region-specific associations. The excess 
+risk (ER) index was defined to investigate the correlation between Rt and 
+temperature, modified based on seasonal and regional characteristics.
+RESULTS: At the national level and in the central, northern, northwestern, and 
+southern regions, temperature was found to be negatively correlated with 
+relative risk, whereas the shapes of the data curves for the eastern, 
+southwestern, and northeastern regions were not well defined. Low temperatures 
+had an observable effect on influenza prevalence; however, the effects of high 
+temperatures were not obvious. At an Rt of 1.2, the threshold temperatures for 
+reaching a warning for serious influenza outbreaks were - 24.3 °C in the 
+northeastern region, 16.6 °C in the northwestern region, and between 1℃ and 
+10 °C in other regions.
+CONCLUSION: The study findings revealed that temperature had a varying effect on 
+influenza transmission trends (Rt) across different regions in China. By 
+identifying region-specific temperature thresholds at Rt = 1.2, more effective 
+early warning systems for influenza outbreaks could be tailored. These findings 
+emphasize the significance of the region-specific adaptation of influenza 
+prevention and control measures.
+
+Copyright © 2024 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.envint.2024.108783
+PMID: 38823156 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+9. Nature. 2016 Jan 21;529(7586):274-6. doi: 10.1038/529274a.
+
+Ecology's $434,000,000 test.
+
+Cesare C.
+
+DOI: 10.1038/529274a
+PMID: 26791703 [Indexed for MEDLINE]
+
+
+10. Curr Opin Gastroenterol. 2016 Jan;32(1):38-43. doi: 
+10.1097/MOG.0000000000000230.
+
+The diminutive colon polyp: biopsy, snare, leave alone?
+
+Murino A(1), Hassan C, Repici A.
+
+Author information:
+(1)aDigestive Endoscopy Unit, Humanitas Research Hospital, Milano bEndoscopy 
+Unit, Nuovo Regina Margherita Hospital, Rome cHumanitas University School of 
+Medicine, Milano, Italy.
+
+PURPOSE OF REVIEW: Diminutive polyps, measuring between 1 and 5 mm, represent 
+the vast majority of colorectal polyps encountered during screening colonoscopy. 
+Although the chance of harboring advanced adenoma or neoplastic cells is low, 
+ensuring a complete polyp resection with clear margins is crucial to reduce the 
+risk of interval colorectal cancer. The purpose of this review was to evaluate 
+the different methods applied for polypectomy of diminutive polyps and clarify 
+whether a diminutive polyp should be retrieved or left in place.
+RECENT FINDINGS: Cold biopsy polypectomy is indicated for resection of polyps 
+measuring 1-3 mm and removal of 4-5 mm polyps should be ensured by cold snare 
+polypectomy. Over the last decade, hot biopsy polypectomy has been gradually 
+abandoned because of an increased risk of diathermic injury. The resect and 
+discard strategy and the diagnose and disregard strategy should be performed 
+only by expert endoscopists, who should use validated scales and document the 
+polyp features by storing several endoscopic images.
+SUMMARY: Nowadays, complete resection of diminutive polyps, following the most 
+appropriate technique, is recommended in clinical practice. The resect and 
+discard strategy and the diagnose and disregard strategy should be reserved to 
+expert endoscopists.
+
+DOI: 10.1097/MOG.0000000000000230
+PMID: 26574868 [Indexed for MEDLINE]
+
+
+11. Rev Sci Tech. 2016 Nov;35(2):485-497. doi: 10.20506/rst.35.2.2528.
+
+Discontinuity in pastoral development: time to update the method.
+
+KrÄtli S.
+
+Most off-the-shelf basic methodological tools currently used in pastoral 
+development (e.g. technical definitions and conventional scales of observation) 
+retain underlying assumptions about stability and uniformity being the norm 
+(i.e. 'equilibrium thinking'). Such assumptions reflect a theoretical framework 
+which had been questioned since the 1970s and was openly disproved in scientific 
+circles during the 1990s, when it was shown to be fundamentally inadequate. 
+Today, lingering equilibrium assumptions in the methodological legacy of 
+pastoral development get in the way of operationalising state-of-the-art 
+understanding of pastoral systems and drylands. Unless these barriers are 
+identified, unpacked and managed, even increasing the rigour and intensity of 
+data collection will not deliver a realistic representation of pastoral systems 
+in statistics and policymaking. This article provides a range of examples of 
+such 'barriers', where equilibrium assumptions persist in the methodology, 
+including classifications of livestock systems, conventional scales of 
+observation, key parameters in animal production, indicators in the measurement 
+of ecological efficiency, and the concepts of 'fragile environment', natural 
+resources, and pastoral risk.
+
+Publisher: Les outils méthodologiques de base et prêts à l’emploi en matière de 
+développement pastoral (par exemple, les définitions techniques, les grilles 
+classiques d’observation) reposent encore pour la plupart sur un certain nombre 
+de postulats concernant la stabilité et l’uniformité considérées comme la norme 
+(le « paradigme de l’équilibre »). Le cadre théorique reflété par ces 
+présupposés a été remis en cause dès les années 1970 puis ouvertement réfuté 
+dans les cercles scientifiques au cours des années 1990, avec la démonstration 
+de son caractère foncièrement inadéquat. À l’heure actuelle, la persistance du 
+présupposé d’équilibre dans la tradition méthodologique du développement 
+pastoral constitue un obstacle à la mise en place d’une compréhension moderne 
+des systèmes pastoraux et des terres arides. En dépit d’une collecte de données 
+de plus en plus rigoureuse et intense, tant que ces obstacles n’auront pas été 
+reconnus, démontés et levés, il sera impossible d’obtenir une représentation 
+réaliste des systèmes pastoraux dans les statistiques et les prises de décision. 
+L’auteur présente une série d’exemples de barrières liées aux présupposés 
+persistants d’équilibre dans la méthodologie, en particulier : les 
+classifications des systèmes d’élevage ; les grilles classiques d’observation ; 
+les principaux paramètres de la production animale ; les indicateurs 
+d’efficacité écologique ; et les concepts d’ « environnement fragile », de 
+ressources naturelles et de risque pastoral.
+
+Publisher: La mayoría de las principales herramientas metodológicas 
+estandarizadas que se emplean para estudiar el desarrollo del pastoreo 
+(definiciones técnicas y escalas convencionales de observación, por ejemplo) 
+siguen reposando en premisas que hacen de la estabilidad y la uniformidad la 
+norma (el llamado «pensamiento del equilibrio»). Estas premisas emanan de un 
+marco teórico de referencia que fue puesto en tela de juicio a partir del 
+decenio de 1970 y que los círculos científicos desautorizaron sin ambages en los 
+años noventa, tras demostrar que era fundamentalmente inapropiado. Hoy en día, 
+la enquistada presencia de los postulados del equilibrio en el legado 
+metodológico que se utiliza para estudiar el desarrollo del pastoreo supone un 
+obstáculo a la hora de aplicar en la práctica una comprensión moderna de los 
+sistemas pastorales y las tierras áridas. Sin reconocer, desagregar y abordar 
+estos obstáculos previamente no será posible, incluso reuniendo datos de modo 
+más intenso y riguroso, obtener una imagen realista de los sistemas pastorales 
+con fines de estadística o de elaboración de políticas. El autor ofrece una 
+serie de ejemplos de tales «obstáculos», por los cuales los postulados del 
+equilibrio siguen lastrando la metodología, en particular las clasificaciones de 
+los sistemas ganaderos, las escalas convencionales de observación, los 
+parámetros básicos de producción animal, los indicadores que miden la eficiencia 
+ecológica o los conceptos de «medio frágil», recursos naturales y riesgo 
+pastoral.
+
+DOI: 10.20506/rst.35.2.2528
+PMID: 27917977 [Indexed for MEDLINE]
+
+
+12. Sci Data. 2023 Jun 1;10(1):324. doi: 10.1038/s41597-022-01757-w.
+
+Open science resources from the Tara Pacific expedition across coral reef and 
+surface ocean ecosystems.
+
+Lombard F(1)(2)(3), Bourdin G(4)(5), Pesant S(6), Agostini S(7), Baudena A(4), 
+Boissin E(8), Cassar N(9)(10), Clampitt M(11)(12)(13), Conan P(14)(15), Da Silva 
+O(4), Dimier C(4), Douville E(16), Elineau A(4), Fin J(17), Flores JM(18), 
+Ghiglione JF(14), Hume BCC(19), Jalabert L(4), John SG(20), Kelly RL(20), Koren 
+I(18), Lin Y(9)(10)(21), Marie D(22), McMinds R(11)(23)(24), Mériguet Z(4), 
+Metzl N(17), Paz-García DA(25), Pedrotti ML(4), Poulain J(26), Pujo-Pay M(14), 
+Ras J(4), Reverdin G(17), Romac S(27)(22), Rouan A(11)(12)(13), Röttinger 
+E(11)(12)(13), Vardi A(28), Voolstra CR(19), Moulin C(29), Iwankow G(8), Banaigs 
+B(8), Bowler C(27)(30), de Vargas C(27)(22), Forcioli D(11)(12)(13), Furla 
+P(11)(12)(13), Galand PE(27)(31), Gilson E(11)(12)(13)(32), Reynaud S(13)(33), 
+Sunagawa S(34), Sullivan MB(35), Thomas OP(36), Troublé R(29), Thurber RV(24), 
+Wincker P(26), Zoccola D(13)(33), Allemand D(13)(33), Planes S(8), Boss E(5), 
+Gorsky G(4)(27).
+
+Author information:
+(1)Sorbonne Université, Laboratoire d'Océanographie de Villefranche, UMR 7093, 
+CNRS, Institut de la Mer de Villefranche, 06230, Villefranche sur mer, France. 
+fabien.lombard@imev-mer.fr.
+(2)Research Federation for the study of Global Ocean Systems Ecology and 
+Evolution, FR2022/Tara GOSEE, 75000, Paris, France. fabien.lombard@imev-mer.fr.
+(3)Institut Universitaire de France, 75231, Paris, France. 
+fabien.lombard@imev-mer.fr.
+(4)Sorbonne Université, Laboratoire d'Océanographie de Villefranche, UMR 7093, 
+CNRS, Institut de la Mer de Villefranche, 06230, Villefranche sur mer, France.
+(5)School of Marine Sciences, University of Maine, Orono, Maine, 04469, USA.
+(6)European Molecular Biology Laboratory, European Bioinformatics Institute, 
+Wellcome Genome Campus, Hinxton, Cambridge, CB10 1SD, UK.
+(7)Shimoda Marine Research Center, University of Tsukuba, 5-10-1, Shimoda, 
+Shizuoka, Japan.
+(8)PSL Research University: EPHE-UPVD-CNRS, USR 3278 CRIOBE, Laboratoire 
+d'Excellence CORAIL, Université de Perpignan, 52 Avenue Paul Alduy, 66860, 
+Perpignan, Cedex, France.
+(9)Nicholas School of the Environment, Duke University, Durham, NC, USA.
+(10)Laboratoire des Sciences de l'Environnement Marin, UMR 6539 
+UBO/CNRS/IRD/IFREMER, Institut Universitaire Européen de la Mer, Brest, France.
+(11)Université Côte d'Azur, CNRS, INSERM, Institute for Research on Cancer and 
+Aging, Nice (IRCAN), Nice, France.
+(12)Université Côte d'Azur, Institut Fédératif de Recherche - Ressources Marines 
+(IFR MARRES), Nice, France.
+(13)LIA ROPSE, Laboratoire International Associé Université Côte d'Azur - Centre 
+Scientifique de Monaco, Nice, Monaco.
+(14)Sorbonne Université, CNRS, Laboratoire d'Océanographie Microbienne, LOMIC, 
+66650, Banyuls Sur Mer, France.
+(15)Sorbonne Université, CNRS, OSU STAMAR - UAR2017, 75252 Paris, France.
+(16)Laboratoire des Sciences du Climat et de l'Environnement, LSCE/IPSL, 
+CEA-CNRS-UVSQ, Université Paris-Saclay, Gif-sur-Yvette, France.
+(17)Laboratoire LOCEAN/IPSL, Sorbonne Université-CNRS-IRD-MNHN, Paris, 75005, 
+France.
+(18)Weizmann Institute of Science, Department of Earth and Planetary Sciences, 
+Rehovot, Israel.
+(19)Department of Biology, University of Konstanz, Konstanz, Germany.
+(20)Department of Earth Science, University of Southern California, Los Angeles, 
+CA, USA.
+(21)Environmental Research Center, Duke Kunshan University, Kunshan, China.
+(22)Sorbonne Université, CNRS, Station Biologique de Roscoff, UMR 7144, AD2M, 
+Roscoff, France.
+(23)Université Côte d'Azur, Maison de la Modélisation, de la Simulation et des 
+Interactions (MSI), Nice, France.
+(24)Department of Microbiology, Oregon State University, Corvallis, OR, USA.
+(25)Centro de Investigaciones Biológicas del Noroeste (CIBNOR), La Paz, Baja 
+California Sur, 23096, México.
+(26)Génomique Métabolique, Genoscope, Institut François Jacob, CEA, CNRS, Univ 
+Evry, Université Paris-Saclay, Evry, France.
+(27)Research Federation for the study of Global Ocean Systems Ecology and 
+Evolution, FR2022/Tara GOSEE, 75000, Paris, France.
+(28)Weizmann Institute of Science, Department of Plant and Environmental 
+Science, Rehovot, Israel.
+(29)Tara Ocean Foundation, Paris, France.
+(30)Institut de Biologie de l'Ecole Normale Supérieure, Ecole Normale 
+Supérieure, CNRS, INSERM, Université PSL, Paris, France.
+(31)Sorbonne Université, CNRS, Laboratoire d'Ecogéochimie des Environnements 
+Benthiques, UMR 8222, LECOB, Banyuls-sur-Mer, France.
+(32)Department of Medical Genetics, CHU, Nice, France.
+(33)Centre Scientifique de Monaco, 8 Quai Antoine Ier, MC-98000, Antoine, 
+Monaco.
+(34)Department of Biology, Institute of Microbiology and Swiss Institute of 
+Bioinformatics, ETH Zürich, Zurich, Switzerland.
+(35)Department of Microbiology and Department of Civil, Environmental and 
+Geodetic Engineering, The Ohio State University, Columbus, OH, USA.
+(36)School of Biological and Chemical Sciences, Ryan Institute, University of 
+Galway, University Road, Galway, Ireland.
+
+The Tara Pacific expedition (2016-2018) sampled coral ecosystems around 32 
+islands in the Pacific Ocean and the ocean surface waters at 249 locations, 
+resulting in the collection of nearly 58 000 samples. The expedition was 
+designed to systematically study warm-water coral reefs and included the 
+collection of corals, fish, plankton, and seawater samples for advanced 
+biogeochemical, molecular, and imaging analysis. Here we provide a complete 
+description of the sampling methodology, and we explain how to explore and 
+access the different datasets generated by the expedition. Environmental context 
+data were obtained from taxonomic registries, gazetteers, almanacs, 
+climatologies, operational biogeochemical models, and satellite observations. 
+The quality of the different environmental measures has been validated not only 
+by various quality control steps, but also through a global analysis allowing 
+the comparison with known environmental large-scale structures. Such publicly 
+released datasets open the perspective to address a wide range of scientific 
+questions.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41597-022-01757-w
+PMCID: PMC10235096
+PMID: 37264023 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests
+
+
+13. Eur J Epidemiol. 2014 Dec;29(12):911-27. doi: 10.1007/s10654-014-9980-6. Epub 
+2014 Dec 21.
+
+The Generation R Study: Biobank update 2015.
+
+Kruithof CJ(1), Kooijman MN, van Duijn CM, Franco OH, de Jongste JC, Klaver CC, 
+Mackenbach JP, Moll HA, Raat H, Rings EH, Rivadeneira F, Steegers EA, Tiemeier 
+H, Uitterlinden AG, Verhulst FC, Wolvius EB, Hofman A, Jaddoe VW.
+
+Author information:
+(1)The Generation R Study Group (NA-2915), Erasmus University Medical Center, PO 
+Box 2040, 3000 CA, Rotterdam, The Netherlands.
+
+The Generation R Study is a population-based prospective cohort study from fetal 
+life until adulthood. The study is designed to identify early environmental and 
+genetic causes and causal pathways leading to normal and abnormal growth, 
+development and health from fetal life, childhood and young adulthood. In total, 
+9,778 mothers were enrolled in the study. Data collection in children and their 
+parents include questionnaires, interviews, detailed physical and ultrasound 
+examinations, behavioural observations, Magnetic Resonance Imaging and 
+biological samples. Efforts have been conducted for collecting biological 
+samples including blood, hair, faeces, nasal swabs, saliva and urine samples and 
+generating genomics data on DNA, RNA and microbiome. In this paper, we give an 
+update of the collection, processing and storage of these biological samples and 
+available measures. Together with detailed phenotype measurements, these 
+biological samples provide a unique resource for epidemiological studies focused 
+on environmental exposures, genetic and genomic determinants and their 
+interactions in relation to growth, health and development from fetal life 
+onwards.
+
+DOI: 10.1007/s10654-014-9980-6
+PMID: 25527369 [Indexed for MEDLINE]
+
+
+14. Sci Total Environ. 2023 Oct 15;895:165121. doi: 10.1016/j.scitotenv.2023.165121. 
+Epub 2023 Jun 26.
+
+Development of national stressor-specific genus sensitivity values.
+
+Griffith MB(1).
+
+Author information:
+(1)U.S. Environmental Protection Agency, Office of Research and Development, 
+Center for Environmental Monitoring and Modelling, 26 Martin Luther King Drive 
+West, Cincinnati, OH 45168, United States of America. Electronic address: 
+griffith.michael@epa.gov.
+
+Effective water quality management is based on associations between at least two 
+pieces of information: a stressor and a response. However, assessments are 
+hindered by the lack of pre-developed stressor-response associations. To remedy 
+this, I developed genus stressor-specific sensitivity values (SVs) for up to 704 
+genera to estimate a sensitive genera ratio (SGR) metric for as many as 34 
+common stream stressors. The SVs were estimated from a large, paired 
+macroinvertebrate and environmental data set for the contiguous United States. 
+Environmental variables measuring potential stressors were selected that were 
+generally uncorrelated and usually had several thousand station observations. I 
+calculated relative abundance weighted averages (WA) for each genus and 
+environmental variable meeting data requirements in a calibration data set. Each 
+environmental variable was split into 10 intervals along each stressor gradient. 
+Genera were assigned an SV from 1 to 10 based on the interval consistent with 
+the WA for each environmental parameter. Using the calibration derived SVs, SGRs 
+were calculated for the calibration and a validation subsets. SGRs are the 
+number of genera with SV ≤ 5 divided by the total number of genera in a sample. 
+In general, as stress increased, the SGR (range: 0-1) decreased for many 
+environmental variables, but for five environmental variables, the decrease was 
+not consistent. The 95 % confidence intervals of the mean of the SGRs were 
+greater for least disturbed stations compared to all other stations for 23 of 
+the remaining 29 environmental variables. Regional performance of SGRs was 
+evaluated by subdividing the calibration data set into West, Central, and East 
+subsets and recalculating SVs. SGR mean absolute errors were smallest in the 
+East and Central regions. These stressor-specific SVs expand the available tools 
+for assessing stream biological impairments from commonly encountered 
+environmental stressors.
+
+Published by Elsevier B.V.
+
+DOI: 10.1016/j.scitotenv.2023.165121
+PMCID: PMC10527857
+PMID: 37379936 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The author 
+declares that he has no known external financial or non-financial support or 
+relationships that could appear to have influenced the work reported in this 
+paper.
+
+
+15. Water Res. 2023 Feb 15;230:119590. doi: 10.1016/j.watres.2023.119590. Epub 2023 
+Jan 7.
+
+Channel abandonment alters trophic characteristics of highland rivers.
+
+Zhou X(1), Xu M(2), Kattel G(3), Zhang J(4), Liu Y(4), Wang C(4).
+
+Author information:
+(1)State Key Laboratory of Hydroscience and Engineering, Department of Hydraulic 
+Engineering, Tsinghua University, Beijing 100084, China. Electronic address: 
+zhouxd2019@mail.tsinghua.edu.cn.
+(2)State Key Laboratory of Hydroscience and Engineering, Department of Hydraulic 
+Engineering, Tsinghua University, Beijing 100084, China. Electronic address: 
+mzxu@mail.tsinghua.edu.cn.
+(3)State Key Laboratory of Hydroscience and Engineering, Department of Hydraulic 
+Engineering, Tsinghua University, Beijing 100084, China; Department of 
+Infrastructure Engineering, University of Melbourne, Melbourne VIC 3010, 
+Australia; School of Geographical Sciences, Nanjing University of Information 
+Science and Technology, Nanjing 210044, China.
+(4)State Key Laboratory of Hydroscience and Engineering, Department of Hydraulic 
+Engineering, Tsinghua University, Beijing 100084, China.
+
+The Qinghai-Tibet Plateau (QTP) serves as a collection of unique ecosystems 
+featured as oligotrophic and hypometabolic conditions, and is particularly 
+vulnerable to threats posed by anthropogenic and natural disturbances. Active 
+fluvial processes on the QTP, especially the lateral migration of rivers and 
+channel abandonment accompanied by variations in the hydrological connectivity, 
+and changes in river geomorphology, intensively modify this highland 
+river-floodplain system. However, little is known about how these processes 
+alter the trophic characteristics of highland river system on earth. In this 
+study, we conducted field investigations on a typical meandering river, the 
+Quanji River (QR), located in the northeastern QTP by sampling 
+macroinvertebrates, surveying trophic sources, and measuring a range of 
+environmental conditions. Based on the collected data, we identified four 
+biotopes for the QR through hierarchical clustering, established the 
+representative food web for each biotope through the allometric diet breadth 
+model, and estimated the biomass storage and flux within food web for each 
+biotope through the biomass balance model. Our results show that the identified 
+biotopes differed markedly in hydrological connectivity. Biotopes 1 and 2, which 
+were in the main river channel represented the condition of high connectivity, 
+Biotope 3 in the open channel represented the median connectivity, while Biotope 
+4 in the semi-open/closed channel represented the low connectivity. In contrast 
+to the unimodal pattern commonly observed in lowland rivers, indices for the 
+highland QR, including the taxa richness, trophic group richness, biomass flux, 
+biomass transfer efficiency, and trophic stability demonstrated a single-valley 
+response pattern to the hydrological connectivity. We argue that the 
+intermediate disturbance hypothesis still works on highland river ecosystems, 
+whereas the optimal disturbance occurs in the low connectivity rather than 
+median connectivity. We attribute this skewness to the low resistance and 
+resilience of highland macroinvertebrate community in the face of hydrodynamic 
+disturbances brought by flood events, and the biological disturbances from the 
+predation by endemic migratory fish (Gymnocypris przewalskii) in QR. This study 
+reveals that lateral migration and channel abandonment play important roles in 
+highland river systems in the QTP in the context of biological and energetic 
+perspectives and suggests that management strategies for highland rivers should 
+be made different from those of lowland rivers.

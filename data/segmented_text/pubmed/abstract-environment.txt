@@ -1,0 +1,512 @@
+1.
+Curr Environ Health Rep. 2021 Jun;8(2):146-156.
+doi: 10.1007/s40572-021-00313-9.
+Epub 2021 May 12.
+Biodiversity and Health in the Urban Environment.
+Marselle MR(1), Lindley SJ(2), Cook PA(3), Bonn A(4)(5)(6).
+Author information: (1)University of Surrey, School of Psychology, Guildford, GU2 7XH, UK. m.marselle@surrey.ac.uk.
+(2)Department of Geography, School of Environment, Education and Development, University of Manchester, Oxford Road, Manchester, M13 9PL, UK.
+(3)School of Health and Society, University of Salford, Salford, M6 6PU, UK.
+(4)Department of Ecosystem Services, Helmholtz Centre for Environmental Research - UFZ, Permoserstr. 15, 04318, Leipzig, Germany.
+(5)Institute of Biodiversity, Friedrich Schiller University Jena, Dornburger Straße 159, 07743, Jena, Germany.
+(6)Department of Ecosystem Services, German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstr.
+4, 04103, Leipzig, Germany.
+Erratum in Curr Environ Health Rep. 2021 Sep;8(3):266.
+doi: 10.1007/s40572-021-00321-9.
+PURPOSE OF REVIEW: Biodiversity underpins urban ecosystem functions that are essential for human health and well-being.
+Understanding how biodiversity relates to human health is a developing frontier for science, policy and practice.
+This article describes the beneficial, as well as harmful, aspects of biodiversity to human health in urban environments.
+RECENT FINDINGS:
+Recent research shows that contact with biodiversity of natural environments within towns and cities can be both positive and negative to human physical, mental and social health and well-being.
+For example, while viruses or pollen can be seriously harmful to human health, biodiverse ecosystems can promote positive health and well-being.
+On balance, these influences are positive.
+As biodiversity is declining at an unprecedented rate, research suggests that its loss could threaten the quality of life of all humans.
+A key research gap is to understand-and evidence-the specific causal pathways through which biodiversity affects human health.
+A mechanistic understanding of pathways linking biodiversity to human health can facilitate the application of nature-based solutions in public health and influence policy.
+Research integration as well as cross-sector urban policy and planning development should harness opportunities to better identify linkages between biodiversity, climate and human health.
+Given its importance for human health, urban biodiversity conservation should be considered as public health investment.
+DOI: 10.1007/s40572-021-00313-9 PMCID: PMC8115992 PMID: 33982150
+[Indexed for MEDLINE]
+Conflict of interest statement: Melissa Marselle, Sarah Lindley, Penny Cook, and Aletta Bonn declare that they have no conflict of interest.
+2. Curr Environ Health Rep. 2023 Sep;10(3):264-277.
+doi: 10.1007/s40572-023-00405-8.
+Epub 2023 Jul 28.
+An Overview of How the Built Environment Relates to Children's Health.
+Abdollahi S(1), Waygood EOD(2), Aliyas Z(3), Cloutier MS(3).
+Author information: (1)Department of Civil, Geological and Mining Engineering, Polytechnique Montréal, Montréal, H3T 1J4, Canada.
+(2)Department of Civil, Geological and Mining Engineering, Polytechnique Montréal, Montréal, H3T 1J4, Canada.
+owen.waygood@polymtl.ca.
+(3)Centre Urbanisation Culture Société, Institut National de La Recherche Scientifique, Montreal, H7B 1V7, Canada.
+PURPOSE OF REVIEW: Explore the varied pathways between the built environment and children's health.
+The review begins by describing how the built environment and transport infrastructure relate to conditions that lead to health outcomes.
+The review examines emissions, noise, and traffic dangers in relation to children's physical, mental, and social health.
+RECENT FINDINGS:
+Evidence is increasing for walkable neighborhoods and health-related behavior such as physical activity.
+However, diverse land uses (often supporting walkability) were also found to increase traffic injuries.
+Cognitive impacts of motorways on children at schools were found.
+Finally, the relationships between social activities and built environment are beginning.
+The built environment's influence on various physical health outcomes is increasingly clear and is often through a transport pathway.
+However, the links with mental and social health are less developed, though recent findings show significant results.
+Having accessible child-relevant destinations is an important consideration for children's health.
+© 2023.
+The Author(s), under exclusive licence to Springer Nature Switzerland AG.
+DOI: 10.1007/s40572-023-00405-8 PMID: 37507592 [Indexed for MEDLINE]
+3.
+Obes Rev. 2024 Jan;25(1):e13650.
+doi: 10.1111/obr.13650.
+Epub 2023 Oct 7.
+The built environment and child obesity: A review of Australian policies.
+Henry A(1), Fried L(1), Nathan A(1), Dhamrait G(1)(2), Boruff B(3), Schipperijn J(4), Cross D(1)(2), Beck B(5), Trapp G(1)(2), Christian H(1)(2).
+Author information: (1)Telethon Kids Institute, The University of Western Australia, Perth, Western Australia, Australia.
+(2)School of Population and Global Health, The University of Western Australia, Perth, Western Australia, Australia.
+(3)School of Agriculture and Environment, The University of Western Australia, Perth, Western Australia, Australia.
+(4)Department of Sports Science and Clinical Biomechanics, University of Southern Denmark, Odense, Denmark.
+(5)School of Public Health and Preventive Medicine, Monash University, Melbourne, Victoria, Australia.
+Child obesity is a serious public health challenge affected by both individual choice and societal and environmental factors.
+The main modifiable risk factors for child obesity are unhealthy eating and low levels of physical activity, both influenced by aspects of the built environment.
+Coordinated government policy across jurisdictions, developed using strong research evidence, can enable built environments that better support healthy lifestyles.
+This study reviewed current Australian and Western Australian government policies to understand if and how they address the impact of the built environment on child obesity, physical activity, sedentary behavior, and diet.
+Current government policy documents related to the built environment and child health were analyzed using the Comprehensive Analysis of Policy on Physical Activity framework.
+Ten Australian and 31 Western Australian government policy documents were identified.
+Most referred to the role of the built environment in supporting physical activity.
+Very few policies mentioned the built environment's role in reducing sedentary behaviors, supporting healthy eating, and addressing obesity.
+Few recognized the needs of children, and none mentioned children in policy development.
+Future government policy development should include the voices of children and child-specific built environment features.
+Inter-organizational policies with transparent implementation and evaluation plans are recommended.
+© 2023
+The Authors.
+Obesity Reviews published by John Wiley & Sons Ltd on behalf of World Obesity Federation.
+DOI: 10.1111/obr.13650 PMCID: PMC10909561
+PMID: 37804083
+[Indexed for MEDLINE]
+Conflict of interest statement: The authors declare that they have no conflicts of interest.
+4.
+Environ Health Perspect.
+2021 Jul;129(7):75001.
+doi: 10.1289/EHP8888.
+Epub 2021 Jul 21.
+COVID-19, the Built Environment, and Health.
+Author information: (1)Department of Environmental and Occupational Health Sciences, University of Washington School of Public Health, Seattle, Washington, USA.
+Comment in Environ Health Perspect.
+2021
+Sep;129(9):98001.
+doi: 10.1289/EHP10144.
+BACKGROUND: Since the dawn of cities, the built environment has both affected infectious disease transmission and evolved in response to infectious diseases.
+COVID-19 illustrates both dynamics.
+The pandemic presented an opportunity to implement health promotion and disease prevention strategies in numerous elements of the built environment.
+OBJECTIVES:
+This commentary aims to identify features of the built environment that affect the risk of COVID-19 as well as to identify elements of the pandemic response with implications for the built environment (and, therefore, for long-term public health).
+DISCUSSION:
+Built environment risk factors for COVID-19 transmission include crowding, poverty, and racism (as they manifest in housing and neighborhood features), poor indoor air circulation, and ambient air pollution.
+Potential long-term implications of COVID-19 for the built environment include changes in building design, increased teleworking, reconfigured streets, changing modes of travel, provision of parks and greenspace, and population shifts out of urban centers.
+Although it is too early to predict with confidence which of these responses may persist, identifying and monitoring them can help health professionals, architects, urban planners, and decision makers, as well as members of the public, optimize healthy built environments during and after recovery from the pandemic.
+DOI: 10.1289/EHP8888 PMCID: PMC8294798 PMID: 34288733 [Indexed for MEDLINE]
+5.
+J Environ Public Health.
+2020
+Mar 19;2020:9523127.
+doi: 10.1155/2020/9523127.
+eCollection 2020.
+Overview of "Systematic Reviews" of the Built Environment's Effects on Mental Health.
+Núñez-González S(1)(2)
+, Delgado-Ron JA(2)(3), Gault C(2), Lara-Vinueza A(2), Calle-Celi D(2), Porreca R(4), Simancas-Racines D(1)(2).
+Author information: (1)Centro Asociado Cochrane Ecuador, Facultad de Ciencias de la Salud Eugenio Espejo, Universidad UTE, Quito 170129, Ecuador.
+(2)Centro de Investigación en Salud Pública y Epidemiología Clínica (CISPEC), Universidad UTE, Quito 170129, Ecuador.
+(3)School of Population and Public Health, Faculty of Medicine, The University of British Columbia, Canada.
+(4)Facultad de Arquitectura, Universidad UTE, Quito 170147, Ecuador.
+Good mental health is related to mental and psychological well-being, and there is growing interest in the potential role of the built environment on mental health, yet the evidence base underpinning the direct or indirect effects of the built environment is not fully clear.
+The aim of this overview is to assess the effect of the built environment on mental health-related outcomes.
+Methods.
+This study provides an overview of published systematic reviews (SRs) that assess the effect of the built environment on mental health.
+We reported the overview according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines.
+Databases searched until November 2019 included the Cochrane Database of Systematic Reviews, EMBASE, MEDLINE (OVID 1946 to present), LILACS, and PsycINFO.
+Two authors independently selected reviews, extracted data, and assessed the methodological quality of included reviews using the Assessing Methodological Quality of Systematic Reviews-2 (AMSTAR-2).
+Results.
+In total, 357 records were identified from a structured search of five databases combined with the references of the included studies, and eleven SRs were included in the narrative synthesis.
+Outcomes included mental health and well-being, depression and stress, and psychological distress.
+According to AMSTAR-2 scores, the quality assessment of the included SRs was categorized as "high" in two SRs and as "critically low" in nine SRs.
+According to the conclusions of the SRs reported by the authors, only one SR reported a "beneficial" effect on mental health and well-being outcomes.
+Conclusion.
+There was insufficient evidence to make firm conclusions on the effects of built environment interventions on mental health outcomes (well-being, depression and stress, and psychological distress).
+The evidence collected reported high heterogeneity (outcomes and measures) and a moderate- to low-quality assessment among the included SRs.
+Copyright © 2020 Solange Núñez-González et al.
+DOI: 10.1155/2020/9523127 PMCID: PMC7106933 PMID: 32256618
+[Indexed for MEDLINE]
+Conflict of interest statement: The authors declare that there are no conflicts of interest regarding the publication of this paper.
+6.
+Int J Environ Res Public Health.
+2023
+Jun 20;20(12):6189.
+doi: 10.3390/ijerph20126189.
+The Impact of the Built Environment and Social Environment on Physical Activity: A Scoping Review.
+Wang Y(1), Steenbergen B(1), van der Krabben E(2), Kooij HJ(2), Raaphorst K(2), Hoekman R(3).
+Author information: (1)Behavioral Science Institute, Radboud University, 6525 XZ Nijmegen, The Netherlands.
+(2)Department of Geography, Planning, and Environment, Institute for Management Research, Radboud University, 6525 XZ Nijmegen, The Netherlands.
+(3)Mulier Institute, 3584 AA Utrecht, The Netherlands.
+This scoping review aims to provide an overview of the current state of physical activity research, focusing on the interplay between built and social environments and their respective influences on physical activity.
+We comprehensively searched electronic databases to identify relevant studies published between 2000 and 2022.
+A total of 35 articles have been reviewed based on the research question.
+The review found that built and social environments influence physical activity, and consideration of people's perceptions of their surroundings can provide further insight.
+The literature was summarized, and recommendations were made for future research.
+Findings suggest that interventions targeting built and social environments can promote physical activity effectively.
+However, limitations in the literature exist, including a need for more standardization in research methods and consistency in measurement tools.
+DOI: 10.3390/ijerph20126189 PMCID: PMC10297989 PMID: 37372774
+[Indexed for MEDLINE]
+Conflict of interest statement: The authors declare no conflict of interest.
+7.
+Integr Environ Assess Manag.
+2025 May 1;21(3):526-539.
+doi: 10.1093/inteam/vjaf021.
+Carrying capacity in human-environment interactions: a systematic review.
+DuPuy P(1), Galaitsi S(2), Linkov I(2).
+Author information: (1)Contractor to U.S. Army Engineer Research and Development Center, Concord, MA, United States.
+(2)U.S. Army Engineer Research and Development Center, Concord, MA, United States.
+The concept of carrying capacity has been applied broadly to various biological and social contexts.
+This article presents a systematic review of the carrying capacity literature as applied to human-occupied environments.
+The review evaluates underlying approaches and methods and explores the utility and limitations of the concept's applications.
+Prominent tools and approaches identified include evaluation index systems, ecological footprint analysis, the Cifuentes method, multi-objective optimization, system dynamics, fuzzy mathematics, and remote sensing and geographical information systems.
+Our findings indicate that, despite its origins, carrying capacity research is rarely concerned with the survival of human communities; instead, it is often invoked to understand the implications of human population growth and urbanization on living and sufficiency standards.
+The majority of identified carrying capacity studies did not define a strict upper boundary, demonstrating the utility of carrying capacity as a rhetorical strategy to galvanize action before system degradation eliminates options.
+The concept of carrying capacity, when applied to human-managed and constructed environments, increasingly reflects socioeconomic factors and quality of life considerations, underscoring subjective social constraints and societal tolerance levels rather than physical limitations on population survival.
+Published by Oxford University Press on behalf of the Society of Environmental Toxicology and Chemistry 2025.
+DOI: 10.1093/inteam/vjaf021 PMID: 40036314
+[Indexed for MEDLINE]
+8.
+Int J Environ Res Public Health.
+2023
+Oct 10;20(20):6905.
+doi: 10.3390/ijerph20206905.
+Implications of Aging in Place in the Context of the Residential Environment: Bibliometric Analysis and Literature Review.
+Seo E(1), Lee S(1).
+Author information: (1)Department of Architecture, Kwangwoon University, Seoul 01897, Republic of Korea.
+The residential environment's impact on aging in place is a multidisciplinary field that draws from architecture, urban planning, gerontology, psychology, and sociology.
+This multidisciplinary nature makes it challenging to comprehensively understand the field and identify the connections and interactions among disciplines.
+A bibliometric analysis is crucial for exploring the field's intellectual structure, identifying interdisciplinary collaborations, and tracking the knowledge flow across disciplines and will facilitate cross-disciplinary dialogue, foster collaboration, and encourage research that integrates diverse perspectives.
+This study reviewed the literature on aging in place in the context of a residential environment, which required adapting theories and methodologies.
+It analyzed a dataset of 1500 publications retrieved from the Web of Science, applied performance analysis techniques, and utilized VOSviewer to visualize the intellectual structure and evolving research themes.
+The results emphasize the increasing strength of academic interest and the growing diversity of fields related to the topic.
+The findings are discussed in terms of productivity, collaboration, and research themes from the past to the future.
+The results provide a roadmap for researchers, policymakers, and practitioners worldwide who focus on aging in place and acknowledge the importance of considering the physical, social, and cultural aspects of an older adult's living environment.
+DOI: 10.3390/ijerph20206905 PMCID: PMC10606307 PMID: 37887643
+[Indexed for MEDLINE]
+Conflict of interest statement: The authors declare no conflict of interest.
+9.
+HERD.
+2024 Jul;17(3):329-353.
+doi: 10.1177/19375867241250320.
+Epub 2024 May 13.
+The Role of the Built Environment in Supporting Older Adults' Engagement: A Narrative Literature Review.
+Gripko M(1), Joseph A(1).
+Author information: (1)Center for Health Facilities Design and Testing, Clemson University, Clemson, SC, USA.
+OBJECTIVE: This literature review aimed to summarize the existing knowledge surrounding the role of the built environment in supporting older adults' physical and social engagement and identify opportunities for future research and design that facilitates older adults' engagement at multiple environmental scales: from interior spaces to neighborhoods.
+BACKGROUND: Physical environments can support or impede older adults' physical and social engagement: willful, motivated involvement in meaningful activity or occupation.
+Research shows that engagement is a core component of health and well-being and relates to positive health outcomes, including reduced disease risk, better mental health, and improved physical and cognitive function.
+Thus, designing supportive built environments for engagement can yield significant, positive health and well-being impacts.
+METHODS:
+A systematized search of five databases, a hand search, and an iterative screening process identified 55 studies for inclusion in this review.
+Through inductive thematic analysis, this review summarizes findings regarding the built environment's role in physical and social engagement in older age and design strategies to facilitate engagement and support health and well-being.
+RESULTS:
+Evidence indicates that built environment characteristics can influence older people's physical and social engagement in homes, neighborhoods, and care settings.
+The thematic analysis of the included studies identified three key themes concerning the relationships of built environment characteristics to older adults' engagement across multiple environmental scales: connection, access, and security.
+CONCLUSIONS: Built environments influence older people's physical and social engagement, significantly affecting their health, well-being, abilities, and longevity.
+Numerous design strategies can support older adults' engagement, but more research is needed.
+DOI: 10.1177/19375867241250320 PMID: 38738947
+[Indexed for MEDLINE]
+Conflict of interest statement: Declaration of Conflicting InterestsThe author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+10.
+Environ Pollut. 2019 Nov;254(Pt A):113011.
+doi: 10.1016/j.envpol.2019.113011.
+Epub 2019 Aug 5.
+Microplastics in the environment: A critical review of current understanding and identification of future research needs.
+Akdogan Z(1), Guven B(2).
+Author information: (1)Institute of Environmental Sciences, Boğaziçi University, 34342 Istanbul, Turkey.
+(2)Institute of Environmental Sciences, Boğaziçi University, 34342 Istanbul, Turkey.
+Electronic address: basak.guven@boun.edu.tr.
+Microplastics (plastic particles <5 mm) are a contaminant of increasing ecotoxicological concern in aquatic environments, as well as for human health.
+Although microplastic pollution is widespread across the land, water, and air, these environments are commonly considered independently; however, in reality are closely linked.
+This study aims to review the scientific literature related microplastic research in different environmental compartments and to identify the research gaps for the assessment of future research priorities.
+Over 200 papers involving microplastic pollution, published between 2006 and 2018, are identified in the Web of Science database.
+The original research articles in 'Environmental Sciences', 'Marine/Freshwater Biology', 'Toxicology', 'Multidisciplinary Sciences', 'Environmental Studies', 'Oceanography', 'Limnology' and 'Ecology' categories of Web of Science are selected to investigate microplastic research in seas, estuaries, rivers, lakes, soil and atmosphere.
+The papers identified for seas, estuaries, rivers and lakes are further classified according to (i) occurrence and characterization (ii) uptake by and effects in organisms, and (iii) fate and transport issues.
+The results reveal that whilst marine microplastics have received substantial scientific research, the extent of microplastic pollution in continental environments, such as rivers, lakes, soil and air, and environmental interactions, remains poorly understood.
+Copyright © 2019 Elsevier Ltd.
+All rights reserved.
+DOI: 10.1016/j.envpol.2019.113011 PMID: 31404735
+[Indexed for MEDLINE]
+11.
+Sci Total Environ.
+2022 Jul 15;830:154748.
+doi: 10.1016/j.scitotenv.2022.154748.
+Epub 2022 Mar 23.
+Conceptualisation of multiple impacts interacting in the marine environment using marine infrastructure as an example.
+Komyakova V(1), Jaffrés JBD(2), Strain EMA(3), Cullen-Knox C(4), Fudge M(5), Langhamer O(6), Bender A(6), Yaakub SM(7), Wilson E(3), Allan BJM(8), Sella I(9), Haward M(10).
+Author information: (1)Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, Tasmania 7001, Australia; Centre for Marine Socioecology, University of Tasmania, Hobart, Tasmania 7053, Australia.
+Electronic address: valeriya.komyakova@utas.edu.au.
+(2)C&R Consulting, Townsville, Australia; College of Science and Engineering, James Cook University, Townsville, Australia.
+(3)Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, Tasmania 7001, Australia; Centre for Marine Socioecology, University of Tasmania, Hobart, Tasmania 7053, Australia.
+(4)Centre for Marine Socioecology, University of Tasmania, Hobart, Tasmania 7053, Australia.
+(5)Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, Tasmania 7001, Australia; Centre for Marine Socioecology, University of Tasmania, Hobart, Tasmania 7053, Australia; College of Business and Economics, University of Tasmania, Australia.
+(6)Division of Electricity, Department of Electrical Engineering, Uppsala University, Sweden.
+(7)Sustainability & Climate Solutions Department, DHI Water & Environment (S), Singapore.
+(8)Department of Marine Science, University of Otago, Dunedin 9016, New Zealand.
+(9)ECOncrete Tech, Tel Aviv, Israel.
+(10)Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, Tasmania 7001, Australia; Centre for Marine Socioecology, University of Tasmania, Hobart, Tasmania 7053, Australia; Blue Economy Cooperative Research Centre, PO Box 897, Launceston, Tasmania 7250, Australia.
+The human population is increasingly reliant on the marine environment for food, trade, tourism, transport, communication and other vital ecosystem services.
+These services require extensive marine infrastructure, all of which have direct or indirect ecological impacts on marine environments.
+The rise in global marine infrastructure has led to light, noise and chemical pollution, as well as facilitation of biological invasions.
+As a result, marine systems and associated species are under increased pressure from habitat loss and degradation, formation of ecological traps and increased mortality, all of which can lead to reduced resilience and consequently increased invasive species establishment.
+Whereas the cumulative bearings of collective human impacts on marine populations have previously been demonstrated, the multiple impacts associated with marine infrastructure have not been well explored.
+Here, building on ecological literature, we explore the impacts that are associated with marine infrastructure, conceptualising the notion of correlative, interactive and cumulative effects of anthropogenic activities on the marine environment.
+By reviewing the range of mitigation approaches that are currently available, we consider the role that eco-engineering, marine spatial planning and agent-based modelling plays in complementing the design and placement of marine structures to incorporate the existing connectivity pathways, ecological principles and complexity of the environment.
+Because the effect of human-induced, rapid environmental change is predicted to increase in response to the growth of the human population, this study demonstrates that the development and implementation of legislative framework, innovative technologies and nature-informed solutions are vital, preventative measures to mitigate the multiple impacts associated with marine infrastructure.
+Copyright © 2022
+Elsevier B.V. All rights reserved.
+DOI: 10.1016/j.scitotenv.2022.154748 PMID: 35337877
+[Indexed for MEDLINE]
+Conflict of interest statement: Declaration of competing interest The authors declare the following financial interests/personal relationships which may be considered as potential competing interests: Dr. Ido Sella co-founder and CEO of ECOncrete Tech Ltd.
+As part of its extensive work, the company develops ecological engineered solutions for marine and coastal construction.
+In the manuscript a range of eco-supportive solutions are presented, with ECOncrete Tech Ltd. solution among them.
+Dr. Siti Yaakub DHI; Head of Department Sustainability & Climate Solutions As one part of its activities, the company develops agent-based models.
+In the manuscript agent-based models are reviewed as a general, conceptual approach.
+12.
+Int J Environ Health Res. 2023
+Aug;33(8):768-782.
+doi: 10.1080/09603123.2022.2048803.
+Epub 2022 Mar 7.
+Associations of the audited residential neighborhood built-environment attributes with objectively-measured sedentary time among adults: a systematic review.
+Yu YC(1), Lai TF(2), Lin CY(3)(4)(5), Hsueh MC(6), Liao Y(7), Yang LT(8), Chang SH(1).
+Author information: (1)Department of Physical Education and Sport Sciences, National Taiwan Normal University, Taipei, Taiwan.
+(2)Department of Health Promotion and Health Education, National Taiwan Normal University, Taipei, Taiwan.
+(3)Graduate School of Sport Sciences, Waseda University, Tokorozawa, Japan.
+(4)Institute of Health Behaviors and Community Sciences, College of Public Health, National Taiwan University, Taipei, Taiwan.
+(5)Department of Psychiatry, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan.
+(6)Graduate Institute of Sport Pedagogy, University of Taipei, Taipei, Taiwan.
+(7)Graduate Institute of Sport, Leisure and Hospitality Management, National Taiwan Normal University, Taipei, Taiwan.
+(8)Harrah College of Hospitality, University of Nevada, Las Vegas, NV, USA.
+This study systematically reviewed the relevant studies and summarized the associations of objective measures of residential neighborhood built-environment attributes with sedentary time among adults.
+Published studies were obtained from PubMed and Scopus, restricting to those published in English language peer-reviewed journals to Oct. 2021.
+There were nine studies and 48 instances of estimated associations.
+Most instances showed no statistical-significant associations; by contrast, few instances showed that adults living in a neighborhood characterized by a high density of local destinations and connected intersections were associated with less sedentary time.
+The findings suggest that a high density of destinations and street intersections around residence may provide opportunities to transfer and access to services, thus reducing the sedentary time.
+Future research strengthening the research design and measurements are needed to investigate the potential explanations of the associations between residential neighborhood built environments and sedentary time in adults.
+DOI: 10.1080/09603123.2022.2048803 PMID: 35255757
+[Indexed for MEDLINE]
+13.
+Mar Environ Res.
+2014 Feb;93:1-3. doi: 10.1016/j.marenvres.2013.12.001.
+Epub 2013 Dec 13.
+Sensing the marine environment using different animal models and levels of complexity.
+Matranga V(1), Kiyomoto M(2).
+Author information: (1)Consiglio Nazionale delle Ricerche, Institute of Biomedicine and Molecular Immunology "Alberto Monroy", Via Ugo La Malfa 153, 90146 Palermo, Italy.
+Electronic address: valeria.matranga@ibim.cnr.it.
+(2)Tateyama Marine Laboratory, Marine and Coastal Research Center, Ochanomizu University, Kou-yatsu 11, Tateyama, Chiba 294-0301, Japan.
+There is no doubt that the natural environment is crucial for our daily life.
+Since seas and oceans occupy approximately 70% of the global surface, adverse changes in the marine environment sooner or later will have some type of impact on our society.
+The dynamic powerful marine environment provides us not only with material and concrete benefits, but also with spiritual and emotional treats.
+All this contributes to maintain and enhance the quality of our lives.
+Italian and Japanese scientists investigating on marine organisms impacted by polluted environments, anthropogenic factors, and emerging contaminants gathered together in a meeting promoted by the Italian National Research Council (CNR) and the Japanese Society for the Promotion of Sciences (JSPS) to report their studies, exchange knowledge and information, and discuss these topics with the belief that their researches might contribute to improve the quality of the marine environment and, by doing that, improve our healthy living on Earth.
+Several model organisms were the object of the reported studies, including marine mammals, fishes, echinoderms, crustaceans, cnidarians, copepods, diatoms, sponges.
+Reports ranged from field campaign studies on whole organisms to laboratory experiments.
+Cellular, biochemical and molecular biology analyses were employed, aimed at understanding the mechanisms involved in the stress response to environmental hazards.
+Copyright © 2013 Elsevier Ltd.
+All rights reserved.
+DOI: 10.1016/j.marenvres.2013.12.001 PMID: 24369963
+[Indexed for MEDLINE]
+14.
+Bull Environ Contam Toxicol. 2019 May;102(5):672-678.
+doi: 10.1007/s00128-019-02541-0.
+Epub 2019 Jan 14.
+Understanding Mercury Cycling in Tibetan Glacierized Mountain Environment: Recent Progress and Remaining Gaps.
+Zhang Q(1)(2), Sun X(3)(4), Sun S(5)(4), Yin X(5)(4), Huang J(3)(6), Cong Z(3)(6), Kang S(5)(6).
+Author information: (1)Key Laboratory of Tibetan Environment Changes and Land Surface Processes, Institute of Tibetan Plateau Research, Chinese Academy of Sciences (CAS), Beijing, 100101, China.
+qianggong.zhang@itpcas.ac.cn.
+(2)CAS Center for Excellence in Tibetan Plateau Earth Sciences, Beijing, 100101, China.
+qianggong.zhang@itpcas.ac.cn.
+(3)Key Laboratory of Tibetan Environment Changes and Land Surface Processes, Institute of Tibetan Plateau Research, Chinese Academy of Sciences (CAS), Beijing, 100101, China.
+(4)University of CAS, Beijing, 100049, China.
+(5)State Key Laboratory of Cryospheric Sciences, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou, 730000, China.
+(6)CAS Center for Excellence in Tibetan Plateau Earth Sciences, Beijing, 100101, China.
+Glacierized mountain environments can preserve and release mercury (Hg) and play an important role in regional Hg cycling.
+In the Tibetan Plateau (TP), most glaciers have been retreating at unprecedented rate in recent decades, acting as one of the most active factors in regional hydrological cycling.
+In this mini-review, we summarized recent studies on Hg distribution, transport, and accumulation in Tibetan glacierized environments.
+We highlight that melting glacier may represent a stimulator that exports Hg to glacier-fed ecosystems.
+We identified major knowledge gaps and proposed future research needs with several emphases, including quantifying Hg in glacier ablation zone, depicting Hg transport and transformation in glacial rivers during spring melt season, and better constraining glacier-export Hg and its environmental risks to the downstream.
+Besides, Hg isotopic technical, passive sampling and hydrological transport model should be utilized to improve the understanding of Hg cycling in high mountain regions in the TP.
+DOI: 10.1007/s00128-019-02541-0 PMID: 30643930
+[Indexed for MEDLINE]
+15.
+Biomed Environ Sci. 2022
+Dec 20;35(12):1126-1132.
+doi: 10.3967/bes2022.142.
+Influence of Built Environment in Hygienic City in China on Self-rated Health of Residents.
+Zheng WJ(1), Qi X(1), Yao HY(1), Liu JJ(2), Yu SC(1), Zhang T(3).
+Author information: (1)Office of Epidemiology, Chinese Center for Disease Control and Prevention, Beijing 102206, China.
+(2)Chinese Center for Disease Control and Prevention, Beijing 102206, China.
+(3)Aerospace Center Hospital, Beijing 100049, China.
+OBJECTIVE: To assess the subjective perception of residents on the built environment in hygienic cities and its relation to the self-rated health (SRH) status of residents, providing a basis for a better promotion on construction of health-supportive environments.
+METHODS:
+The online survey was adopted with the respondents recruited from residents living in Chaoyang District of Beijing in January 2021.
+With SRH level as the dependent variable, two-category logistic regression analysis was conducted to analyze the impact of the built environment in hygienic cities on the SRH status of residents.
+RESULTS: A total of 1,357 respondents were enrolled in this study.
+After controlling confounding factors, four aspects in the built environment in hygienic cities were detected remarkable influences on the SRH level of residents, including enough green space in the living area
+[odds ratio ( OR)
+= 1.395, 95% confidence interval (95% CI): 1.055-1.845], clean and hygienic living environment ( OR = 1.472, 95% CI: 1.107-1.956), residents' confidence in drinking water safety in the living area ( OR = 1.856, 95% CI: 1.354-2.544) and residents' confidence in food safety in the living area ( OR = 1.405, 95% CI: 1.027-1.921).
+CONCLUSION:
+Regarding city construction, the government should focus more on the subjective perception of residents on built environments to build a supportive environment benefiting the health of residents.
+Copyright © 2022 The Editorial Board of Biomedical and Environmental Sciences.
+Published by China CDC.
+All rights reserved.
+DOI: 10.3967/bes2022.142 PMID: 36597292 [Indexed for MEDLINE]
+16.
+Int J Environ Res Public Health.
+2023
+Feb 25;20(5):4143.
+doi: 10.3390/ijerph20054143.
+Research on Wind Environment and Morphological Effects of High-Rise Buildings in Macau: An Example from the New Reclamation Area around Areia Preta.
+He J(1), Chen Y(1), Zheng L(1), Zheng J(1).
+Author information: (1)Faculty of Humanities and Arts, Macau University of Science and Technology, Taipa, Macau 999078, China.
+The Macau peninsula is close to the tropical ocean, with a high population density and a large number of high-rise buildings, which require a windy environment with good ventilation and heat dissipation.
+Based on residential samples and the degree of agglomeration, the high-rise residential area in Areia Preta was selected as the focus of this study.
+Meanwhile, summer typhoons pose serious safety risks to high-rise buildings.
+Therefore, it is necessary to study the connection between spatial form and the wind environment.
+First of all, this research is based on relevant concepts and the wind environment evaluation system of high-rise buildings and conducts research on high-rise residential areas in Areia Preta.
+PHOENICS software is used to simulate the prevailing monsoon in winter and summer, as well as a typhoon in an extreme wind environment, and summarize the wind environment's characteristics.
+Secondly, by comparing the parameter calculation and simulation results, the possible relationship between the causes of each wind field is studied.
+Finally, conclusions are drawn about the urban form and wind environment of the site, and corresponding control strategies are proposed to reduce the shielding effect between buildings and typhoon damage.
+It can be used as a theoretical basis and reference point for urban construction and high-rise building planning and layout.
+DOI: 10.3390/ijerph20054143 PMCID: PMC10002204 PMID: 36901150
+[Indexed for MEDLINE]
+Conflict of interest statement: The authors declare no conflict of interest.
+17.
+Water Environ Res. 2016
+Oct;88(10):1637-71.
+doi: 10.2175/106143016X14696400495613.
+Furey PC(1), Deininger A, Liess A.
+Author information: (1)St.
+Catherine University, Department Biology, 2004 Randolph Ave, Mailstop 4246, St. Paul, MN 55105, USA.
+This survey of literature on substratum associated microbiota from 2015 highlights research findings associated with benthic algae and bacteria from a variety of aquatic environments, but primarily freshwaters.
+It focuses on topics of interest to the Water Environment Federation along with those of current emerging interest such as global change, oil spills, and environmental contaminants like pharmaceutical compounds, microplastics, nanoparticles and organic pollutants.
+Other interesting findings briefly covered include areas of general ecology, nutrient cycling, trophic interactions, water quality, nuisance and invasive species, bioindicators, and bioremediation.
+DOI: 10.2175/106143016X14696400495613
+PMID: 27620106
+[Indexed for MEDLINE]
+18.
+J Environ Qual. 2010 Nov-Dec;39(6):1954-65.
+doi: 10.2134/jeq2009.0479.
+An ecological perspective on nanomaterial impacts in the environment.
+Bernhardt ES(1), Colman BP, Hochella MF Jr, Cardinale BJ, Nisbet RM, Richardson CJ, Yin L.
+Author information: (1)Dep. of Biology, Box 90338, Duke Univ., Durham, NC 27708, USA.
+ebernhar@duke.edu
+Growing concerns over the potential for unintended, adverse consequences of engineered nanoparticles (ENPs) in the environment have generated new research initiatives focused on understanding the ecological effects of ENPs.
+Almost nothing is currently known about the fate and transport of ENPs in environmental waters, soils, and sediments or about the biological impacts of ENPs in natural environments, and the bulk of modern nanotoxicogical research is focused on highly controlled laboratory studies with single species in simple media.
+In this paper, we provide an ecological perspective on the current state of knowledge regarding the likely environmental impacts of nanomaterials and propose a strategy for making rapid progress in new research in ecological nanoscience.
+DOI: 10.2134/jeq2009.0479 PMID: 21284292 [Indexed for MEDLINE]
+19.
+Nutr Rev. 2008 Mar;66(3):123-40.
+doi: 10.1111/j.1753-4887.2008.00017.x.
+Model of the home food environment pertaining to childhood obesity.
+Rosenkranz RR(1), Dzewaltowski DA.
+Author information: (1)Community Health Institute and Department of Kinesiology at Kansas State University, Manhattan, Kansas 66506, USA.
+ricardo@ksu.edu
+The home food environment can be conceptualized as overlapping interactive domains composed of built and natural, sociocultural, political and economic, micro-level and macro-level environments.
+Each type and level of environment uniquely contributes influence through a mosaic of determinants depicting the home food environment as a major setting for shaping child dietary behavior and the development of obesity.
+Obesity is a multifactorial problem, and the home food environmental aspects described here represent a substantial part of the full environmental context in which a child grows, develops, eats, and behaves.
+The present review includes selected literature relevant to the home food environment's influence on obesity with the aim of presenting an ecologically informed model for future research and intervention in the home food environment.
+DOI: 10.1111/j.1753-4887.2008.00017.x PMID: 18289177
+[Indexed for MEDLINE]
+20.
+Water Environ Res. 2020 Oct;92(10):1629-1648.
+doi: 10.1002/wer.1410.
+Epub 2020 Aug 25.
+Furey PC(1), Lee SS(2), Clemans DL(3).
+Author information: (1)Department Biology, St. Catherine University, St. Paul, Minnesota, USA.
+(2)Office of Research and Development, U.S. Environmental Protection Agency, Washington, District of Columbia, USA.
+(3)Department of Biology, Eastern Michigan University, Ypsilanti, Michigan, USA.
+Highlights of new, interesting, and emerging research findings on substratum-associated microbiota covered from a survey of 2019 literature from primarily freshwaters provide insight into research trends of interest to the Water Environment Federation and others interested in benthic, aquatic environments.
+Coverage of topics on bottom-associated or attached algae and cyanobacteria, though not comprehensive, includes new methods, taxa new-to-science, nutrient dynamics, auto- and heterotrophic interactions, grazers, bioassessment, herbicides and other pollutants, metal contaminants, and nuisance, and bloom-forming and harmful algae.
+Coverage of bacteria, also not comprehensive, focuses on the ecology of benthic biofilms and microbial communities, along with the ecology of microbes like Caulobacter crescentus, Rhodobacter, and other freshwater microbial species.
+Bacterial topics covered also include metagenomics and metatranscriptomics, toxins and pollutants, bacterial pathogens and bacteriophages, and bacterial physiology.
+Readers may use this literature review to learn about or renew their interest in the recent advances and discoveries regarding substratum-associated microbiota.
+PRACTITIONER POINTS:
+This review of literature from 2019 on substratum-associated microbiota presents highlights of findings on algae, cyanobacteria, and bacteria from primarily freshwaters.
+Coverage of algae and cyanobacteria includes findings on new methods, taxa new to science, nutrient dynamics, auto- and heterotrophic interactions, grazers, bioassessment, herbicides and other pollutants, metal contaminants, and nuisance, bloom-forming and harmful algae.
+Coverage of bacteria includes findings on ecology of benthic biofilms and microbial communities, the ecology of microbes, metagenomics and metatranscriptomics, toxins and pollutants, bacterial pathogens and bacteriophages, and bacterial physiology.
+Highlights of new, noteworthy and emerging topics build on those from 2018 and will be of relevance to the Water Environment Federation and others interested in benthic, aquatic environments.
+© 2020 Water Environment Federation.
+DOI: 10.1002/wer.1410 PMID: 33463854
+[Indexed for MEDLINE]
+21.
+Environ Toxicol Chem.
+2016 Apr;35(4):799-812.
+doi: 10.1002/etc.3131.
+Epub 2015 Nov 24.
+Human pharmaceuticals in the marine environment: Focus on exposure and biological effects in animal species.
+Fabbri E(1)(2), Franzellitti S(1)(2).
+Author information: (1)Department of Biological, Geological and Environmental Sciences, University of Bologna, Ravenna, Italy.
+(2)Interdepartment Centre for Environmental Sciences Research, University of Bologna, Ravenna, Italy.
+Marine waters have been poorly investigated for the occurrence of pharmaceutical contamination.
+Recent data confirm that pharmaceuticals occur widely in marine and coastal environments; therefore, assessment of potential risk to marine species needs further efforts.
+The present study represents the first extensive review of pharmaceutical contamination in marine environments addressing the effects on the marine biota analyzed at the molecular, cellular, and individual levels.
+Because pharmaceuticals differ from conventional pollutants, being designed to interact with specific physiological pathways at low doses, the most recent evidence on modes of action and physiological alterations on marine animal species are discussed.
+Data on spatial distributions of pharmaceuticals in waters and sediments, as well as bioaccumulation rates, are also presented.
+The present review also seeks to expand knowledge of how the quality of coastal and marine environments could be efficiently monitored to anticipate possible health and environmental risks.
+© 2015 SETAC.
+DOI: 10.1002/etc.3131 PMID: 26111460
+[Indexed for MEDLINE]
+22.
+Int J Environ Res Public Health.
+2023
+Feb 18;20(4):3650.
+doi: 10.3390/ijerph20043650.
+Characteristics of the Thermal Environment and its Guidance to Ecological Restoration in a Resource-Based Area in the Loess Area.
+Liu S(1), Wang D(1), Cao Y(1)(2).
+Author information: (1)School of Land Science and Technology, China University of Geosciences, Beijing 100083, China.
+(2)Key Laboratory of Consolidation and Rehabilitation, Ministry of Natural Resources, Beijing 100035, China.
+The thermal environment is a crucial part of ecological environments.
+It is vital to study the distribution and generation of thermal environments for regional sustainable development.
+Mining area, agricultural area and urban area were taken as the research object, and remote sensing data were used to study the spatiotemporal distribution characteristics of the thermal environment.
+The relationship between the thermal environment and land use types was analyzed, and the effect of mining and reclamation on the thermal environment was emphasized.
+The main findings were: (1) the thermal effect zone in the study area was dispersed.
+The area ratio of the thermal effect zone accounted for 69.70%, 68.52%, 65.85%, 74.20% and 74.66% in the year 2000, 2003, 2009, 2013 and 2018, respectively.
+The contribution to the overall thermal effect was in the order of agricultural area > mining area > urban area.
+(2) The proportion of forest and the average grid temperature always showed a significant negative correlation in different scales and had the highest correlation and the greatest influence.
+(3) The land surface temperature (LST) of opencast areas was higher than the surrounding temperature, and the temperature difference was 3-5 °C.
+The LST of reclaimed sites was lower than the surrounding temperature, and the temperature difference was -7 to 0 °C.
+The quantitative study found that reclamation mode, shape and spatial location could affect the cooling effect of the reclaimed site.
+This study can provide a reference for the mitigation of thermal effects and the identification of influences of mining and reclamation on the thermal environment in the coordinated development of similar regions.
+DOI: 10.3390/ijerph20043650 PMCID: PMC9964452 PMID: 36834344 [Indexed for MEDLINE]
+Conflict of interest statement: The authors declare no conflict of interest.
+23.
+Sci Total Environ.
+2020
+May 15;717:137271.
+doi: 10.1016/j.scitotenv.2020.137271.
+Epub 2020 Feb 11.
+Environment and food web structure interact to alter the trophic magnification of persistent chemicals across river ecosystems.
+Windsor FM(1), Pereira MG(2), Morrissey CA(3), Tyler CR(4), Ormerod SJ(5).
+Author information: (1)School of Biosciences, Cardiff University, Cardiff, South Glamorgan CF10 3AX, UK; Biosciences, University of Exeter, Exeter, Devon EX4 4QD, UK.
+Electronic address: fredric.windsor@newcastle.ac.uk.
+(2)Centre for Ecology and Hydrology, Lancaster, Lancashire LA1 4AP, UK.
+(3)School of Environment and Sustainability, University of Saskatchewan, Saskatoon, Saskatchewan S7N 5B5, Canada.
+(4)Biosciences, University of Exeter, Exeter, Devon EX4 4QD, UK. (5)School of Biosciences, Cardiff University, Cardiff, South Glamorgan CF10 3AX, UK.
+Legacy organic pollutants persist in freshwater environments, but there is limited understanding of how their trophic transfer and effects vary across riverine ecosystems with different land use, biological communities and food webs.
+Here, we investigated the trophic magnification of polybrominated diphenyl ethers (PBDEs), polychlorinated biphenyls (PCBs) and a suite of organochlorines (OCs) across nine riverine food webs in contrasting hydrological catchments across South Wales (United Kingdom).
+Pollutants biomagnified through the food webs in all catchments studied, in some cases reaching levels sufficient for biological effects on invertebrates, fish and river birds such as the Dipper (Cinclus cinclus).
+Trophic magnification differed across food webs depending on pollutant characteristics (e.g. octanol-water partitioning coefficient) and site-specific environmental conditions (e.g. land use, water chemistry and basal resource composition).
+The trophic magnification of PBDEs, PCBs and OCs also reflected food-web structure, with greater accumulation in more connected food webs with more generalist taxa.
+These data highlight interactions between pollutant properties, environmental conditions and biological network structure in the transfer and biomagnification of POPs in river ecosystems.
+We advocate the need for further investigations of system-specific transfers of contaminants through aquatic food webs as these factors appear to have important implications for risk assessment.
+Copyright © 2020
+Elsevier B.V.
+All rights reserved.
+DOI: 10.1016/j.scitotenv.2020.137271 PMID: 32065886
+[Indexed for MEDLINE]
+Conflict of interest statement: Declaration of competing interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+24.
+Int J Environ Res Public Health.
+2022 Jul 21;19(14):8848.
+doi: 10.3390/ijerph19148848.
+Nonlinear Effects of the Built Environment on Light Physical Activity among Older Adults: The Case of Lanzhou, China.
+Zang P(1), Qiu H(1), Xian F(1), Yang L(2), Qiu Y(1), Guo H(1).
+Author information: (1)Department of Architecture, Guangdong University of Technology, Guangzhou 510006, China.
+(2)Department of Urban and Rural Planning, School of Architecture, Southwest

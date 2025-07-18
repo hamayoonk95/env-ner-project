@@ -1,0 +1,521 @@
+1. J Appl Toxicol. 2011
+Mar;31(2):95-107.
+doi: 10.1002/jat.1649.
+Epub 2011 Feb 14.
+Arsenic: toxicity, oxidative stress and human disease.
+Jomova K(1), Jenisova Z, Feszterova M, Baros S, Liska J, Hudecova D, Rhodes CJ, Valko M.
+Author information: (1)Department of Chemistry, Faculty of Natural Sciences, Constantine The Philosopher University, Nitra, Slovakia.
+Arsenic (As) is a toxic metalloid element that is present in air, water and soil.
+Inorganic arsenic tends to be more toxic than organic arsenic.
+Examples of methylated organic arsenicals include monomethylarsonic acid
+[MMA(V)] and dimethylarsinic acid [DMA(V)].
+Reactive oxygen species (ROS)-mediated oxidative damage is a common denominator in arsenic pathogenesis.
+In addition, arsenic induces morphological changes in the integrity of mitochondria.
+Cascade mechanisms of free radical formation derived from the superoxide radical, combined with glutathione-depleting agents, increase the sensitivity of cells to arsenic toxicity.
+When both humans and animals are exposed to arsenic, they experience an increased formation of ROS/RNS, including peroxyl radicals (ROO ), the superoxide radical, singlet oxygen, hydroxyl radical (OH ) via the Fenton reaction, hydrogen peroxide, the dimethylarsenic radical, the dimethylarsenic peroxyl radical and/or oxidant-induced DNA damage.
+Arsenic induces the formation of oxidized lipids which in turn generate several bioactive molecules (ROS, peroxides and isoprostanes), of which aldehydes [malondialdehyde (MDA) and 4-hydroxy-nonenal (HNE)] are the major end products.
+This review discusses aspects of chronic and acute exposures of arsenic in the etiology of cancer, cardiovascular disease (hypertension and atherosclerosis), neurological disorders, gastrointestinal disturbances, liver disease and renal disease, reproductive health effects, dermal changes and other health disorders.
+The role of antioxidant defence systems against arsenic toxicity is also discussed.
+Consideration is given to the role of vitamin C (ascorbic acid), vitamin E (α-tocopherol), curcumin, glutathione and antioxidant enzymes such as superoxide dismutase, catalase and glutathione peroxidase in their protective roles against arsenic-induced oxidative stress.
+Copyright © 2011 John Wiley & Sons, Ltd.
+DOI: 10.1002/jat.1649 PMID: 21321970
+[Indexed for MEDLINE]
+2.
+Environ Res. 2022 Jul;210:112950.
+doi: 10.1016/j.envres.2022.112950.
+Epub 2022 Feb 15.
+Surface tuning and interface engineering of advanced materials for detection and removal of toxic pollutants from industrial wastewater.
+Choi MY(1), Theerthagiri J(2), Jagannathan M(3), Maia G(4).
+Author information: (1)Core-Facility Center for Photochemistry & Nanomaterials, Department of Chemistry, Research Institute of Natural Sciences, Gyeongsang National University, Jinju, 52828, Republic of Korea.
+Electronic address: mychoi@gnu.ac.kr.
+(2)Core-Facility Center for Photochemistry & Nanomaterials, Department of Chemistry, Research Institute of Natural Sciences, Gyeongsang National University, Jinju, 52828, Republic of Korea.
+Electronic address: j.theerthagiri@gmail.com.
+(3)Department of Chemistry, Thiruvalluvar University, Serkkadu, Vellore, 632115, Tamilnadu, India.
+Electronic address: jagan.madhavan@gmail.com.
+(4)Institute of Chemistry, Universidade Federal de Mato Grosso Do Sul, Senador Filinto Muller Avenue, 1555, Campo Grande, Mato Grosso do Sul, 79074-460, Brazil.
+Electronic address: gilberto.maia@ufms.br.
+DOI: 10.1016/j.envres.2022.112950 PMID: 35176312 [Indexed for MEDLINE]
+3. J Environ Manage.
+2021 Jun 1;287:112279.
+doi: 10.1016/j.jenvman.2021.112279.
+Epub 2021 Mar 8.
+Chromium pollution and its bioremediation mechanisms in bacteria: A review.
+Pushkar B(1), Sevak P(2), Parab S(3), Nilkanth N(3).
+Author information: (1)Department of Biotechnology, University of Mumbai, Kalina, Santacruz (E), Mumbai, 400098, Maharashtra, India; Global Biotech Forum, Maharashtra, India.
+Electronic address: bpushkar@mu.ac.in.
+(2)Department of Biotechnology, University of Mumbai, Kalina, Santacruz (E), Mumbai, 400098, Maharashtra, India; Society for Innovations in Biosciences, Maharashtra, India.
+(3)Department of Biotechnology, University of Mumbai, Kalina, Santacruz (E), Mumbai, 400098, Maharashtra, India.
+Environment pollution is at its peak and is creating havoc for living beings.
+Industrial wastes containing toxic pollutants have contributed to a great extent in this disastrous environment pollution.
+Chromium (Cr3+/Cr6+) is highly toxic and one of the most common environmental pollutants because of its extensive use in industries especially tanneries.
+Lack of efficient treatment methods has resulted in extensive chromium pollution.
+Bioremediation of chromium using bacteria is very thoughtful due to its eco-friendly and cost-effective outcome.
+Bacteria possess numerous mechanisms such as biosorption, reduction, efflux or bioaccumulation, naturally or acquired to counter the toxicity of chromium.
+This review focuses on the bacterial responses against chromium toxicity and scope for their application in bioremediation.
+The differences and similarities between Gram negative and positive bacteria against chromium are also highlighted.
+Further, the knowledge gap and future prospects are also discussed in order to fill these gaps and overcome the problem associated with real-time applicability of bacterial bioremediation.
+Copyright © 2021 Elsevier Ltd.
+All rights reserved.
+DOI: 10.1016/j.jenvman.2021.112279 PMID: 33706095
+[Indexed for MEDLINE]
+4.
+Rev Environ Health.
+2022
+May 11;38(3):461-478.
+doi: 10.1515/reveh-2021-0139.
+Print 2023
+Sep 26.
+A review on chromium health hazards and molecular mechanism of chromium bioremediation.
+Murthy MK(1), Khandayataray P(1), Padhiary S(2), Samal D(2).
+Author information: (1)Department of Zoology, Mizoram University, Aizawl, Mizoram, India.
+(2)Department of Biotechnology, Academy of Management and Information Technology, Khordha, India.
+Living beings have been devastated by environmental pollution, which has reached its peak.
+The disastrous pollution of the environment is in large part due to industrial wastes containing toxic pollutants.
+The widespread use of chromium (Cr (III)/Cr (VI)) in industries, especially tanneries, makes it one of the most dangerous environmental pollutants.
+Chromium pollution is widespread due to ineffective treatment methods.
+Bioremediation of chromium (Cr) using bacteria is very thoughtful due to its eco-friendly and cost-effective outcome.
+In order to counter chromium toxicity, bacteria have numerous mechanisms, such as the ability to absorb, reduce, efflux, or accumulate the metal.
+In this review article, we focused on chromium toxicity on human and environmental health as well as its bioremediation mechanism.
+© 2022 Walter de Gruyter GmbH, Berlin/Boston.
+DOI: 10.1515/reveh-2021-0139 PMID: 35537040
+[Indexed for MEDLINE]
+5.
+Chemosphere.
+2022 Nov;307(Pt 3):136017.
+doi: 10.1016/j.chemosphere.2022.136017.
+Epub 2022 Aug 14.
+Unravelling the emerging carcinogenic contaminants from industrial waste water for prospective remediation by electrocoagulation - A review.
+Yasasve M(1), Manjusha M(2), Manojj D(1), Hariharan NM(3), Sai Preethi P(1), Asaithambi P(4), Karmegam N(5), Saravanan M(6).
+Author information: (1)Department of Biotechnology, Sree Sastha Institute of Engineering and Technology (Affiliated to Anna University), Chembarambakkam, Chennai, 600123, Tamil Nadu, India.
+(2)Department of Genetic Engineering, School of Bioengineering, SRM University, Kattankulathur, 603203, Tamil Nadu, India.
+(3)Department of Biotechnology, Sree Sastha Institute of Engineering and Technology (Affiliated to Anna University), Chembarambakkam, Chennai, 600123, Tamil Nadu, India.
+Electronic address: nmhariharan@gmail.com.
+(4)Faculty of Civil and Environmental Engineering, Jimma Institute of Technology, Jimma University, Jimma, Po Box - 378, Ethiopia.
+(5)Department of Botany, Government Arts College (Autonomous), Salem, 636007, Tamil Nadu, India.
+(6)AMR and Nanomedicine Laboratory, Department of Pharmacology, Saveetha Dental College, Saveetha Institute of Medical and Technical Sciences (SIMATS), Chennai, 600077, Tamil Nadu, India.
+Electronic address: bioinfosaran@gmail.com.
+The need of the hour relies on finding new but sustainable ways to curb rising pollution levels.
+The accelerated levels of urbanization and increase in population deplete the finite resources essential for human sustenance.
+In this aspect, water is one of the non-renewable sources that is running out very fast and is polluted drastically day by day.
+One way of tackling the problem is to reduce the pollution levels by decreasing the usage of chemicals in the process, and the other is to find ways to reuse or reduce the contaminants in the effluent by treatment methods.
+Most of the available water recycling or treatment methods are not sustainable.
+Some of them even use toxic chemicals in the processing steps.
+Treatment of organic wastes from industries is a challenging task as they are hard to remove.
+Electrocoagulation is one of the emerging water treatment technologies that is highly sustainable and has a comparatively cheaper operating cost.
+Being a broad-spectrum treatment process, it is suitable for treating the most common water pollutants ranging from oils, bacteria, heavy metals, and others.
+The process is also straightforward, where electrical current is used to coagulate the contaminates.
+The presence of carcinogens in these waste water increases the need for its treatment towards further use.
+The present investigation is made as an extensive analysis of the emerging carcinogens and their various sources from process industries, especially in the form of organic waste and their removal by electrocoagulation and its coupled techniques.
+The paper also aims to ascertain why the electrocoagulation technique may be a better alternative compared with other methods for the removal of carcinogens in organic wastewater, an analysis which has not been explored before.
+Copyright © 2022 Elsevier Ltd.
+All rights reserved.
+DOI: 10.1016/j.chemosphere.2022.136017 PMID: 35977566
+[Indexed for MEDLINE]
+Conflict of interest statement: Declaration of competing interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+6.
+Sci Total Environ.
+2022
+Dec 1;850:157961.
+doi: 10.1016/j.scitotenv.2022.157961.
+Epub 2022 Aug 11.
+Recent advances in bioremediation of heavy metals and persistent organic pollutants: A review.
+Tufail MA(1), Iltaf J(2), Zaheer T(3), Tariq L(4), Amir MB(5), Fatima R(6), Asbat A(7), Kabeer T(8), Fahad M(9), Naeem H(10), Shoukat U(11), Noor H(12), Awais M(13), Umar W(14), Ayyub M(15).
+Author information: (1)Institute for General Microbiology, Christian Albrechts University, Kiel, Germany.
+Electronic address: mtufail@ifam.uni-kiel.de.
+(2)Institute of Chemistry, University of Sargodha, 40100, Pakistan.
+(3)Department of Biological Physics, Eötvös Loránd University, Pázmány Péter sétány 1/A, 1117 Budapest, Hungary.
+(4)Centre of Excellence in Molecular Biology, University of the Punjab, Lahore 53700, Pakistan.
+(5)Key Laboratory of Insect Ecology and Molecular Biology, College of Plant Health and Medicine, Qingdao Agricultural University, Qingdao 266109, China.
+(6)School of Science, Department of Chemistry, University of Management and Technology, Lahore, Pakistan.
+(7)Department of Pharmacy, The University of Lahore, Lahore, Pakistan.
+(8)Center of Agriculture Biochemistry and Biotechnology CABB, University of Agriculture, Faisalabad, Pakistan.
+(9)Department of Plant Breeding and Genetics, Bahauddin Zakariya University, Multan, Pakistan.
+(10)Department of Environmental Sciences, Fatima Jinnah Women University, The Mall, 46000 Rawalpindi, Pakistan.
+(11)Integrated Genomics Cellular Development Biology Lab, Department of Entomology, University of Agriculture, Faisalabad, Pakistan.
+(12)Department of Microbiology, Faculty of Biological Sciences, Quaid-i-Azam University, Islamabad 45320, Pakistan.
+(13)International Center for Chemical and Biological Sciences, University of Karachi, Karachi 75270, Pakistan.
+(14)Institute of Environmental Science, Hungarian University of Agriculture and Life Sciences, Gödöllő 2100, Hungary.
+(15)Institute of Soil and Environmental Sciences, University of Agriculture Faisalabad, Pakistan.
+Heavy metals and persistent organic pollutants are causing detrimental effects on the environment.
+The seepage of heavy metals through untreated industrial waste destroys the crops and lands.
+Moreover, incineration and combustion of several products are responsible for primary and secondary emissions of pollutants.
+This review has gathered the remediation strategies, current bioremediation technologies, and their primary use in both in situ and ex situ methods, followed by a detailed explanation for bioremediation over other techniques.
+However, an amalgam of bioremediation techniques and nanotechnology could be a breakthrough in cleaning the environment by degrading heavy metals and persistant organic pollutants.
+Copyright © 2022
+Elsevier B.V. All rights reserved.
+DOI: 10.1016/j.scitotenv.2022.157961 PMID: 35963399
+[Indexed for MEDLINE]
+Conflict of interest statement: Declaration of competing interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+7.
+J Environ Sci Health A Tox Hazard Subst Environ Eng.
+2021;56(4):413-433.
+doi: 10.1080/10934529.2021.1885259.
+Epub 2021 Feb 17.
+Effects of physicochemical properties of Au cyanidation tailings on cyanide microbial degradation.
+Anning C(1), Asare MO(2), Junxiang W(1), Yao G(3), Xianjun L(1).
+Author information: (1)College of Chemical and Biological Engineering, Shandong University of Science and Technology, Qingdao, China.
+(2)Department of Ecology, Faculty of Environmental Sciences, Czech University of Life Sciences, Prague, Czech Republic.
+(3)College of Chemistry, Chemical Engineering and Materials Science, Zaozhuang University, Zaozhuang, China.
+The initial cyanide (CN-) concentration and amount of co-contaminants in GCTs can inhibit bacterial growth and reduce the CN--degrading ability of bacteria.
+Several microorganisms can biotransform a wide range of organic and inorganic industrial contaminants into nontoxic compounds.
+However, active enzymatic CN- metabolism processes are mostly constrained by the physical and chemical characteristics of GCTs.
+High concentrations of toxic metal co-contaminants, such as, Pb, and Cr, and factors, such as pH, temperature, and oxygen concentration create oxidative stress and limit the CN--degrading potential of cyanotrophic strains.
+The effects of such external and internal factors on the CN--degrading ability of bacteria hinder the selection of suitable microorganisms for CN- biodegradation.
+Therefore, understanding the effects of the physicochemical properties of GCTs on cyanobacteria strains can help identify suitable microbes and favorable environmental conditions to promote microbial growth and can also help design efficient CN- biodegradation processes.
+In this review, we present a detailed analysis of the physicochemical properties of GCTs and their effects on microbial CN- degradation.
+DOI: 10.1080/10934529.2021.1885259 PMID: 33593243 [Indexed for MEDLINE]
+8.
+Rev Environ Contam Toxicol. 2012;217:75-140.
+doi: 10.1007/978-1-4614-2329-4_2.
+Strategies for chromium bioremediation of tannery effluent.
+Garg SK(1), Tripathi M, Srinath T.
+Author information: (1)Department of Microbiology, Dr. Ram Manohar Lohia Avadh University, Faizabad, India.
+sk_garg001@yahoo.com
+Bioremediation offers the possibility of using living organisms (bacteria, fungi, algae,or plants), but primarily microorganisms, to degrade or remove environmental contaminants, and transform them into nontoxic or less-toxic forms.
+The major advantages of bioremediation over conventional physicochemical and biological treatment methods include low cost, good efficiency, minimization of chemicals, reduced quantity of secondary sludge, regeneration of cell biomass, and the possibility of recover-ing pollutant metals.
+Leather industries, which extensively employ chromium compounds in the tanning process, discharge spent-chromium-laden effluent into nearby water bodies.
+Worldwide, chromium is known to be one of the most common inorganic contaminants of groundwater at pollutant hazardous sites.
+Hexavalent chromium poses a health risk to all forms of life.
+Bioremediation of chromium extant in tannery waste involves different strategies that include biosorption, bioaccumulation,bioreduction, and immobilization of biomaterial(s).
+Biosorption is a nondirected physiochemical interaction that occurs between metal species and the cellular components of biological species.
+It is metabolism-dependent when living biomass is employed, and metabolism-independent in dead cell biomass.
+Dead cell biomass is much more effective than living cell biomass at biosorping heavy metals, including chromium.
+Bioaccumulation is a metabolically active process in living organisms that works through adsorption, intracellular accumulation, and bioprecipitation mechanisms.
+In bioreduction processes, microorganisms alter the oxidation/reduction state of toxic metals through direct or indirect biological and chemical process(es).Bioreduction of Cr6+ to Cr3+ not only decreases the chromium toxicity to living organisms, but also helps precipitate chromium at a neutral pH for further physical removal,thus offering promise as a bioremediation strategy.
+However, biosorption, bioaccumulation, and bioreduction methods that rely on free cells for bioremediation suffer from Cr6 toxicity, and cell damage.
+Therefore, immobilization of microbial cell biomass enhances bioremediation and renders industrial bioremediation processes more economically viable from reduced free-cells toxicity, easier separation of biosorbents from the tannery effluent, ability to achieve multiple biosorption cycles, and desorption (elution) of metal(s) from matrices for reuse.
+Thus, microbial bioremediation can be a cost competitive strategy and beneficial bioresource for removing many hazardous contaminants from tannery and other industrial wastes.
+DOI: 10.1007/978-1-4614-2329-4_2 PMID: 22350558
+[Indexed for MEDLINE]
+9.
+Nature. 2015
+Oct 8;526(7572):164.
+doi: 10.1038/526164a.
+Time to get clean.
+[No authors listed]
+Comment in Nature.
+2015
+Nov 12;527(7577):165.
+doi: 10.1038/527165d.
+Nature. 2015
+Nov 12;527(7577):165.
+doi: 10.1038/527165c.
+DOI: 10.1038/526164a PMID: 26450021
+[Indexed for MEDLINE]
+10.
+Environ Int.
+2009 Jan;35(1):162-77.
+doi: 10.1016/j.envint.2008.07.018.
+Epub 2008 Sep 11.
+Biodegradation potential of the genus Rhodococcus.
+Martínková L(1), Uhnáková B, Pátek M, Nesvera J, Kren V.
+Author information: (1)Centre of Biocatalysis and Biotransformation, Institute of Microbiology, Academy of Sciences of the Czech Republic, Vídenská 1083, CZ-142 20 Prague 4, Czech Republic.
+martinko@biomed.cas.cz
+A large number of aromatic compounds and organic nitriles, the two groups of compounds covered in this review, are intermediates, products, by-products or waste products of the chemical and pharmaceutical industries, agriculture and the processing of fossil fuels.
+The majority of these synthetic substances (xenobiotics) are toxic and their release and accumulation in the environment pose a serious threat to living organisms.
+Bioremediation using various bacterial strains of the genus Rhodococcus has proved to be a promising option for the clean-up of polluted sites.
+The large genomes of rhodococci, their redundant and versatile catabolic pathways, their ability to uptake and metabolize hydrophobic compounds, to form biofilms, to persist in adverse conditions and the availability of recently developed tools for genetic engineering in rhodococci make them suitable industrial microorganisms for biotransformations and the biodegradation of many organic compounds.
+The peripheral and central catabolic pathways in rhodococci are characterized for each type of aromatics (hydrocarbons, phenols, halogenated, nitroaromatic, and heterocyclic compounds) in this review.
+Pathways involved in the hydrolysis of nitrile pollutants (aliphatic nitriles, benzonitrile analogues) and the corresponding enzymes (nitrilase, nitrile hydratase) are described in detail.
+Examples of regulatory mechanisms for the expression of the catabolic genes are given.
+The strains that efficiently degrade the compounds in question are highlighted and examples of their use in biodegradation processes are presented.
+DOI: 10.1016/j.envint.2008.07.018 PMID: 18789530
+[Indexed for MEDLINE]
+11.
+Water Environ Res. 2023 Oct;95(10):e10935.
+doi: 10.1002/wer.10935.
+Biogenic polymer nanoparticles to remove hydrophobic organic contaminants from water.
+Kathalingam A(1), Santhoshkumar P(1), Ramesh S(2), Sivanesan I(3), Kim HS(4).
+Author information: (1)Millimeter-Wave Innovation Technology (MINT) Research Centre, Dongguk University-Seoul, Seoul, Republic of Korea.
+(2)Department of Mechanical, Robotics and Energy Engineering, Dongguk University-Seoul, Seoul, Republic of Korea.
+(3)Department of Bioresources and Food Science, Institute of Natural Science and Agriculture, Konkuk University, Seoul, Republic of Korea.
+(4)Division of Electronics and Electrical Engineering, Dongguk University-Seoul, Seoul, Republic of Korea.
+Soil and water pollution is of significant concern worldwide because of the consequences of environmental degradation and harmful effects on human health.
+Water bodies are very much polluted by various organic and inorganic pollutants by different human activities, including industrial wastes.
+Environmental pollution remains high because of urbanization-induced industrial developments and human lifestyle.
+It accumulates pollutants in the environment including plants and living organisms.
+Even mothers' milk is poisoned because of the uncontrolled, widespread increase in pollution.
+The discharge levels of organic hydrophobic contaminants in the water and soil are increasing rapidly.
+This severe pollution must be remediated to upgrade the environment and ensure the safety of human beings.
+It is vital to eradicate soil and water pollution to guarantee sufficient food and water.
+Different techniques available to remove the pollutants vary according to the type of pollutants.
+Hydrophobic contaminants are more dangerous than heavy metals and other pollutants; they cannot be easily removed, requiring special care.
+Hydrophobic organoxenobiotics released in the environment pose severe contamination in soil and water.
+Therefore, developing efficient and cost-effective processes is necessary to remove hydrophobic contaminants from soil and water.
+With nanoparticle-mediated remediation techniques, the green-synthesized nanoparticles exhibit improved performance.
+This review consolidates reports on the remediation techniques of hydrophobic contaminants, focusing on green-synthesized remediation agents.
+The very limited works on green synthesis of polymeric nanoparticles, particularly polyurethane-based materials for organic contaminants removal demand more attention in this area.
+PRACTITIONER POINTS:
+Consolidated the effects of hydrophobic organic and plastic contaminants on environment degradation.
+Summarized the advantages of green synthesized polymer nanoparticles for efficient removal of hydrophobic contaminants.
+Discussed the different sources of pollution and remediation techniques referring 112 research works.
+© 2023 Water Environment Federation.
+DOI: 10.1002/wer.10935 PMID: 37795743
+[Indexed for MEDLINE]
+12.
+Chemosphere.
+2023 Jan;312(Pt 1):137326.
+doi: 10.1016/j.chemosphere.2022.137326.
+Epub 2022 Nov 18.
+Sustainable production of biosurfactants via valorisation of industrial wastes as alternate feedstocks.
+Carolin C F(1), Senthil Kumar P(2), Mohanakrishna G(3), Hemavathy RV(1), Rangasamy G(4), M Aminabhavi T(5).
+Author information: (1)Department of Biotechnology, Saveetha School of Engineering, SIMATS, Chennai, 602105, India.
+(2)Department of Chemical Engineering, Sri Sivasubramaniya Nadar College of Engineering, Kalavakkam, 603110, Tamil Nadu, India; Centre of Excellence in Water Research (CEWAR), Sri Sivasubramaniya Nadar College of Engineering, Kalavakkam, 603110, Tamil Nadu, India; School of Engineering, Lebanese American University, Byblos, Lebanon.
+Electronic address: senthilkumarp@ssn.edu.in.
+(3)School of Advanced Sciences, KLE Technological University, Hubballi, Karnataka, 580031, India.
+Electronic address: gmohanak@yahoo.com.
+(4)School of Engineering, Lebanese American University, Byblos, Lebanon.
+(5)School of Advanced Sciences, KLE Technological University, Hubballi, Karnataka, 580031, India; University Center for Research & Development (UCRD), Chandigarh University, Gharuan, Mohali, 140413, Panjab, India.
+Globally, the rapid increase in the human population has given rise to a variety of industries, which have produced a variety of wastes.
+Due to their detrimental effects on both human and environmental health, pollutants from industry have taken centre stage among the various types of waste produced.
+The amount of waste produced has therefore increased the demand for effective waste management.
+In order to create valuable chemicals for sustainable waste management, trash must be viewed as valuable addition.
+One of the most environmentally beneficial and sustainable choices is to use garbage to make biosurfactants.
+The utilization of waste in the production of biosurfactant provides lower processing costs, higher availability of feedstock and environmental friendly product along with its characteristics.
+The current review focuses on the use of industrial wastes in the creation of sustainable biosurfactants and discusses how biosurfactants are categorized.
+Waste generation in the fruit industry, agro-based industries, as well as sugar-industry and dairy-based industries is documented.
+Each waste and wastewater are listed along with its benefits and drawbacks.
+This review places a strong emphasis on waste management, which has important implications for the bioeconomy.
+It also offers the most recent scientific literature on industrial waste, including information on the role of renewable feedstock for the production of biosurfactants, as well as the difficulties and unmet research needs in this area.
+Copyright © 2022 Elsevier Ltd.
+All rights reserved.
+DOI: 10.1016/j.chemosphere.2022.137326 PMID: 36410507
+[Indexed for MEDLINE]
+Conflict of interest statement: Declaration of competing interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+13.
+Environ Health Perspect.
+1985 Oct;62:365-71.
+doi: 10.1289/ehp.8562365.
+Toxic compensation bills.
+Congress has demonstrated interest in toxic compensation legislation, but not enough agreement to make significant progress.
+Advocates of reform claim that the legal system is heavily weighed against victims who seek compensation through the courts.
+Proposed reforms include a compensation fund and a cause of action in federal court.
+Critics have questioned whether these changes in the law would represent an improvement.
+Existing income replacement, medical cost reimbursement, and survivor insurance programs largely cover the losses of individuals with chronic disease.
+Thus, the need for an additional compensation is not clear.
+Furthermore, experience with compensation funds such as the Black Lung Fund suggests that political rather than scientific criteria may be used to determine eligibility.
+Finally, under the proposed financing mechanisms the compensation funds that are being debated would not increase incentives for care in the handling of hazardous wastes or toxic substances.
+DOI: 10.1289/ehp.8562365 PMCID: PMC1568718
+PMID: 4085440
+[Indexed for MEDLINE]
+14.
+Bioengineered.
+2021 Dec;12(1):4697-4718.
+doi: 10.1080/21655979.2021.1946631.
+Recovery of resources from industrial wastewater employing electrochemical technologies: status, advancements and perspectives.
+Devda V(1)(2), Chaudhary K(1)(2), Varjani S(1), Pathak B(2), Patel AK(3), Singhania RR(3), Taherzadeh MJ(4), Ngo HH(5), Wong JWC(6), Guo W(5), Chaturvedi P(7).
+Author information: (1)Paryavaran Bhavan, Gujarat Pollution Control Board, Gandhinagar, Gujarat, India.
+(2)School of Environment and Sustainable Development, Central University of Gujarat, Gandhinagar, Gujarat, India.
+(3)Department of Marine Environmental Engineering, National Kaohsiung University of Science and Technology, Kaohsiung City, Taiwan.
+(4)Swedish Centre for Resource Recovery, University of Borås, Borås, Sweden.
+(5)Centre for Technology in Water and Wastewater, School of Civil and Environmental Engineering, University of Technology Sydney, Sydney, NSW, Australia.
+(6)Institute of Bioresource and Agriculture and Department of Biology, Hong Kong Baptist University, Kowloon Tong, Hong Kong, HKSAR.
+(7)Environmental Toxicology Group, Aquatic Toxicology Laboratory, Council of Scientific and Industrial Research-Indian Institute of Toxicology Research (CSIR-IITR), Lucknow, Uttar Pradesh, India.
+In the last two decades, water use has increased at twice the rate of population growth.
+The freshwater resources are getting polluted by contaminants like heavy metals, pesticides, hydrocarbons, organic waste, pathogens, fertilizers, and emerging pollutants.
+Globally more than 80% of the wastewater is released into the environment without proper treatment.
+Rapid industrialization has a dramatic effect on developing countries leading to significant losses to economic and health well-being in terms of toxicological impacts on humans and the environment through air, water, and soil pollution.
+This article provides an overview of physical, chemical, and biological processes to remove wastewater contaminants.
+A physical and/or chemical technique alone appears ineffective for recovering useful resources from wastewater containing complex components.
+There is a requirement for more processes or processes combined with membrane and biological processes to enhance operational efficiency and quality.
+More processes or those that are combined with biological and membrane-based processes are required to enhance operational efficiencies and quality.
+This paper intends to provide an exhaustive review of electrochemical technologies including microbial electrochemical technologies.
+It provides comprehensive information for the recovery of metals, nutrients, sulfur, hydrogen, and heat from industrial effluents.
+This article aims to give detailed information into the advancements in electrochemical processes to energy use, improve restoration performance, and achieve commercialization.
+It also covers bottlenecks and perspectives of this research area.
+DOI: 10.1080/21655979.2021.1946631 PMCID: PMC8806852
+PMID: 34334104
+[Indexed for MEDLINE]
+Conflict of interest statement: No potential conflict of interest was reported by the author(s).
+15.
+J Environ Public Health.
+2014;2014:198574.
+doi: 10.1155/2014/198574.
+Epub 2014 Mar 11.
+Industrially contaminated sites and health.
+Martuzzi M(1), Pasetto R(2), Martin-Olmedo P(3).
+Author information: (1)World Health Organization, Regional Office for Europe, European Centre for Environment and Health, Platz der Vereinten Nationen, 1, 53113 Bonn, Germany.
+(2)Unit of Environmental Epidemiology, Department of Environment and Primary Prevention, Istituto Superiore di Sanità, Viale Regina Elena, 299, 00161 Rome, Italy.
+(3)Escuela Andaluza de Salud Publica, Cuesta del Observatorio 4, 18080 Granada, Spain.
+DOI: 10.1155/2014/198574 PMCID: PMC3967599 PMID: 24803941
+[Indexed for MEDLINE]
+16.
+Environ Res. 2023 Jul 15;229:115881.
+doi: 10.1016/j.envres.2023.115881.
+Epub 2023 Apr 19.
+Management of tannery waste effluents towards the reclamation of clean water using an integrated membrane system: A state-of-the-art review.
+Kumar R(1), Basu A(2), Bishayee B(3), Chatterjee RP(3), Behera M(4), Ang WL(5), Pal P(6), Shah M(7), Tripathy SK(8), Ambika S(9), Janani VA(10), Chakrabortty S(11), Nayak J(12), Jeon BH(13).
+Author information: (1)Department of Earth Resources & Environmental Engineering, Hanyang University, 222-Wangsimni-ro, Seongdong-gu, Seoul, 04763, Republic of Korea.
+(2)School of Sustainability, XIM University, Bhubaneswar, 752050, India.
+(3)EEG Lab, CSIR-Central Mechanical Engineering Research Institute, Durgapur, 713209, West Bengal, India.
+(4)School of Chemical Technology, Kalinga Institute of Industrial Technology, Bhubaneswar, 751024, India.
+(5)Department of Chemical and Process Engineering, Universiti Kebangsaan Malaysia, 43600, UKM Bangi, Selangor Darul Ehsan, Malaysia.
+(6)Department of Chemical Engineering, NIT Durgapur, M.G Avenue, Durgapur, 713209, India.
+(7)Environmental Microbiology Lab, Ankelswar, Gujarat, India.
+(8)School of Chemical Technology, Kalinga Institute of Industrial Technology, Bhubaneswar, 751024, India; School of Biotechnology, Kalinga Institute of Industrial Technology, Bhubaneswar, 751024, India.
+(9)Department of Civil Engineering, Indian Institute of Technology Hyderabad, Telangana, 502285, India.
+(10)Department of Chemical Engineering, Kalasalingam Academy of Research and Education, Tamil Nadu, 626126, India.
+(11)School of Chemical Technology, Kalinga Institute of Industrial Technology, Bhubaneswar, 751024, India; School of Biotechnology, Kalinga Institute of Industrial Technology, Bhubaneswar, 751024, India.
+Electronic address: sankha.chakrabortty@kiitbiotech.ac.in.
+(12)Center for Life Science, Mahindra University, Hyderabad, India.
+Electronic address: nayak.jayato@gmail.com.
+(13)Department of Earth Resources & Environmental Engineering, Hanyang University, 222-Wangsimni-ro, Seongdong-gu, Seoul, 04763, Republic of Korea.
+Electronic address: bhjeon@hanyang.ac.kr.
+Tanning and other leather processing methods utilize a large amount of freshwater, dyes, chemicals, and salts and produce toxic waste, raising questions regarding their environmental sensitivity and eco-friendly nature.
+Total suspended solids, total dissolved solids, chemical oxygen demand, and ions such as chromium, sulfate, and chloride turn tannery wastewater exceedingly toxic for any living species.
+Therefore, it is imperative to treat tannery effluent, and existing plants must be examined and upgraded to keep up with recent technological developments.
+Different conventional techniques to treat tannery wastewater have been reported based on their pollutant removal efficiencies, advantages, and disadvantages.
+Research on photo-assisted catalyst-enhanced deterioration has inferred that both homogeneous and heterogeneous catalysis can be established as green initiatives, the latter being more efficient at degrading organic pollutants.
+However, the scientific community experiences significant problems developing a feasible treatment technique owing to the long degradation times and low removal efficiency.
+Hence, there is a chance for an improved solution to the problem of treating tannery wastewater through the development of a hybrid technology that uses flocculation as the primary treatment, a unique integrated photo-catalyst in a precision-designed reactor as the secondary method, and finally, membrane-based tertiary treatment to recover the spent catalyst and reclaimable water.
+This review gives an understanding of the progressive advancement of a cutting-edge membrane-based system for the management of tanning industrial waste effluents towards the reclamation of clean water.
+Adaptable routes toward sludge disposal and the reviews on techno-economic assessments have been shown in detail, strengthening the scale-up confidence for implementing such innovative hybrid systems.
+Copyright © 2023
+Elsevier Inc.
+All rights reserved.
+DOI: 10.1016/j.envres.2023.115881 PMID: 37084947 [Indexed for MEDLINE]
+Conflict of interest statement: Declaration of competing interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+17.
+Sci Total Environ.
+2024 Nov 15;951:175733.
+doi: 10.1016/j.scitotenv.2024.175733.
+Epub 2024 Aug 23.
+Linking industrial emissions and dietary exposure to human burdens of polychlorinated naphthalenes.
+Yang Y(1), Li C(1), Yang L(2), Zhu H(3), Xie Z(4), Falandysz J(5), Weber R(6), Qin L(1), Liu G(7).
+Author information: (1)State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 100085, PR China; College of Resources and Environment, University of Chinese Academy of Sciences, Beijing 100049, PR China.
+(2)State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 100085, PR China; College of Resources and Environment, University of Chinese Academy of Sciences, Beijing 100049, PR China.
+Electronic address: llyang@rcees.ac.cn.
+(3)Tulane University, 205 Richardson, New Orleans, LA 70118, USA.
+(4)Institute of Coastal Environmental Chemistry, Helmholtz-Zentrum Hereon, Geesthacht 21502, Germany.
+(5)Department of Toxicology, Medical University of Lodz, Muszyńskiego 1, 90-15 Łódź, Poland.
+(6)POPs Environmental Consulting, Schwäbisch Gmünd 73527, Germany.
+(7)State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 100085, PR China; College of Resources and Environment, University of Chinese Academy of Sciences, Beijing 100049, PR China; School of Environment, Hangzhou Institute for Advanced Study, UCAS, Hangzhou 310024, PR China.
+Relationships between toxic pollutant emissions during industrial processes and toxic pollutant dietary intakes and adverse health burdens have not yet been quantitatively clarified.
+Polychlorinated naphthalenes (PCNs) are typical industrial pollutants that are carcinogenic and of increasing concern.
+In this study, we established an interpretable machine learning model for quantifying the contributions of industrial emissions and dietary intakes of PCNs to health effects.
+We used the SHapley Additive exPlanations model to achieve individualized interpretability, enabling us to evaluate the specific contributions of individual feature values towards PCNs concentration levels.
+A strong relationship between PCN dietary intake and body burden was found using a robust large-scale PCN diet survey database for China containing the results of the analyses of 17,280 dietary samples and 4480 breast milk samples.
+Industrial emissions and dietary intake contributed 12 % and 52 %, respectively, of the PCN burden in breast milk.
+The model quantified the contributions of food consumption and industrial emissions to PCN exposure, which will be useful for performing accurate health risk assessments and developing reduction strategies of PCNs.
+Copyright © 2024
+Elsevier B.V. All rights reserved.
+DOI: 10.1016/j.scitotenv.2024.175733 PMID: 39181249
+[Indexed for MEDLINE]
+Conflict of interest statement: Declaration of competing interest The authors declare that they have no actual or potential competing financial interests or personal relationships that could appear to influence the work reported in this study.
+18.
+J Environ Manage. 2015
+Sep 15;161:303-308.
+doi: 10.1016/j.jenvman.2015.05.041.
+Epub 2015 Jul 18.
+Mercury-impacted scrap metal: Source and nature of the mercury.
+Finster ME(1), Raymond MR(2), Scofield MA(3), Smith KP(4).
+Author information: (1)Risk and Infrastructure Science Center (RISC), Global Security Sciences Division (GSS), Argonne National Laboratory, 9700 S. Cass Ave., Lemont, IL, 60439, USA.
+Electronic address: mfinster@anl.gov.
+(2)Environmental Science Division (EVS), Argonne National Laboratory, 9700 S. Cass Ave., Lemont, IL, 60439, USA; Wisconsin Division of Public Health, Bureau of Environmental and Occupational Health, 1 West Wilson Street, Madison, WI 53703, USA.
+(3)Environmental Science Division (EVS), Argonne National Laboratory, 9700 S. Cass Ave., Lemont, IL, 60439, USA; Pacific Crest Environmental, 1531 Bendigo Blvd.
+N., North Bend, WA 98045, USA.
+(4)Environmental Science Division (EVS), Argonne National Laboratory, 9700 S. Cass Ave., Lemont, IL, 60439, USA.
+The reuse and recycling of industrial solid wastes such as scrap metal is supported and encouraged both internationally and domestically, especially when such wastes can be used as substitutes for raw material.
+However, scrap metal processing facilities, such as mini-mills, have been identified as a source of mercury (Hg) emissions in the United States.
+This research aims to better define some of the key issues related to the source and nature of mercury in the scrap metal waste stream.
+Overall, it is difficult to pinpoint the key mercury sources feeding into scrap metal recycling facilities, quantify their associated mercury concentrations, or determine which chemical forms are most significant.
+Potential sources of mercury in scrap metal include mercury switches from discarded vehicles, electronic-based scrap from household appliances and related industrial systems, and Hg-impacted scrap metal from the oil and gas industry.
+The form of mercury associated with scrap metal varies and depends on the source type.
+The specific amount of mercury that can be adsorbed and retained by steel appears to be a function of both metallurgical and environmental factors.
+In general, the longer the steel is in contact with a fluid or condensate that contains measurable concentrations of elemental mercury, the greater the potential for mercury accumulation in that steel.
+Most mercury compounds are thermally unstable at elevated temperatures (i.e., above 350 °C).
+As such, the mercury associated with impacted scrap is expected to be volatilized out of the metal when it is heated during processing (e.g., shredding or torch cutting) or melted in a furnace.
+This release of fugitive gas (Hg vapor) and particulates, as well as Hg-impacted bag-house dust and control filters, could potentially pose an occupational exposure risk to workers at a scrap metal processing facility.
+Thus, identifying and characterizing the key sources of Hg-impacted scrap, and understanding the nature and extent of associated releases, represent a practical research need that is essential for improving the environmental management of Hg-impacted scrap and assessing measures to protect workers from potential health and safety hazards that might be posed by mercury and Hg-impacted scrap.
+Copyright © 2015 Elsevier Ltd.
+All rights reserved.
+DOI: 10.1016/j.jenvman.2015.05.041 PMID: 26197424
+[Indexed for MEDLINE]
+19.
+Chemosphere.
+2023 Dec;344:140429.
+doi: 10.1016/j.chemosphere.2023.140429.
+Epub 2023 Oct 11.
+Insight into the impact of industrial waste co-disposal with MSW on groundwater contamination at the open solid waste dumping sites.
+Zhang Z(1), Zhou D(1), He J(1), He Y(1), Yu C(1), Long Y(2), Shen D(2), Yao J(3), Chen H(4).
+Author information: (1)Engineering Technology Center for Pollution Prevention and Control of Taizhou, Taizhou University, Jiaojiang, 318000, China.
+(2)Zhejiang Provincial Key Laboratory of Solid Waste Treatment and Recycling, Zhejiang Gongshang University, Hangzhou, 310018, China.
+(3)Engineering Technology Center for Pollution Prevention and Control of Taizhou, Taizhou University, Jiaojiang, 318000, China.
+Electronic address: yizaghi@126.com.
+(4)Engineering Technology Center for Pollution Prevention and Control of Taizhou, Taizhou University, Jiaojiang, 318000, China.
+Electronic address: chenhui87@tzc.edu.cn.
+Due to the lack of normalized management, industrial waste is often co-disposed at open solid waste dumping sites, which could aggravate the groundwater pollution.
+In this study, 5 practical open solid waste dumping sites dealing with municipal solid wastes (MSW) (2 of 5) and industrial wastes mixed with MSW (3 of 5) were chosen to investigate the effect of waste co-disposal on the groundwater contamination.
+The industrial waste was mainly from rubber production, leather production, machinery industry, pharmaceutical industry and plastic production.
+3 to 6 groundwater wells were excavated from each dumping site and 148 indices were analyzed, including regular chemicals, heavy metals, biological pollutants, volatile organic compounds (VOCs), semi-volatile organic compounds (SVOCs) and pesticide residues.
+Nemerow index analysis showed that 5 indices were severely polluted in the groundwater from every industrial waste co-disposal landfill, while only 0 and 1 severely polluted index was found for the two MSW landfill, respectively.
+The principal component analysis (PCA) analysis indicated that 2 biological pollutant (plate-counting bacteria (TPB) and total coliforms (TCs)), 4 chemical pollutants (permanganate index, ammonia, S2- and petroleum) were closely connected with the disposal of industrial waste.
+Besides, co-disposal of industrial waste also brought in series of PAHs and dichloromethane, with di(2-ethylhexyl)phthalate exceeding the standard limit (10.5 mg L-1).
+Attention should be paid to TPB and TCs, whose maximal concentrations exceeded the standard limit by extraordinary 3200 and 1600 times, respectively.
+The distribution pattern of the pollutants showed that the biological pollutants at the downstream area, and chemical pollutants at the leakage points exhibited the highest concentration, which indicated the downstream area and seepage points should be specially concerned for the industry waste co-disposed dumping sites.
+Copyright © 2023 Elsevier Ltd.
+All rights reserved.
+DOI: 10.1016/j.chemosphere.2023.140429 PMID: 37832883
+[Indexed for MEDLINE]
+Conflict of interest statement: Declaration of competing interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+20.
+Environ Sci Process Impacts.
+2014 Jul;16(7):1779-89.
+doi: 10.1039/c4em00034j.
+Identification of specific organic contaminants in different units of a chemical production site.
+Dsikowitzky L(1), Botalova O, al Sandouk-Lincke NA, Schwarzbauer J.
+Author information: (1)Institute of Geology and Geochemistry of Petroleum and Coal, RWTH Aachen University, Lochnerstrasse 4-20, 52056
+Aachen, Germany.
+loga-pub@emr.rwth-aachen.de.
+Due to the very limited number of studies dealing with the chemical composition of industrial wastewaters, many industrial organic contaminants still escape our view and consequently also our control.
+We present here the chemical characterization of wastewaters from different units of a chemical complex, thereby contributing to the characterization of industrial pollution sources.
+The chemicals produced in the investigated complex are widely and intensively used and the synthesis processes are common and applied worldwide.
+The chemical composition of untreated and treated wastewaters from the chemical complex was investigated by applying a non-target screening which allowed for the identification of 39 organic contaminants.
+According to their application most of them belonged to four groups: (i) unspecific educts or intermediates of industrial syntheses, (ii) chemicals for the manufacturing of pharmaceuticals, (iii) educts for the synthesis of polymers and resins, and (iv) compounds known as typical constituents of municipal sewage.
+A number of halogenated compounds with unknown toxicity and with very high molecular diversity belonged to the second group.
+Although these compounds were completely removed or degraded during wastewater treatment, they could be useful as "alarm indicators" for industrial accidents in pharmaceutical manufacturing units or for malfunctions of wastewater treatment plants.
+Three potential branch-specific indicators for polymer manufacturing were found in the outflow of the complex.
+Among all compounds, bisphenol A, which was present in the leachate water of the on-site waste deposit, occurred in the highest concentrations of up to 20 000 μg L(-1).
+The comparison of contaminant loads in the inflow and outflow of the on-site wastewater treatment facility showed that most contaminants were completely or at least significantly removed or degraded during the treatment, except two alkylthiols, which were enriched during the treatment process.
+The chemical composition of the inflow samples showed a very heterogenic composition and strongly varied, reflecting that large scale industrial synthesis is carried out in batches.
+The outflow contained mainly unspecific chlorinated educts or intermediates of industrial syntheses as well as compounds which are known as typical constituents of municipal wastewaters.
+DOI: 10.1039/c4em00034j PMID: 24840322 [Indexed for MEDLINE]
+21.
+J Chromatogr A. 2009 Jan 16;1216(3):598-612.
+doi: 10.1016/j.chroma.2008.08.012.
+Epub 2008 Aug 12.
+Industrial contaminants in Antarctic biota.
+Author information: (1)Department of Environmental Science
+"G. Sarfatti", University of Siena, via P.A. Mattioli 4, I-53100 Siena, Italy. corsolini@unisi.it
+A critical review of the levels and patterns of industrial contaminants in biota from Antarctica and the Southern Ocean revealed that concentrations are low with respect to other regions of the world, although in some specimens/species (e.g. leopard seal, some invertebrates) they are occasionally high and comparable to those found in regions with a strong human impact; the highest levels of persistent organic pollutants (POPs) were detected in the vicinity of scientific stations.
+Bioconcentration prevails at the lower trophic levels of pelagic food webs, while biomagnification can become the main route of contamination at higher levels.
+In a benthic food web, biomagnification poses a major risk for organisms that accumulate lipids to overwinter, compared to those that accumulate glycogen.
+Hexachlorobenzene, DDTs and chlordanes showed similar concentrations and patterns in the 1980s-1990s period in organisms from Western and Eastern Antarctica, while the polychlorinated biphenyls time trend was different in a variety of species from the two regions.
+DOI: 10.1016/j.chroma.2008.08.012 PMID: 18723171
+[Indexed for MEDLINE]
+22.
+Waste Manag Res. 2020
+May;38(5):487-513.
+doi: 10.1177/0734242X20904426.
+Epub 2020 Feb 22.
+Valorization of agro-industry residues in the building and environmental sector: A review.
+Ricciardi P(1), Cillari G(1), Carnevale Miino M(1), Collivignarelli MC(1).
+Author information: (1)Department of Civil Engineering and Architecture, University of Pavia, Italy.
+Environmental pollution has become a relevant issue as the population rises and resources decrease.
+Reuse and recycling still have the greatest potential as they turn the waste into a new resource, representing the 'closed-loop' step of a circular economy (CE).
+Looking for new applications for agro-industry waste represents both an environmental issue, as its incorrect disposal is a cause of pollution, and a chance to exploit zero-cost natural wastes.
+The present review, with around 200 articles examined, focuses on possible reuses of these residues in (a) building construction, as additives to produce thermal and acoustic insulation panels, and (b) in water treatments, exploited for removal of pollutants.
+The selected materials (coconut, coffee, corn, cotton and rice) have industry production wastes with suitable applications in both sectors and huge worldwide availability; their reuse may thus represent a new resource, with an impact based on the production rate and the possible replacement of current inorganic materials.
+Along with possible implementation of the selected materials in the building industry and environmental engineering, a brief description of the production and supply chain are provided.
+DOI: 10.1177/0734242X20904426 PMID: 32089127 [Indexed for MEDLINE]
+23.
+Environ Res. 2022 Nov;214(Pt 2):113890.
+doi: 10.1016/j.envres.2022.113890.
+Epub 2022 Jul 20.
+Can electrocoagulation technology be integrated with wastewater treatment systems to improve treatment efficiency?
+AlJaberi FY(1), Alardhi SM(2), Ahmed SA(3), Salman AD(4), Juzsakova T(5), Cretescu I(6), Le PC(7), Chung WJ(8), Chang SW(8), Nguyen DD(9).
+Author information: (1)Chemical Engineering Department, College of Engineering, Al-Muthanna University, Al-Muthanna, Iraq.
+(2)Nanotechnology and Advanced Materials Research Center, University of Technology, Baghdad, Iraq.
+(3)Chemical Engineering Department, College of Engineering, University of Baghdad, Baghdad, Iraq.
+(4)Research Group for Surfaces and Nanostructures, University of Pannonia, Veszprém, Hungary; Department of Chemical and Petroleum Refining Engineering, College of Oil and Gas Engineering, Basra University, Iraq.
+(5)Research Group for Surfaces and Nanostructures, University of Pannonia,
