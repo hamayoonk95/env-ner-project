@@ -102,20 +102,33 @@ Other models are optional and stored externally to reduce file size.
 
 By default, the project runs on CPU (`--gpu-id -1` in SpaCy training commands).  
 
-If you want to enable GPU acceleration:
+### 1. CPU (Default)
+No changes needed.  
+Dependencies are installed from `requirements.txt`, which uses the CPU-only version of PyTorch.  
 
-1. Install PyTorch with CUDA support (adjust version and CUDA build if needed):
+### 2. NVIDIA GPU
+If you have an NVIDIA GPU and want to enable acceleration:  
+
+1. Install GPU requirements from the separate file:  
 
     ```bash
-    pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+    pip install -r requirements-gpu.txt
     ```
 
-2. Update SpaCy training commands in `05_spacy_models.ipynb` and `06_evaluation.ipynb`:
-    - change `--gpu-id -1` → `--gpu-id 0`
+   (This file points to the official CUDA-enabled PyTorch wheels.  
+   Adjust the CUDA version if needed — see [PyTorch install guide](https://pytorch.org/get-started/locally/).)  
 
-3. Verify GPU is detected:
+2. Update SpaCy training commands in `05_spacy_models.ipynb` and `06_evaluation.ipynb`:  
+   - change `--gpu-id -1` → `--gpu-id 0`  
+
+3. Verify GPU is detected:  
 
     ```python
     import torch
     print(torch.cuda.is_available())  # should return True
     ```
+
+### 3. AMD or Apple Silicon GPUs
+PyTorch provides alternative backends (ROCm for AMD on Linux, MPS for Apple Silicon).  
+These are **not included in this repository**.  
+If you are on AMD/Apple hardware, follow the [official PyTorch install docs](https://pytorch.org/get-started/locally/) to set up the correct build.
