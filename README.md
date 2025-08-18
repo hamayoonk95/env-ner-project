@@ -98,21 +98,22 @@ The following models are already included in the repository:
 
 Other models are optional and stored externally to reduce file size.
 
-## Running on GPU (Optional)
+## GPU Support (Optional)
 
-By default, this project uses CPU to ensure compatibility. All training commands set `--gpu-id -1` in SpaCy.
+By default, the project runs on CPU (`--gpu-id -1` in SpaCy training commands).  
 
-If you want to run on GPU:
+If you want to enable GPU:
 
-1. Install compatible PyTorch version with CUDA:
-```
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-```
+1. Install GPU requirements.
 
-3. Change `--gpu-id -1` to `--gpu-id 0` in training commands in 05_spacy_models and 06_evaluation notebooks
+    `pip install -r requirements.txt`
 
-4. Verify GPU usage with:
-```
-import torch
-print(torch.cuda.is_available())
-```
+2. Update SpaCy training commands in `05_spacy_models.ipynb` and `06_evaluation.ipynb`:
+    - change `--gpu-id -1` → `--gpu-id 0`
+
+3. Verify GPU is detected:
+
+    ```python
+    import torch
+    print(torch.cuda.is_available())
+    ```
