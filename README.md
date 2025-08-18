@@ -102,6 +102,7 @@ Other models are optional and stored externally to reduce file size.
 
 By default, the project runs on CPU (`--gpu-id -1` in SpaCy training commands).  
 
+
 If you want to enable GPU acceleration:
 
 1. Install PyTorch with CUDA support (adjust version and CUDA build if needed):
