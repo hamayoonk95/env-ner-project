@@ -102,11 +102,13 @@ Other models are optional and stored externally to reduce file size.
 
 By default, the project runs on CPU (`--gpu-id -1` in SpaCy training commands).  
 
-If you want to enable GPU:
+If you want to enable GPU acceleration:
 
-1. Install GPU requirements.
+1. Install PyTorch with CUDA support (adjust version and CUDA build if needed):
 
-    `pip install -r requirements.txt`
+    ```bash
+    pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+    ```
 
 2. Update SpaCy training commands in `05_spacy_models.ipynb` and `06_evaluation.ipynb`:
     - change `--gpu-id -1` → `--gpu-id 0`
@@ -115,5 +117,5 @@ If you want to enable GPU:
 
     ```python
     import torch
-    print(torch.cuda.is_available())
+    print(torch.cuda.is_available())  # should return True
     ```
